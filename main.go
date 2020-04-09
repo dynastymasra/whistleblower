@@ -6,6 +6,8 @@ import (
 	"os/signal"
 	"syscall"
 
+	"github.com/dynastymasra/whistleblower/infrastructure/web"
+
 	"github.com/dynastymasra/whistleblower/console"
 	"github.com/urfave/cli/v2"
 	"gopkg.in/tylerb/graceful.v1"
@@ -49,6 +51,10 @@ func main() {
 		webServer := &graceful.Server{
 			Timeout: 0,
 		}
+
+		router := web.NewRouter(config.ServerPort(), config.ServiceName, db)
+
+		go web.Run(webServer, router)
 
 		select {
 		case sig := <-stop:

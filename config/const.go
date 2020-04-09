@@ -7,15 +7,12 @@ const (
 	// Service envar
 	envServerPort = "SERVER_PORT"
 
-	// Headers
-	HeaderRequestID = "X-Request-ID"
-
 	// Database EnvVar
-	envPostgresHost        = "POSTGRES_HOST"
-	envPostgresName        = "POSTGRES_NAME"
+	envPostgresAddress     = "POSTGRES_ADDRESS"
+	envPostgresName        = "POSTGRES_DATABASE"
 	envPostgresUsername    = "POSTGRES_USERNAME"
 	envPostgresPassword    = "POSTGRES_PASSWORD"
-	envPostgresEnableLog   = "POSTGRES_ENABLE_LOG"
+	envPostgresLogEnable   = "POSTGRES_LOG_ENABLED"
 	envPostgresMaxOpenConn = "POSTGRES_MAX_OPEN_CONN"
 	envPostgresMaxIdleConn = "POSTGRES_MAX_IDLE_CONN"
 

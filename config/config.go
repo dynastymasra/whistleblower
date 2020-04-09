@@ -42,12 +42,12 @@ func Load() {
 		},
 		postgres: provider.Postgres{
 			DatabaseName: getString(envPostgresName),
-			Address:      getString(envPostgresHost),
+			Address:      getString(envPostgresAddress),
 			Username:     getString(envPostgresUsername),
 			Password:     getString(envPostgresPassword),
 			MaxIdleConn:  getInt(envPostgresMaxIdleConn),
 			MaxOpenConn:  getInt(envPostgresMaxOpenConn),
-			LogEnabled:   getBool(envPostgresEnableLog),
+			LogEnabled:   getBool(envPostgresLogEnable),
 		},
 	}
 }
