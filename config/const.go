@@ -3,7 +3,6 @@ package config
 const (
 	ServiceName = "Whistleblower"
 	Version     = "1.0.0"
-	RequestID   = "request_id"
 
 	// Service envar
 	envServerPort = "SERVER_PORT"

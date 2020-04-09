@@ -22,7 +22,7 @@ func Ping(db *gorm.DB) http.HandlerFunc {
 			log.WithError(err).Errorln("Failed ping postgres")
 
 			w.WriteHeader(http.StatusInternalServerError)
-			fmt.Fprintf(w, cookbook.ErrorResponse(err.Error(), "").Stringify())
+			fmt.Fprintf(w, cookbook.ErrorResponse(err.Error(), r.Context().Value(cookbook.RequestID).(string)).Stringify())
 			return
 		}
 
