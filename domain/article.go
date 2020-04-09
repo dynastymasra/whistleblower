@@ -12,6 +12,7 @@ type (
 
 	Viewer struct {
 		ID        string     `json:"id" validate:"required" gorm:"column:id"`
+		ArticleID string     `json:"id" validate:"required" gorm:"column:article_id"`
 		CreatedAt *time.Time `json:"created_at" gorm:"column:created_at"`
 	}
 )
