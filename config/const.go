@@ -13,7 +13,6 @@ const (
 
 	// Database EnvVar
 	envPostgresHost        = "POSTGRES_HOST"
-	envPostgresPort        = "POSTGRES_PORT"
 	envPostgresName        = "POSTGRES_NAME"
 	envPostgresUsername    = "POSTGRES_USERNAME"
 	envPostgresPassword    = "POSTGRES_PASSWORD"

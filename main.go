@@ -25,4 +25,10 @@ func main() {
 	})
 
 	log.Infoln("Prepare start service")
+
+	db, err := config.Postgres().Client()
+	if err != nil {
+		log.WithError(err).Fatalln("Failed connect to postgres")
+	}
+
 }
