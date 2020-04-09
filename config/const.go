@@ -5,6 +5,9 @@ const (
 	Version     = "1.0.0"
 	RequestID   = "request_id"
 
+	// Service envar
+	envServerPort = "SERVER_PORT"
+
 	// Headers
 	HeaderRequestID = "X-Request-ID"
 
@@ -18,6 +21,6 @@ const (
 	envPostgresMaxOpenConn = "POSTGRES_MAX_OPEN_CONN"
 	envPostgresMaxIdleConn = "POSTGRES_MAX_IDLE_CONN"
 
-	envLoggerFormat = "LOGGER_FORMAT"
-	envLogLevel     = "LOG_LEVEL"
+	envLogFormat = "LOG_FORMAT"
+	envLogLevel  = "LOG_LEVEL"
 )
