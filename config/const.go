@@ -18,4 +18,10 @@ const (
 
 	envLogFormat = "LOG_FORMAT"
 	envLogLevel  = "LOG_LEVEL"
+
+	// Table names
+	ArticleTableName   = "articles"
+	ViewerTableName    = "viewers"
+	CreatedAtFieldName = "created_at"
+	UpdatedAtFieldName = "updated_at"
 )
