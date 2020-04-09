@@ -1,6 +1,12 @@
 package main
 
-import "github.com/dynastymasra/whistleblower/config"
+import (
+	"os"
+	"os/signal"
+	"syscall"
+
+	"github.com/dynastymasra/whistleblower/config"
+)
 
 func init() {
 	config.Load()
@@ -8,5 +14,6 @@ func init() {
 }
 
 func main() {
-
+	stop := make(chan os.Signal)
+	signal.Notify(stop, syscall.SIGTERM, syscall.SIGINT)
 }
