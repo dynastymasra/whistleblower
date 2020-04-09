@@ -6,18 +6,15 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	uuid "github.com/satori/go.uuid"
-
-	"github.com/dynastymasra/whistleblower/domain"
-
 	"github.com/dynastymasra/cookbook"
+	"github.com/dynastymasra/whistleblower/domain"
+	"github.com/dynastymasra/whistleblower/viewer"
+	uuid "github.com/satori/go.uuid"
 	"github.com/sirupsen/logrus"
-
-	"github.com/dynastymasra/whistleblower/article"
 )
 
 // TODO: simple http handler add instrumentation
-func CreateArticle(service article.Service) http.HandlerFunc {
+func CountViewer(repo viewer.Repository) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Content-Type", "application/json")
 
@@ -27,7 +24,7 @@ func CreateArticle(service article.Service) http.HandlerFunc {
 			cookbook.RequestID: requestID,
 		})
 
-		var model domain.Article
+		var model domain.Viewer
 
 		body, err := ioutil.ReadAll(r.Body)
 		if err != nil {
@@ -50,16 +47,13 @@ func CreateArticle(service article.Service) http.HandlerFunc {
 			model.ID = uuid.NewV4().String()
 		}
 
-		res, err := service.Create(r.Context(), model)
-		if err != nil {
-			log.WithError(err).WithField("article", model).Errorln("Failed create new data")
+		go func(v domain.Viewer) {
+			if err := repo.Create(r.Context(), v); err != nil {
+				log.WithError(err).WithField("viewer", model).Errorln("Failed create new data")
+			}
+		}(model)
 
-			w.WriteHeader(http.StatusInternalServerError)
-			fmt.Fprint(w, cookbook.ErrorResponse(err.Error(), requestID).Stringify())
-			return
-		}
-
-		w.WriteHeader(http.StatusCreated)
-		fmt.Fprint(w, cookbook.SuccessDataResponse(&cookbook.JSON{"article": res}, nil).Stringify())
+		w.WriteHeader(http.StatusOK)
+		fmt.Fprint(w, cookbook.SuccessResponse().Stringify())
 	}
 }
