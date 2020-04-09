@@ -6,6 +6,8 @@ import (
 	"os/signal"
 	"syscall"
 
+	"github.com/dynastymasra/whistleblower/article"
+
 	"github.com/dynastymasra/whistleblower/infrastructure/web"
 
 	"github.com/dynastymasra/whistleblower/console"
@@ -43,6 +45,12 @@ func main() {
 		log.WithError(err).Fatalln("Failed run migration")
 	}
 
+	// Initialize repository
+	articleRepo := article.NewRepository(db)
+
+	// Initialize service
+	articleService := article.NewService(articleRepo)
+
 	clientApp := cli.NewApp()
 	clientApp.Name = config.ServiceName
 	clientApp.Version = config.Version
@@ -52,7 +60,7 @@ func main() {
 			Timeout: 0,
 		}
 
-		router := web.NewRouter(config.ServerPort(), config.ServiceName, db)
+		router := web.NewRouter(config.ServerPort(), config.ServiceName, db, articleService, articleRepo)
 
 		go web.Run(webServer, router)
 

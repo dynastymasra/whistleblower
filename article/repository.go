@@ -29,24 +29,24 @@ func NewRepository(db *gorm.DB) *RepositoryInstance {
 }
 
 // TODO: Add instrumentation to monitor performance (Newrelic, StatsD)
-func (a RepositoryInstance) Create(ctx context.Context, article domain.Article) error {
-	return a.db.Table(a.TableName).Omit(config.CreatedAtFieldName, config.UpdatedAtFieldName).Create(&article).Error
+func (r RepositoryInstance) Create(ctx context.Context, article domain.Article) error {
+	return r.db.Table(r.TableName).Create(&article).Error
 }
 
-func (a RepositoryInstance) Find(ctx context.Context, filter map[string]interface{}) (*domain.Article, error) {
-	var result *domain.Article
+func (r RepositoryInstance) Find(ctx context.Context, query map[string]interface{}) (*domain.Article, error) {
+	var result domain.Article
 
-	if err := a.db.Table(a.TableName).First(&result, filter).Error; err != nil {
+	if err := r.db.Table(r.TableName).First(&result, query).Error; err != nil {
 		return nil, err
 	}
 
-	return result, nil
+	return &result, nil
 }
 
-func (a RepositoryInstance) FindAll(ctx context.Context, filter map[string]interface{}) ([]*domain.Article, error) {
+func (r RepositoryInstance) FindAll(ctx context.Context, filter map[string]interface{}) ([]*domain.Article, error) {
 	var result []*domain.Article
 
-	if err := a.db.Table(a.TableName).Where(filter).Find(&result).Error; err != nil {
+	if err := r.db.Table(r.TableName).Where(filter).Find(&result).Error; err != nil {
 		return nil, err
 	}
 

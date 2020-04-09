@@ -4,6 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/dynastymasra/whistleblower/article"
+	articleHTTPHandler "github.com/dynastymasra/whistleblower/article/handler/http"
+
 	"github.com/dynastymasra/cookbook"
 	"github.com/dynastymasra/cookbook/negroni/middleware"
 	"github.com/dynastymasra/whistleblower/infrastructure/web/handler"
@@ -15,16 +18,20 @@ import (
 const DefaultResponseNotFound = "the requested resource doesn't exists"
 
 type RouterInstance struct {
-	port string
-	name string
-	db   *gorm.DB
+	port           string
+	name           string
+	db             *gorm.DB
+	articleService article.Service
+	articleRepo    article.Repository
 }
 
-func NewRouter(port, name string, db *gorm.DB) *RouterInstance {
+func NewRouter(port, name string, db *gorm.DB, service article.Service, repo article.Repository) *RouterInstance {
 	return &RouterInstance{
-		port: port,
-		name: name,
-		db:   db,
+		port:           port,
+		name:           name,
+		db:             db,
+		articleService: service,
+		articleRepo:    repo,
 	}
 }
 
@@ -60,12 +67,16 @@ func (r *RouterInstance) Router() *mux.Router {
 		negroni.WrapFunc(handler.Ping(r.db)),
 	)).Methods(http.MethodGet, http.MethodHead)
 
-	subRouter := router.PathPrefix("/v1/").Subrouter().UseEncodedPath()
+	articleRouter := router.PathPrefix("/v1/").Subrouter().UseEncodedPath()
 	commonHandlers.Use(middleware.LogrusLog(r.name))
 
-	subRouter.Handle("/ping", commonHandlers.With(
-		negroni.WrapFunc(handler.Ping(r.db)),
-	)).Methods(http.MethodGet, http.MethodHead)
+	articleRouter.Handle("/articles", commonHandlers.With(
+		negroni.WrapFunc(articleHTTPHandler.CreateArticle(r.articleService)),
+	)).Methods(http.MethodPost)
+
+	articleRouter.Handle("/articles", commonHandlers.With(
+		negroni.WrapFunc(articleHTTPHandler.FindAllArticle(r.articleRepo)),
+	)).Methods(http.MethodGet)
 
 	return router
 }
