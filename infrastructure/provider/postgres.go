@@ -52,6 +52,17 @@ func Ping(db *gorm.DB) error {
 	return db.DB().Ping()
 }
 
+func Close(db *gorm.DB) error {
+	if db == nil {
+		return errors.New("does't have database data")
+	}
+	return db.DB().Close()
+}
+
+func Reset() {
+	runOnce.Reset()
+}
+
 type Query struct {
 	Model     string
 	Limit     int
