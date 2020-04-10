@@ -39,9 +39,7 @@ func (r RepositoryInstance) FindAll(ctx context.Context, filter *provider.Query)
 	db := r.db.Table(r.TableName)
 	db = provider.TranslateQuery(db, filter)
 
-	if err := db.Find(&result).Error; err != nil {
-		return nil, err
-	}
+	err := db.Find(&result).Error
 
-	return result, nil
+	return result, err
 }
