@@ -18,6 +18,6 @@ func (m *MockViewerRepository) Create(ctx context.Context, viewer domain.Viewer)
 }
 
 func (m *MockViewerRepository) FindAll(ctx context.Context, query *provider.Query) ([]*domain.Viewer, error) {
-	args := m.Called(ctx, query)
+	args := m.Called(ctx)
 	return args.Get(0).([]*domain.Viewer), args.Error(1)
 }
