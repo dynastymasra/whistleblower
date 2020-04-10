@@ -6,6 +6,8 @@ import (
 	"os/signal"
 	"syscall"
 
+	"github.com/dynastymasra/whistleblower/viewer"
+
 	"github.com/dynastymasra/whistleblower/article"
 
 	"github.com/dynastymasra/whistleblower/infrastructure/web"
@@ -47,9 +49,11 @@ func main() {
 
 	// Initialize repository
 	articleRepo := article.NewRepository(db)
+	viewerRepo := viewer.NewRepository(db)
 
 	// Initialize service
 	articleService := article.NewService(articleRepo)
+	viewerService := viewer.NewService(viewerRepo)
 
 	clientApp := cli.NewApp()
 	clientApp.Name = config.ServiceName
@@ -60,7 +64,7 @@ func main() {
 			Timeout: 0,
 		}
 
-		router := web.NewRouter(config.ServerPort(), config.ServiceName, db, articleService, articleRepo)
+		router := web.NewRouter(config.ServerPort(), config.ServiceName, db, articleService, articleRepo, viewerService, viewerRepo)
 
 		go web.Run(webServer, router)
 

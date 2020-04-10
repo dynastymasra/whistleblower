@@ -4,8 +4,11 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/dynastymasra/whistleblower/viewer"
+	viewerHandler "github.com/dynastymasra/whistleblower/viewer/handler/http"
+
 	"github.com/dynastymasra/whistleblower/article"
-	articleHTTPHandler "github.com/dynastymasra/whistleblower/article/handler/http"
+	articleHandler "github.com/dynastymasra/whistleblower/article/handler/http"
 
 	"github.com/dynastymasra/cookbook"
 	"github.com/dynastymasra/cookbook/negroni/middleware"
@@ -23,15 +26,22 @@ type RouterInstance struct {
 	db             *gorm.DB
 	articleService article.Service
 	articleRepo    article.Repository
+	viewerService  viewer.Service
+	viewerRepo     viewer.Repository
 }
 
-func NewRouter(port, name string, db *gorm.DB, service article.Service, repo article.Repository) *RouterInstance {
+// TODO: move all instance to new struct if params is too long
+func NewRouter(port, name string, db *gorm.DB,
+	articleService article.Service, articleRepo article.Repository,
+	viewerService viewer.Service, viewerRepo viewer.Repository) *RouterInstance {
 	return &RouterInstance{
 		port:           port,
 		name:           name,
 		db:             db,
-		articleService: service,
-		articleRepo:    repo,
+		articleService: articleService,
+		articleRepo:    articleRepo,
+		viewerService:  viewerService,
+		viewerRepo:     viewerRepo,
 	}
 }
 
@@ -71,11 +81,21 @@ func (r *RouterInstance) Router() *mux.Router {
 	commonHandlers.Use(middleware.LogrusLog(r.name))
 
 	articleRouter.Handle("/articles", commonHandlers.With(
-		negroni.WrapFunc(articleHTTPHandler.CreateArticle(r.articleService)),
+		negroni.WrapFunc(articleHandler.CreateArticle(r.articleService)),
 	)).Methods(http.MethodPost)
 
 	articleRouter.Handle("/articles", commonHandlers.With(
-		negroni.WrapFunc(articleHTTPHandler.FindAllArticle(r.articleRepo)),
+		negroni.WrapFunc(articleHandler.FindAllArticle(r.articleRepo)),
+	)).Methods(http.MethodGet)
+
+	statisticRouter := router.PathPrefix("/counter/v1/").Subrouter().UseEncodedPath()
+
+	statisticRouter.Handle("/statistics", commonHandlers.With(
+		negroni.WrapFunc(viewerHandler.CountViewer(r.viewerRepo)),
+	)).Methods(http.MethodPost)
+
+	statisticRouter.Handle("/statistics/article_id/{article_id}", commonHandlers.With(
+		negroni.WrapFunc(viewerHandler.StatisticCountHandler(r.viewerService)),
 	)).Methods(http.MethodGet)
 
 	return router

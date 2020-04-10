@@ -13,6 +13,13 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
+type requestBody struct {
+	Data struct {
+		ID        string `json:"id,omitempty"`
+		ArticleID string `json:"article_id"`
+	} `json:"data"`
+}
+
 // TODO: simple http handler add instrumentation
 func CountViewer(repo viewer.Repository) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
@@ -24,7 +31,7 @@ func CountViewer(repo viewer.Repository) http.HandlerFunc {
 			cookbook.RequestID: requestID,
 		})
 
-		var model domain.Viewer
+		var model requestBody
 
 		body, err := ioutil.ReadAll(r.Body)
 		if err != nil {
@@ -43,17 +50,26 @@ func CountViewer(repo viewer.Repository) http.HandlerFunc {
 			return
 		}
 
-		if _, err := uuid.FromString(model.ID); err != nil {
-			model.ID = uuid.NewV4().String()
+		if _, err := uuid.FromString(model.Data.ID); err != nil {
+			model.Data.ID = uuid.NewV4().String()
 		}
 
 		go func(v domain.Viewer) {
 			if err := repo.Create(r.Context(), v); err != nil {
 				log.WithError(err).WithField("viewer", model).Errorln("Failed create new data")
 			}
-		}(model)
+		}(domain.Viewer{
+			ID:        model.Data.ID,
+			ArticleID: model.Data.ArticleID,
+		})
+
+		res := &cookbook.JSON{
+			"data": cookbook.JSON{
+				"article_id": model.Data.ArticleID,
+			},
+		}
 
 		w.WriteHeader(http.StatusOK)
-		fmt.Fprint(w, cookbook.SuccessResponse().Stringify())
+		fmt.Fprint(w, cookbook.Stringify(res))
 	}
 }

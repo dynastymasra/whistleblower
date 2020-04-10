@@ -13,7 +13,7 @@ import (
 var ()
 
 type Service interface {
-	Statistic(context.Context, *provider.Query) ([]*cookbook.JSON, error)
+	Statistic(context.Context, *provider.Query) (*cookbook.JSON, error)
 }
 
 type ServiceInstance struct {
@@ -37,7 +37,7 @@ func (s ServiceInstance) Statistic(ctx context.Context, query *provider.Query) (
 	fiveDaysAgo := now.AddDate(0, 0, -5)
 
 	filter := query.Ordering(config.CreatedAtFieldName, provider.Descending)
-	filter = query.Filter(config.CreatedAtFieldName, provider.GreaterThanEqual, fiveDaysAgo)
+	query.Filter(config.CreatedAtFieldName, provider.GreaterThanEqual, fiveDaysAgo)
 
 	res, err := s.repo.FindAll(ctx, filter)
 	if err != nil {
@@ -53,15 +53,15 @@ func (s ServiceInstance) Statistic(ctx context.Context, query *provider.Query) (
 
 	for _, viewer := range res {
 		createdAt := viewer.CreatedAt
-		if createdAt.After(fiveMinutesAgo) && createdAt.Before(aHourAgo) {
+		if createdAt.After(aHourAgo) && createdAt.Before(fiveMinutesAgo) {
 			countFiveMinutesAgo++
-		} else if createdAt.After(aHourAgo) && createdAt.Before(aDayAgo) {
+		} else if createdAt.After(aDayAgo) && createdAt.Before(aHourAgo) {
 			countAHourAgo++
-		} else if createdAt.After(aDayAgo) && createdAt.Before(twoDaysAgo) {
+		} else if createdAt.After(twoDaysAgo) && createdAt.Before(aDayAgo) {
 			countADayAgo++
-		} else if createdAt.After(twoDaysAgo) && createdAt.Before(threeDaysAgo) {
+		} else if createdAt.After(threeDaysAgo) && createdAt.Before(twoDaysAgo) {
 			countTwoDaysAgo++
-		} else {
+		} else if createdAt.Before(threeDaysAgo) {
 			countThreeDaysAgo++
 		}
 	}
@@ -75,13 +75,13 @@ func (s ServiceInstance) Statistic(ctx context.Context, query *provider.Query) (
 			"count":     countAHourAgo,
 		}, {
 			"reference": "1 day ago",
-			"count":     countAHourAgo,
+			"count":     countADayAgo,
 		}, {
 			"reference": "2 days ago",
-			"count":     countAHourAgo,
+			"count":     countTwoDaysAgo,
 		}, {
 			"reference": "3 days ago",
-			"count":     countAHourAgo,
+			"count":     countThreeDaysAgo,
 		},
 	}
 

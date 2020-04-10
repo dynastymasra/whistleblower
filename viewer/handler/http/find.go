@@ -49,6 +49,6 @@ func StatisticCountHandler(service viewer.Service) http.HandlerFunc {
 				"attributes": statistic,
 			},
 		}
-		fmt.Fprint(w, cookbook.SuccessDataResponse(res, nil).Stringify())
+		fmt.Fprint(w, cookbook.Stringify(res))
 	}
 }
