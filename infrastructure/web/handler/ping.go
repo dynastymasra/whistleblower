@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/dynastymasra/whistleblower/infrastructure/provider"
+
 	"github.com/dynastymasra/cookbook"
 
 	"github.com/jinzhu/gorm"
@@ -15,13 +17,14 @@ func Ping(db *gorm.DB) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Content-Type", "application/json")
 
-		log := logrus.WithField(cookbook.RequestID, r.Context().Value(cookbook.XRequestID))
+		requestID := r.Context().Value(cookbook.RequestID).(string)
+		log := logrus.WithField(cookbook.RequestID, requestID)
 
-		if err := db.DB().Ping(); err != nil {
+		if err := provider.Ping(db); err != nil {
 			log.WithError(err).Errorln("Failed ping postgres")
 
 			w.WriteHeader(http.StatusInternalServerError)
-			fmt.Fprintf(w, cookbook.ErrorResponse(err.Error(), r.Context().Value(cookbook.RequestID).(string)).Stringify())
+			fmt.Fprint(w, cookbook.ErrorResponse(err.Error(), requestID).Stringify())
 			return
 		}
 

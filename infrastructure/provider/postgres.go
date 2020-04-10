@@ -1,11 +1,14 @@
 package provider
 
 import (
+	"errors"
 	"fmt"
 
 	"github.com/jinzhu/gorm"
 	"github.com/matryer/resync"
 	"github.com/sirupsen/logrus"
+
+	_ "github.com/jinzhu/gorm/dialects/postgres"
 )
 
 var (
@@ -40,6 +43,13 @@ func (p Postgres) Client() (*gorm.DB, error) {
 	})
 
 	return db, err
+}
+
+func Ping(db *gorm.DB) error {
+	if db == nil {
+		return errors.New("does't have database connection")
+	}
+	return db.DB().Ping()
 }
 
 type Query struct {
