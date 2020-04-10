@@ -95,7 +95,7 @@ func (r *RouterInstance) Router() *mux.Router {
 	)).Methods(http.MethodPost)
 
 	statisticRouter.Handle("/statistics/article_id/{article_id}", commonHandlers.With(
-		negroni.WrapFunc(viewerHandler.StatisticCountHandler(r.viewerService)),
+		negroni.WrapFunc(viewerHandler.StatisticCount(r.viewerService)),
 	)).Methods(http.MethodGet)
 
 	return router

@@ -14,7 +14,7 @@ import (
 )
 
 // TODO: simple http handler add instrumentation
-func StatisticCountHandler(service viewer.Service) http.HandlerFunc {
+func StatisticCount(service viewer.Service) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Content-Type", "application/json")
 
