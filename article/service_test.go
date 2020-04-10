@@ -30,8 +30,8 @@ func (s *ServiceSuite) SetupSuite() {
 
 func (s *ServiceSuite) SetupTest() {
 	s.repo = &test.MockArticleRepository{}
-	productService := article.NewService(s.repo)
-	s.ServiceInstance = &productService
+	articleService := article.NewService(s.repo)
+	s.ServiceInstance = &articleService
 }
 
 func (s *ServiceSuite) Test_Create_Success() {

@@ -46,9 +46,9 @@ func (r *RepositorySuite) SetupTest() {
 		log.Fatal(err)
 	}
 
-	productRepo := article.NewRepository(db)
+	articleRepo := article.NewRepository(db)
 
-	r.RepositoryInstance = productRepo
+	r.RepositoryInstance = articleRepo
 }
 
 func articleModel() domain.Article {
