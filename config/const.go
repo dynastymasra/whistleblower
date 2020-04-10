@@ -23,5 +23,4 @@ const (
 	ArticleTableName   = "articles"
 	ViewerTableName    = "viewers"
 	CreatedAtFieldName = "created_at"
-	UpdatedAtFieldName = "updated_at"
 )
