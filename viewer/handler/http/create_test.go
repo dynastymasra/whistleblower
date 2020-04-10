@@ -7,6 +7,9 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"testing"
+	"time"
+
+	"github.com/dynastymasra/whistleblower/domain"
 
 	"github.com/dynastymasra/cookbook"
 	"github.com/dynastymasra/whistleblower/config"
@@ -49,23 +52,24 @@ func viewerPayload(id string) []byte {
 	}`, id, id))
 }
 
-//func (c *CountViewerSuite) Test_CountViewer_Success() {
-//	id := uuid.NewV4().String()
-//	payload := domain.Viewer{
-//		ID:        id,
-//		ArticleID: id,
-//	}
-//
-//	w := httptest.NewRecorder()
-//	r := httptest.NewRequest(http.MethodPost, "/counter/v1/statistics", bytes.NewReader(viewerPayload(id)))
-//
-//	ctx := context.WithValue(r.Context(), cookbook.RequestID, uuid.NewV4().String())
-//
-//	c.viewerRepo.On("Create", ctx, payload).Return(&domain.Article{}, nil)
-//
-//	handler.CountViewer(c.viewerRepo)(w, r.WithContext(ctx))
-//	assert.Equal(c.T(), http.StatusOK, w.Code)
-//}
+func (c *CountViewerSuite) Test_CountViewer_Success() {
+	id := uuid.NewV4().String()
+	payload := domain.Viewer{
+		ID:        id,
+		ArticleID: id,
+	}
+
+	w := httptest.NewRecorder()
+	r := httptest.NewRequest(http.MethodPost, "/counter/v1/statistics", bytes.NewReader(viewerPayload(id)))
+
+	ctx := context.WithValue(r.Context(), cookbook.RequestID, uuid.NewV4().String())
+
+	c.viewerRepo.On("Create", ctx, payload).Return(nil)
+
+	handler.CountViewer(c.viewerRepo)(w, r.WithContext(ctx))
+	time.Sleep(time.Second)
+	assert.Equal(c.T(), http.StatusOK, w.Code)
+}
 
 func (c *CountViewerSuite) Test_CountViewer_Failed_ReadBody() {
 	w := httptest.NewRecorder()
