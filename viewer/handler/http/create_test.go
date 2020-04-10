@@ -71,6 +71,25 @@ func (c *CountViewerSuite) Test_CountViewer_Success() {
 	assert.Equal(c.T(), http.StatusOK, w.Code)
 }
 
+func (c *CountViewerSuite) Test_CountViewer_Failed() {
+	id := uuid.NewV4().String()
+	payload := domain.Viewer{
+		ID:        id,
+		ArticleID: id,
+	}
+
+	w := httptest.NewRecorder()
+	r := httptest.NewRequest(http.MethodPost, "/counter/v1/statistics", bytes.NewReader(viewerPayload(id)))
+
+	ctx := context.WithValue(r.Context(), cookbook.RequestID, uuid.NewV4().String())
+
+	c.viewerRepo.On("Create", ctx, payload).Return(assert.AnError)
+
+	handler.CountViewer(c.viewerRepo)(w, r.WithContext(ctx))
+	time.Sleep(time.Second)
+	assert.Equal(c.T(), http.StatusOK, w.Code)
+}
+
 func (c *CountViewerSuite) Test_CountViewer_Failed_ReadBody() {
 	w := httptest.NewRecorder()
 	r := httptest.NewRequest(http.MethodPost, "/counter/v1/statistics", errReader(0))
