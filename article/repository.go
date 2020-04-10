@@ -46,9 +46,7 @@ func (r RepositoryInstance) Find(ctx context.Context, query map[string]interface
 func (r RepositoryInstance) FindAll(ctx context.Context, filter map[string]interface{}) ([]*domain.Article, error) {
 	var result []*domain.Article
 
-	if err := r.db.Table(r.TableName).Where(filter).Find(&result).Error; err != nil {
-		return nil, err
-	}
+	err := r.db.Table(r.TableName).Where(filter).Find(&result).Error
 
-	return result, nil
+	return result, err
 }
