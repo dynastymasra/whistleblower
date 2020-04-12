@@ -1668,7 +1668,8 @@
     "calling_code": "970",
     "iso3166_alpha2": "PS",
     "iso3166_alpha3": "PSE",
-    "iso3166_numeric": "275"
+    "iso3166_numeric": "275",
+    "currency_code": "EGP,ILS,JOD"
   },
   {
     "name": "Sudan",
