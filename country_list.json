@@ -197,7 +197,7 @@
     "iso3166_alpha2": "BT",
     "iso3166_alpha3": "BTN",
     "iso3166_numeric": "064",
-    "currency_code": "INR,BTN"
+    "currency_code": "BTN"
   },
   {
     "name": "Bolivia (Plurinational State of)",
@@ -789,7 +789,7 @@
     "iso3166_alpha2": "HT",
     "iso3166_alpha3": "HTI",
     "iso3166_numeric": "332",
-    "currency_code": "HTG,USD"
+    "currency_code": "HTG"
   },
   {
     "name": "Heard Island and McDonald Islands",
