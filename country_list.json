@@ -1,10 +1,10 @@
 [
   {
+    "id": "0d9ae4d8-5243-4270-8237-0d05d0da6d2f",
     "name": "Taiwan",
     "calling_code": "886",
     "iso3166_alpha2": "TW",
     "iso3166_alpha3": "TWN",
-    "iso3166_numeric": "158",
     "currency_code": "TWD",
     "flags": {
       "flat": {
@@ -21,14 +21,16 @@
         "48": "https://countryflags.io/TW/shiny/48.png",
         "64": "https://countryflags.io/TW/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d7fab16c-50f2-4ad2-8dd1-6754732e7327",
     "name": "Afghanistan",
     "calling_code": "93",
     "iso3166_alpha2": "AF",
     "iso3166_alpha3": "AFG",
-    "iso3166_numeric": "004",
     "currency_code": "AFN",
     "flags": {
       "flat": {
@@ -45,14 +47,16 @@
         "48": "https://countryflags.io/AF/shiny/48.png",
         "64": "https://countryflags.io/AF/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "a83e97b2-32d2-4f21-b9ad-50bf0b5aad9c",
     "name": "Albania",
     "calling_code": "355",
     "iso3166_alpha2": "AL",
     "iso3166_alpha3": "ALB",
-    "iso3166_numeric": "008",
     "currency_code": "ALL",
     "flags": {
       "flat": {
@@ -69,14 +73,16 @@
         "48": "https://countryflags.io/AL/shiny/48.png",
         "64": "https://countryflags.io/AL/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "4b7ba2fe-e7c0-40ee-bd87-860f2cf9ee93",
     "name": "Algeria",
     "calling_code": "213",
     "iso3166_alpha2": "DZ",
     "iso3166_alpha3": "DZA",
-    "iso3166_numeric": "012",
     "currency_code": "DZD",
     "flags": {
       "flat": {
@@ -93,14 +99,16 @@
         "48": "https://countryflags.io/DZ/shiny/48.png",
         "64": "https://countryflags.io/DZ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "819efd3d-fed2-48f7-8009-900f98aa706d",
     "name": "American Samoa",
     "calling_code": "1-684",
     "iso3166_alpha2": "AS",
     "iso3166_alpha3": "ASM",
-    "iso3166_numeric": "016",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -117,14 +125,16 @@
         "48": "https://countryflags.io/AS/shiny/48.png",
         "64": "https://countryflags.io/AS/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "11bc9243-98de-448e-b461-a8c3beda156a",
     "name": "Andorra",
     "calling_code": "376",
     "iso3166_alpha2": "AD",
     "iso3166_alpha3": "AND",
-    "iso3166_numeric": "020",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -141,14 +151,16 @@
         "48": "https://countryflags.io/AD/shiny/48.png",
         "64": "https://countryflags.io/AD/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "f1e2d0f1-7a83-4ec9-ac7a-e7b6d1c8789c",
     "name": "Angola",
     "calling_code": "244",
     "iso3166_alpha2": "AO",
     "iso3166_alpha3": "AGO",
-    "iso3166_numeric": "024",
     "currency_code": "AOA",
     "flags": {
       "flat": {
@@ -165,14 +177,16 @@
         "48": "https://countryflags.io/AO/shiny/48.png",
         "64": "https://countryflags.io/AO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7a479e02-cd98-44f1-a60e-49b4242cefbd",
     "name": "Anguilla",
     "calling_code": "1-264",
     "iso3166_alpha2": "AI",
     "iso3166_alpha3": "AIA",
-    "iso3166_numeric": "660",
     "currency_code": "XCD",
     "flags": {
       "flat": {
@@ -189,14 +203,16 @@
         "48": "https://countryflags.io/AI/shiny/48.png",
         "64": "https://countryflags.io/AI/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "94942f7c-c9a2-49c8-aa9d-d80c751bca3a",
     "name": "Antigua and Barbuda",
     "calling_code": "1-268",
     "iso3166_alpha2": "AG",
     "iso3166_alpha3": "ATG",
-    "iso3166_numeric": "028",
     "currency_code": "XCD",
     "flags": {
       "flat": {
@@ -213,14 +229,16 @@
         "48": "https://countryflags.io/AG/shiny/48.png",
         "64": "https://countryflags.io/AG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "4e3cbb5a-1096-45e5-a442-911d209c6e51",
     "name": "Argentina",
     "calling_code": "54",
     "iso3166_alpha2": "AR",
     "iso3166_alpha3": "ARG",
-    "iso3166_numeric": "032",
     "currency_code": "ARS",
     "flags": {
       "flat": {
@@ -237,14 +255,16 @@
         "48": "https://countryflags.io/AR/shiny/48.png",
         "64": "https://countryflags.io/AR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7e4b0a99-7ee9-477b-8f34-dadcdc031187",
     "name": "Armenia",
     "calling_code": "374",
     "iso3166_alpha2": "AM",
     "iso3166_alpha3": "ARM",
-    "iso3166_numeric": "051",
     "currency_code": "AMD",
     "flags": {
       "flat": {
@@ -261,14 +281,16 @@
         "48": "https://countryflags.io/AM/shiny/48.png",
         "64": "https://countryflags.io/AM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7f0f6fdd-6d4b-43a9-804d-28bfbb8a60e6",
     "name": "Aruba",
     "calling_code": "297",
     "iso3166_alpha2": "AW",
     "iso3166_alpha3": "ABW",
-    "iso3166_numeric": "533",
     "currency_code": "AWG",
     "flags": {
       "flat": {
@@ -285,14 +307,16 @@
         "48": "https://countryflags.io/AW/shiny/48.png",
         "64": "https://countryflags.io/AW/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "1687083f-3bd0-4ae3-bac3-0455fc22ca58",
     "name": "Australia",
     "calling_code": "61",
     "iso3166_alpha2": "AU",
     "iso3166_alpha3": "AUS",
-    "iso3166_numeric": "036",
     "currency_code": "AUD",
     "flags": {
       "flat": {
@@ -309,14 +333,16 @@
         "48": "https://countryflags.io/AU/shiny/48.png",
         "64": "https://countryflags.io/AU/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "aab46a28-e8ed-4084-a8d8-dedc2f47d117",
     "name": "Austria",
     "calling_code": "43",
     "iso3166_alpha2": "AT",
     "iso3166_alpha3": "AUT",
-    "iso3166_numeric": "040",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -333,14 +359,16 @@
         "48": "https://countryflags.io/AT/shiny/48.png",
         "64": "https://countryflags.io/AT/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5d54d48c-270e-40ff-a874-9108afa3b114",
     "name": "Azerbaijan",
     "calling_code": "994",
     "iso3166_alpha2": "AZ",
     "iso3166_alpha3": "AZE",
-    "iso3166_numeric": "031",
     "currency_code": "AZN",
     "flags": {
       "flat": {
@@ -357,14 +385,16 @@
         "48": "https://countryflags.io/AZ/shiny/48.png",
         "64": "https://countryflags.io/AZ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "98fe25c7-6dec-4930-a1d4-4932edbe94f6",
     "name": "Bahamas",
     "calling_code": "1-242",
     "iso3166_alpha2": "BS",
     "iso3166_alpha3": "BHS",
-    "iso3166_numeric": "044",
     "currency_code": "BSD",
     "flags": {
       "flat": {
@@ -381,14 +411,16 @@
         "48": "https://countryflags.io/BS/shiny/48.png",
         "64": "https://countryflags.io/BS/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "eba22c54-028f-4d92-bc45-de67734792de",
     "name": "Bahrain",
     "calling_code": "973",
     "iso3166_alpha2": "BH",
     "iso3166_alpha3": "BHR",
-    "iso3166_numeric": "048",
     "currency_code": "BHD",
     "flags": {
       "flat": {
@@ -405,14 +437,16 @@
         "48": "https://countryflags.io/BH/shiny/48.png",
         "64": "https://countryflags.io/BH/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5d951ec5-9584-49d7-9fab-4343215dfd61",
     "name": "Bangladesh",
     "calling_code": "880",
     "iso3166_alpha2": "BD",
     "iso3166_alpha3": "BGD",
-    "iso3166_numeric": "050",
     "currency_code": "BDT",
     "flags": {
       "flat": {
@@ -429,14 +463,16 @@
         "48": "https://countryflags.io/BD/shiny/48.png",
         "64": "https://countryflags.io/BD/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "cdcda6b3-489e-4238-8458-22a73c2178d0",
     "name": "Barbados",
     "calling_code": "1-246",
     "iso3166_alpha2": "BB",
     "iso3166_alpha3": "BRB",
-    "iso3166_numeric": "052",
     "currency_code": "BBD",
     "flags": {
       "flat": {
@@ -453,14 +489,16 @@
         "48": "https://countryflags.io/BB/shiny/48.png",
         "64": "https://countryflags.io/BB/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "43669bd4-7c06-476a-aff1-c2dd6f8de3ba",
     "name": "Belarus",
     "calling_code": "375",
     "iso3166_alpha2": "BY",
     "iso3166_alpha3": "BLR",
-    "iso3166_numeric": "112",
     "currency_code": "BYN",
     "flags": {
       "flat": {
@@ -477,14 +515,16 @@
         "48": "https://countryflags.io/BY/shiny/48.png",
         "64": "https://countryflags.io/BY/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "1c69ed0b-cb2e-4ee4-b6ab-1252bd98eb85",
     "name": "Belgium",
     "calling_code": "32",
     "iso3166_alpha2": "BE",
     "iso3166_alpha3": "BEL",
-    "iso3166_numeric": "056",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -501,14 +541,16 @@
         "48": "https://countryflags.io/BE/shiny/48.png",
         "64": "https://countryflags.io/BE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7674e609-18c1-4b1a-8d31-96168f3300da",
     "name": "Belize",
     "calling_code": "501",
     "iso3166_alpha2": "BZ",
     "iso3166_alpha3": "BLZ",
-    "iso3166_numeric": "084",
     "currency_code": "BZD",
     "flags": {
       "flat": {
@@ -525,14 +567,16 @@
         "48": "https://countryflags.io/BZ/shiny/48.png",
         "64": "https://countryflags.io/BZ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "1ed990a0-83f0-4978-9a7f-88bad0679ce8",
     "name": "Benin",
     "calling_code": "229",
     "iso3166_alpha2": "BJ",
     "iso3166_alpha3": "BEN",
-    "iso3166_numeric": "204",
     "currency_code": "XOF",
     "flags": {
       "flat": {
@@ -549,14 +593,16 @@
         "48": "https://countryflags.io/BJ/shiny/48.png",
         "64": "https://countryflags.io/BJ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b36ba329-ef8a-4bda-bfc0-9dbc1f72508d",
     "name": "Bermuda",
     "calling_code": "1-441",
     "iso3166_alpha2": "BM",
     "iso3166_alpha3": "BMU",
-    "iso3166_numeric": "060",
     "currency_code": "BMD",
     "flags": {
       "flat": {
@@ -573,14 +619,16 @@
         "48": "https://countryflags.io/BM/shiny/48.png",
         "64": "https://countryflags.io/BM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5fb0a740-95da-4209-b66b-6c0eece77fc0",
     "name": "Bhutan",
     "calling_code": "975",
     "iso3166_alpha2": "BT",
     "iso3166_alpha3": "BTN",
-    "iso3166_numeric": "064",
     "currency_code": "BTN",
     "flags": {
       "flat": {
@@ -597,14 +645,16 @@
         "48": "https://countryflags.io/BT/shiny/48.png",
         "64": "https://countryflags.io/BT/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6fa37b0b-e608-4fd4-b4f3-a5c5a809cec6",
     "name": "Bolivia (Plurinational State of)",
     "calling_code": "591",
     "iso3166_alpha2": "BO",
     "iso3166_alpha3": "BOL",
-    "iso3166_numeric": "068",
     "currency_code": "BOB",
     "flags": {
       "flat": {
@@ -621,14 +671,16 @@
         "48": "https://countryflags.io/BO/shiny/48.png",
         "64": "https://countryflags.io/BO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b65bd2c8-a2fe-4f1f-a897-8a6242a63407",
     "name": "Bonaire, Sint Eustatius and Saba",
     "calling_code": "599",
     "iso3166_alpha2": "BQ",
     "iso3166_alpha3": "BES",
-    "iso3166_numeric": "535",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -645,14 +697,16 @@
         "48": "https://countryflags.io/BQ/shiny/48.png",
         "64": "https://countryflags.io/BQ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "913ed3fc-7e84-401b-b225-eb8454a2f8fc",
     "name": "Bosnia and Herzegovina",
     "calling_code": "387",
     "iso3166_alpha2": "BA",
     "iso3166_alpha3": "BIH",
-    "iso3166_numeric": "070",
     "currency_code": "BAM",
     "flags": {
       "flat": {
@@ -669,14 +723,16 @@
         "48": "https://countryflags.io/BA/shiny/48.png",
         "64": "https://countryflags.io/BA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "66a350ea-fc2e-4e54-94e3-848a79e2be80",
     "name": "Botswana",
     "calling_code": "267",
     "iso3166_alpha2": "BW",
     "iso3166_alpha3": "BWA",
-    "iso3166_numeric": "072",
     "currency_code": "BWP",
     "flags": {
       "flat": {
@@ -693,14 +749,16 @@
         "48": "https://countryflags.io/BW/shiny/48.png",
         "64": "https://countryflags.io/BW/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "bbe1d59d-a223-4e1d-ab83-af9317c6957d",
     "name": "Bouvet Island",
     "calling_code": "47",
     "iso3166_alpha2": "BV",
     "iso3166_alpha3": "BVT",
-    "iso3166_numeric": "074",
     "currency_code": "NOK",
     "flags": {
       "flat": {
@@ -717,14 +775,16 @@
         "48": "https://countryflags.io/BV/shiny/48.png",
         "64": "https://countryflags.io/BV/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "8f002ac2-34fe-47e7-b3e8-106cbc8f2573",
     "name": "Brazil",
     "calling_code": "55",
     "iso3166_alpha2": "BR",
     "iso3166_alpha3": "BRA",
-    "iso3166_numeric": "076",
     "currency_code": "BRL",
     "flags": {
       "flat": {
@@ -741,14 +801,16 @@
         "48": "https://countryflags.io/BR/shiny/48.png",
         "64": "https://countryflags.io/BR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "2494c5b6-bbe1-4176-a70c-d624e1af39a4",
     "name": "British Indian Ocean Territory",
     "calling_code": "246",
     "iso3166_alpha2": "IO",
     "iso3166_alpha3": "IOT",
-    "iso3166_numeric": "086",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -765,14 +827,16 @@
         "48": "https://countryflags.io/IO/shiny/48.png",
         "64": "https://countryflags.io/IO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6ca8a5f0-888b-4117-a5dc-98450a3e386c",
     "name": "British Virgin Islands",
     "calling_code": "1-284",
     "iso3166_alpha2": "VG",
     "iso3166_alpha3": "VGB",
-    "iso3166_numeric": "092",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -789,14 +853,16 @@
         "48": "https://countryflags.io/VG/shiny/48.png",
         "64": "https://countryflags.io/VG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "aaaffd94-9478-496d-8bd5-59fa39d0c0b2",
     "name": "Brunei Darussalam",
     "calling_code": "673",
     "iso3166_alpha2": "BN",
     "iso3166_alpha3": "BRN",
-    "iso3166_numeric": "096",
     "currency_code": "BND",
     "flags": {
       "flat": {
@@ -813,14 +879,16 @@
         "48": "https://countryflags.io/BN/shiny/48.png",
         "64": "https://countryflags.io/BN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "f587c2dc-7aeb-4738-a984-a8cd330a4643",
     "name": "Bulgaria",
     "calling_code": "359",
     "iso3166_alpha2": "BG",
     "iso3166_alpha3": "BGR",
-    "iso3166_numeric": "100",
     "currency_code": "BGN",
     "flags": {
       "flat": {
@@ -837,14 +905,16 @@
         "48": "https://countryflags.io/BG/shiny/48.png",
         "64": "https://countryflags.io/BG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "1743bd09-ef0f-43d6-85ba-77a5ee0f5b26",
     "name": "Burkina Faso",
     "calling_code": "226",
     "iso3166_alpha2": "BF",
     "iso3166_alpha3": "BFA",
-    "iso3166_numeric": "854",
     "currency_code": "XOF",
     "flags": {
       "flat": {
@@ -861,14 +931,16 @@
         "48": "https://countryflags.io/BF/shiny/48.png",
         "64": "https://countryflags.io/BF/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "aa217f91-bed7-4c64-b1c1-fcdf56537d30",
     "name": "Burundi",
     "calling_code": "257",
     "iso3166_alpha2": "BI",
     "iso3166_alpha3": "BDI",
-    "iso3166_numeric": "108",
     "currency_code": "BIF",
     "flags": {
       "flat": {
@@ -885,14 +957,16 @@
         "48": "https://countryflags.io/BI/shiny/48.png",
         "64": "https://countryflags.io/BI/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "a766583a-562c-473f-bd92-04881385bcad",
     "name": "Cabo Verde",
     "calling_code": "238",
     "iso3166_alpha2": "CV",
     "iso3166_alpha3": "CPV",
-    "iso3166_numeric": "132",
     "currency_code": "CVE",
     "flags": {
       "flat": {
@@ -909,14 +983,16 @@
         "48": "https://countryflags.io/CV/shiny/48.png",
         "64": "https://countryflags.io/CV/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7e11d2a6-2039-4272-ade8-cb4f28e55379",
     "name": "Cambodia",
     "calling_code": "855",
     "iso3166_alpha2": "KH",
     "iso3166_alpha3": "KHM",
-    "iso3166_numeric": "116",
     "currency_code": "KHR",
     "flags": {
       "flat": {
@@ -933,14 +1009,16 @@
         "48": "https://countryflags.io/KH/shiny/48.png",
         "64": "https://countryflags.io/KH/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "1b26eadd-3386-4128-92e0-1f583056c229",
     "name": "Cameroon",
     "calling_code": "237",
     "iso3166_alpha2": "CM",
     "iso3166_alpha3": "CMR",
-    "iso3166_numeric": "120",
     "currency_code": "XAF",
     "flags": {
       "flat": {
@@ -957,14 +1035,16 @@
         "48": "https://countryflags.io/CM/shiny/48.png",
         "64": "https://countryflags.io/CM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b594cc2c-3f19-4b1f-850c-ca990dc40d26",
     "name": "Canada",
     "calling_code": "1",
     "iso3166_alpha2": "CA",
     "iso3166_alpha3": "CAN",
-    "iso3166_numeric": "124",
     "currency_code": "CAD",
     "flags": {
       "flat": {
@@ -981,14 +1061,16 @@
         "48": "https://countryflags.io/CA/shiny/48.png",
         "64": "https://countryflags.io/CA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7ca66358-552e-4dc3-b643-14c4cb5d06e3",
     "name": "Cayman Islands",
     "calling_code": "1-345",
     "iso3166_alpha2": "KY",
     "iso3166_alpha3": "CYM",
-    "iso3166_numeric": "136",
     "currency_code": "KYD",
     "flags": {
       "flat": {
@@ -1005,14 +1087,16 @@
         "48": "https://countryflags.io/KY/shiny/48.png",
         "64": "https://countryflags.io/KY/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "550379ce-af17-49cb-9132-136684ad6a80",
     "name": "Central African Republic",
     "calling_code": "236",
     "iso3166_alpha2": "CF",
     "iso3166_alpha3": "CAF",
-    "iso3166_numeric": "140",
     "currency_code": "XAF",
     "flags": {
       "flat": {
@@ -1029,14 +1113,16 @@
         "48": "https://countryflags.io/CF/shiny/48.png",
         "64": "https://countryflags.io/CF/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "59ef5e54-f359-4a7b-8a6d-0e8131e10cc9",
     "name": "Chad",
     "calling_code": "235",
     "iso3166_alpha2": "TD",
     "iso3166_alpha3": "TCD",
-    "iso3166_numeric": "148",
     "currency_code": "XAF",
     "flags": {
       "flat": {
@@ -1053,14 +1139,16 @@
         "48": "https://countryflags.io/TD/shiny/48.png",
         "64": "https://countryflags.io/TD/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "770efac4-bbde-4376-a8bf-dcfcc357af38",
     "name": "Chile",
     "calling_code": "56",
     "iso3166_alpha2": "CL",
     "iso3166_alpha3": "CHL",
-    "iso3166_numeric": "152",
     "currency_code": "CLP",
     "flags": {
       "flat": {
@@ -1077,14 +1165,16 @@
         "48": "https://countryflags.io/CL/shiny/48.png",
         "64": "https://countryflags.io/CL/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6077f99d-6f4b-485d-bd93-6631072f15f3",
     "name": "China",
     "calling_code": "86",
     "iso3166_alpha2": "CN",
     "iso3166_alpha3": "CHN",
-    "iso3166_numeric": "156",
     "currency_code": "CNY",
     "flags": {
       "flat": {
@@ -1101,14 +1191,16 @@
         "48": "https://countryflags.io/CN/shiny/48.png",
         "64": "https://countryflags.io/CN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d59efef7-fe7e-4a85-a6d2-e42e8a8319aa",
     "name": "China, Hong Kong Special Administrative Region",
     "calling_code": "852",
     "iso3166_alpha2": "HK",
     "iso3166_alpha3": "HKG",
-    "iso3166_numeric": "344",
     "currency_code": "HKD",
     "flags": {
       "flat": {
@@ -1125,14 +1217,16 @@
         "48": "https://countryflags.io/HK/shiny/48.png",
         "64": "https://countryflags.io/HK/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "072fa2d1-2e95-4781-ada7-4f7db6aa81b7",
     "name": "China, Macao Special Administrative Region",
     "calling_code": "853",
     "iso3166_alpha2": "MO",
     "iso3166_alpha3": "MAC",
-    "iso3166_numeric": "446",
     "currency_code": "MOP",
     "flags": {
       "flat": {
@@ -1149,14 +1243,16 @@
         "48": "https://countryflags.io/MO/shiny/48.png",
         "64": "https://countryflags.io/MO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "79b81603-5bb2-40ca-8127-f8828eef349f",
     "name": "Christmas Island",
     "calling_code": "61",
     "iso3166_alpha2": "CX",
     "iso3166_alpha3": "CXR",
-    "iso3166_numeric": "162",
     "currency_code": "AUD",
     "flags": {
       "flat": {
@@ -1173,14 +1269,16 @@
         "48": "https://countryflags.io/CX/shiny/48.png",
         "64": "https://countryflags.io/CX/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "c9d1ebcc-d13c-44b2-918c-8662f395dcb0",
     "name": "Cocos (Keeling) Islands",
     "calling_code": "61",
     "iso3166_alpha2": "CC",
     "iso3166_alpha3": "CCK",
-    "iso3166_numeric": "166",
     "currency_code": "AUD",
     "flags": {
       "flat": {
@@ -1197,14 +1295,16 @@
         "48": "https://countryflags.io/CC/shiny/48.png",
         "64": "https://countryflags.io/CC/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "a1bf323b-b130-4afe-9f69-424e929ae182",
     "name": "Colombia",
     "calling_code": "57",
     "iso3166_alpha2": "CO",
     "iso3166_alpha3": "COL",
-    "iso3166_numeric": "170",
     "currency_code": "COP",
     "flags": {
       "flat": {
@@ -1221,14 +1321,16 @@
         "48": "https://countryflags.io/CO/shiny/48.png",
         "64": "https://countryflags.io/CO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d0917653-8d29-4f6a-9903-4bbaa3a918bc",
     "name": "Comoros",
     "calling_code": "269",
     "iso3166_alpha2": "KM",
     "iso3166_alpha3": "COM",
-    "iso3166_numeric": "174",
     "currency_code": "KMF",
     "flags": {
       "flat": {
@@ -1245,14 +1347,16 @@
         "48": "https://countryflags.io/KM/shiny/48.png",
         "64": "https://countryflags.io/KM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "340166c8-f6e5-42fc-a2ac-0e044afac237",
     "name": "Congo",
     "calling_code": "242",
     "iso3166_alpha2": "CG",
     "iso3166_alpha3": "COG",
-    "iso3166_numeric": "178",
     "currency_code": "XAF",
     "flags": {
       "flat": {
@@ -1269,14 +1373,16 @@
         "48": "https://countryflags.io/CG/shiny/48.png",
         "64": "https://countryflags.io/CG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "c1d3bbfe-e787-44e0-a5e4-a092f6c451b3",
     "name": "Cook Islands",
     "calling_code": "682",
     "iso3166_alpha2": "CK",
     "iso3166_alpha3": "COK",
-    "iso3166_numeric": "184",
     "currency_code": "NZD",
     "flags": {
       "flat": {
@@ -1293,14 +1399,16 @@
         "48": "https://countryflags.io/CK/shiny/48.png",
         "64": "https://countryflags.io/CK/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "4824ad8d-dcef-448c-a084-f667b08eb425",
     "name": "Costa Rica",
     "calling_code": "506",
     "iso3166_alpha2": "CR",
     "iso3166_alpha3": "CRI",
-    "iso3166_numeric": "188",
     "currency_code": "CRC",
     "flags": {
       "flat": {
@@ -1317,14 +1425,16 @@
         "48": "https://countryflags.io/CR/shiny/48.png",
         "64": "https://countryflags.io/CR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "03c244b8-b653-4056-b5e9-4bbd64e144b0",
     "name": "Croatia",
     "calling_code": "385",
     "iso3166_alpha2": "HR",
     "iso3166_alpha3": "HRV",
-    "iso3166_numeric": "191",
     "currency_code": "HRK",
     "flags": {
       "flat": {
@@ -1341,14 +1451,16 @@
         "48": "https://countryflags.io/HR/shiny/48.png",
         "64": "https://countryflags.io/HR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "187e3e24-20ce-4d0c-b9ac-aaab83dc77fd",
     "name": "Cuba",
     "calling_code": "53",
     "iso3166_alpha2": "CU",
     "iso3166_alpha3": "CUB",
-    "iso3166_numeric": "192",
     "currency_code": "CUP,CUC",
     "flags": {
       "flat": {
@@ -1365,14 +1477,16 @@
         "48": "https://countryflags.io/CU/shiny/48.png",
         "64": "https://countryflags.io/CU/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "608e9764-de6d-4125-b22c-24f93ccf11d4",
     "name": "Curaçao",
     "calling_code": "599",
     "iso3166_alpha2": "CW",
     "iso3166_alpha3": "CUW",
-    "iso3166_numeric": "531",
     "currency_code": "ANG",
     "flags": {
       "flat": {
@@ -1389,14 +1503,16 @@
         "48": "https://countryflags.io/CW/shiny/48.png",
         "64": "https://countryflags.io/CW/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "646fae78-a861-4b4f-bbaf-7928c77cde9a",
     "name": "Cyprus",
     "calling_code": "357",
     "iso3166_alpha2": "CY",
     "iso3166_alpha3": "CYP",
-    "iso3166_numeric": "196",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -1413,14 +1529,16 @@
         "48": "https://countryflags.io/CY/shiny/48.png",
         "64": "https://countryflags.io/CY/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "ad0e11dc-cc0f-482b-abb3-adacf98deba9",
     "name": "Czechia",
     "calling_code": "420",
     "iso3166_alpha2": "CZ",
     "iso3166_alpha3": "CZE",
-    "iso3166_numeric": "203",
     "currency_code": "CZK",
     "flags": {
       "flat": {
@@ -1437,14 +1555,16 @@
         "48": "https://countryflags.io/CZ/shiny/48.png",
         "64": "https://countryflags.io/CZ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "c253d57e-dac4-4813-bcaf-fde4fe150fd0",
     "name": "Côte d'Ivoire",
     "calling_code": "225",
     "iso3166_alpha2": "CI",
     "iso3166_alpha3": "CIV",
-    "iso3166_numeric": "384",
     "currency_code": "XOF",
     "flags": {
       "flat": {
@@ -1461,14 +1581,16 @@
         "48": "https://countryflags.io/CI/shiny/48.png",
         "64": "https://countryflags.io/CI/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "43f0013b-2c36-489d-8929-ce530fa61641",
     "name": "Democratic People's Republic of Korea",
     "calling_code": "850",
     "iso3166_alpha2": "KP",
     "iso3166_alpha3": "PRK",
-    "iso3166_numeric": "408",
     "currency_code": "KPW",
     "flags": {
       "flat": {
@@ -1485,14 +1607,16 @@
         "48": "https://countryflags.io/KP/shiny/48.png",
         "64": "https://countryflags.io/KP/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b8dd6f9e-3b12-4b14-bff4-fc8338a17f6a",
     "name": "Democratic Republic of the Congo",
     "calling_code": "243",
     "iso3166_alpha2": "CD",
     "iso3166_alpha3": "COD",
-    "iso3166_numeric": "180",
     "currency_code": "CDF",
     "flags": {
       "flat": {
@@ -1509,14 +1633,16 @@
         "48": "https://countryflags.io/CD/shiny/48.png",
         "64": "https://countryflags.io/CD/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "4be748bd-cee5-4a68-b43d-dbfd3e156dc6",
     "name": "Denmark",
     "calling_code": "45",
     "iso3166_alpha2": "DK",
     "iso3166_alpha3": "DNK",
-    "iso3166_numeric": "208",
     "currency_code": "DKK",
     "flags": {
       "flat": {
@@ -1533,14 +1659,16 @@
         "48": "https://countryflags.io/DK/shiny/48.png",
         "64": "https://countryflags.io/DK/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "118ca4d4-ded8-4db9-95c8-00cf74e96131",
     "name": "Djibouti",
     "calling_code": "253",
     "iso3166_alpha2": "DJ",
     "iso3166_alpha3": "DJI",
-    "iso3166_numeric": "262",
     "currency_code": "DJF",
     "flags": {
       "flat": {
@@ -1557,14 +1685,16 @@
         "48": "https://countryflags.io/DJ/shiny/48.png",
         "64": "https://countryflags.io/DJ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "217e77d8-a244-4871-a49d-99b2c725f4ac",
     "name": "Dominica",
     "calling_code": "1-767",
     "iso3166_alpha2": "DM",
     "iso3166_alpha3": "DMA",
-    "iso3166_numeric": "212",
     "currency_code": "XCD",
     "flags": {
       "flat": {
@@ -1581,14 +1711,16 @@
         "48": "https://countryflags.io/DM/shiny/48.png",
         "64": "https://countryflags.io/DM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "fb01c204-6a4b-4e8f-8aa0-adcfcb08a540",
     "name": "Dominican Republic",
     "calling_code": "1-809,1-829,1-849",
     "iso3166_alpha2": "DO",
     "iso3166_alpha3": "DOM",
-    "iso3166_numeric": "214",
     "currency_code": "DOP",
     "flags": {
       "flat": {
@@ -1605,14 +1737,16 @@
         "48": "https://countryflags.io/DO/shiny/48.png",
         "64": "https://countryflags.io/DO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "f4b7d30d-6033-4967-9782-ada9c0073cde",
     "name": "Ecuador",
     "calling_code": "593",
     "iso3166_alpha2": "EC",
     "iso3166_alpha3": "ECU",
-    "iso3166_numeric": "218",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -1629,14 +1763,16 @@
         "48": "https://countryflags.io/EC/shiny/48.png",
         "64": "https://countryflags.io/EC/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "525f0fb9-2501-4e65-958a-3886a22f5873",
     "name": "Egypt",
     "calling_code": "20",
     "iso3166_alpha2": "EG",
     "iso3166_alpha3": "EGY",
-    "iso3166_numeric": "818",
     "currency_code": "EGP",
     "flags": {
       "flat": {
@@ -1653,14 +1789,16 @@
         "48": "https://countryflags.io/EG/shiny/48.png",
         "64": "https://countryflags.io/EG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0a61c8e1-53b9-4ef0-93de-8c16be98d115",
     "name": "El Salvador",
     "calling_code": "503",
     "iso3166_alpha2": "SV",
     "iso3166_alpha3": "SLV",
-    "iso3166_numeric": "222",
     "currency_code": "SVC,USD",
     "flags": {
       "flat": {
@@ -1677,14 +1815,16 @@
         "48": "https://countryflags.io/SV/shiny/48.png",
         "64": "https://countryflags.io/SV/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "bf1fe035-1587-4a3b-989a-0e22acd7b0c4",
     "name": "Equatorial Guinea",
     "calling_code": "240",
     "iso3166_alpha2": "GQ",
     "iso3166_alpha3": "GNQ",
-    "iso3166_numeric": "226",
     "currency_code": "XAF",
     "flags": {
       "flat": {
@@ -1701,14 +1841,16 @@
         "48": "https://countryflags.io/GQ/shiny/48.png",
         "64": "https://countryflags.io/GQ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0e2c2ced-d461-418e-b593-d266091a0698",
     "name": "Eritrea",
     "calling_code": "291",
     "iso3166_alpha2": "ER",
     "iso3166_alpha3": "ERI",
-    "iso3166_numeric": "232",
     "currency_code": "ERN",
     "flags": {
       "flat": {
@@ -1725,14 +1867,16 @@
         "48": "https://countryflags.io/ER/shiny/48.png",
         "64": "https://countryflags.io/ER/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "262d3e1b-26dd-4f51-b33d-f31df6578bc2",
     "name": "Estonia",
     "calling_code": "372",
     "iso3166_alpha2": "EE",
     "iso3166_alpha3": "EST",
-    "iso3166_numeric": "233",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -1749,14 +1893,16 @@
         "48": "https://countryflags.io/EE/shiny/48.png",
         "64": "https://countryflags.io/EE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "77239503-a132-404a-accc-10654d9cbe6b",
     "name": "Ethiopia",
     "calling_code": "251",
     "iso3166_alpha2": "ET",
     "iso3166_alpha3": "ETH",
-    "iso3166_numeric": "231",
     "currency_code": "ETB",
     "flags": {
       "flat": {
@@ -1773,14 +1919,16 @@
         "48": "https://countryflags.io/ET/shiny/48.png",
         "64": "https://countryflags.io/ET/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "9e730f95-530c-4ed4-8cde-937ada999f70",
     "name": "Falkland Islands (Malvinas)",
     "calling_code": "500",
     "iso3166_alpha2": "FK",
     "iso3166_alpha3": "FLK",
-    "iso3166_numeric": "238",
     "currency_code": "FKP",
     "flags": {
       "flat": {
@@ -1797,14 +1945,16 @@
         "48": "https://countryflags.io/FK/shiny/48.png",
         "64": "https://countryflags.io/FK/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "407eaf1b-41f4-440a-aa50-670e565970ae",
     "name": "Faroe Islands",
     "calling_code": "298",
     "iso3166_alpha2": "FO",
     "iso3166_alpha3": "FRO",
-    "iso3166_numeric": "234",
     "currency_code": "DKK",
     "flags": {
       "flat": {
@@ -1821,14 +1971,16 @@
         "48": "https://countryflags.io/FO/shiny/48.png",
         "64": "https://countryflags.io/FO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "4f6be207-081a-489f-9f4b-55de069f97e5",
     "name": "Fiji",
     "calling_code": "679",
     "iso3166_alpha2": "FJ",
     "iso3166_alpha3": "FJI",
-    "iso3166_numeric": "242",
     "currency_code": "FJD",
     "flags": {
       "flat": {
@@ -1845,14 +1997,16 @@
         "48": "https://countryflags.io/FJ/shiny/48.png",
         "64": "https://countryflags.io/FJ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5665ceee-331e-4251-a2b6-3807226bfa07",
     "name": "Finland",
     "calling_code": "358",
     "iso3166_alpha2": "FI",
     "iso3166_alpha3": "FIN",
-    "iso3166_numeric": "246",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -1869,14 +2023,16 @@
         "48": "https://countryflags.io/FI/shiny/48.png",
         "64": "https://countryflags.io/FI/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d73ba409-ad49-4ed5-a1e2-267d1bcd3187",
     "name": "France",
     "calling_code": "33",
     "iso3166_alpha2": "FR",
     "iso3166_alpha3": "FRA",
-    "iso3166_numeric": "250",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -1893,14 +2049,16 @@
         "48": "https://countryflags.io/FR/shiny/48.png",
         "64": "https://countryflags.io/FR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "25dc9c0e-d0e0-4acf-b75c-96d9e46d7f97",
     "name": "French Guiana",
     "calling_code": "594",
     "iso3166_alpha2": "GF",
     "iso3166_alpha3": "GUF",
-    "iso3166_numeric": "254",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -1917,14 +2075,16 @@
         "48": "https://countryflags.io/GF/shiny/48.png",
         "64": "https://countryflags.io/GF/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "55f9ca92-6b47-423d-a84b-826fd2970b96",
     "name": "French Polynesia",
     "calling_code": "689",
     "iso3166_alpha2": "PF",
     "iso3166_alpha3": "PYF",
-    "iso3166_numeric": "258",
     "currency_code": "XPF",
     "flags": {
       "flat": {
@@ -1941,14 +2101,16 @@
         "48": "https://countryflags.io/PF/shiny/48.png",
         "64": "https://countryflags.io/PF/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "059f5a23-d8b5-4578-a996-a8feafd48088",
     "name": "French Southern Territories",
     "calling_code": "262",
     "iso3166_alpha2": "TF",
     "iso3166_alpha3": "ATF",
-    "iso3166_numeric": "260",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -1965,14 +2127,16 @@
         "48": "https://countryflags.io/TF/shiny/48.png",
         "64": "https://countryflags.io/TF/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b64f0686-b90b-488e-b1ef-2d555874ac15",
     "name": "Gabon",
     "calling_code": "241",
     "iso3166_alpha2": "GA",
     "iso3166_alpha3": "GAB",
-    "iso3166_numeric": "266",
     "currency_code": "XAF",
     "flags": {
       "flat": {
@@ -1989,14 +2153,16 @@
         "48": "https://countryflags.io/GA/shiny/48.png",
         "64": "https://countryflags.io/GA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "2b7664f9-7278-4fe1-9cc3-4807f053b14c",
     "name": "Gambia",
     "calling_code": "220",
     "iso3166_alpha2": "GM",
     "iso3166_alpha3": "GMB",
-    "iso3166_numeric": "270",
     "currency_code": "GMD",
     "flags": {
       "flat": {
@@ -2013,14 +2179,16 @@
         "48": "https://countryflags.io/GM/shiny/48.png",
         "64": "https://countryflags.io/GM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "ffb101d8-d9af-4503-bdd8-d782741f60c4",
     "name": "Georgia",
     "calling_code": "995",
     "iso3166_alpha2": "GE",
     "iso3166_alpha3": "GEO",
-    "iso3166_numeric": "268",
     "currency_code": "GEL",
     "flags": {
       "flat": {
@@ -2037,14 +2205,16 @@
         "48": "https://countryflags.io/GE/shiny/48.png",
         "64": "https://countryflags.io/GE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "4d2c8d0f-ffa0-458b-b811-732bd1d0caa7",
     "name": "Germany",
     "calling_code": "49",
     "iso3166_alpha2": "DE",
     "iso3166_alpha3": "DEU",
-    "iso3166_numeric": "276",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -2061,14 +2231,16 @@
         "48": "https://countryflags.io/DE/shiny/48.png",
         "64": "https://countryflags.io/DE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7cf64ee6-c5b0-41c3-bd1e-04cb75e43ae3",
     "name": "Ghana",
     "calling_code": "233",
     "iso3166_alpha2": "GH",
     "iso3166_alpha3": "GHA",
-    "iso3166_numeric": "288",
     "currency_code": "GHS",
     "flags": {
       "flat": {
@@ -2085,14 +2257,16 @@
         "48": "https://countryflags.io/GH/shiny/48.png",
         "64": "https://countryflags.io/GH/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0142b31a-3ce4-48fa-84c1-bc94247a389b",
     "name": "Gibraltar",
     "calling_code": "350",
     "iso3166_alpha2": "GI",
     "iso3166_alpha3": "GIB",
-    "iso3166_numeric": "292",
     "currency_code": "GIP",
     "flags": {
       "flat": {
@@ -2109,14 +2283,16 @@
         "48": "https://countryflags.io/GI/shiny/48.png",
         "64": "https://countryflags.io/GI/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "cb4d664f-a508-42a8-b889-2460b84b2597",
     "name": "Greece",
     "calling_code": "30",
     "iso3166_alpha2": "GR",
     "iso3166_alpha3": "GRC",
-    "iso3166_numeric": "300",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -2133,14 +2309,16 @@
         "48": "https://countryflags.io/GR/shiny/48.png",
         "64": "https://countryflags.io/GR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "319b87df-8dd5-47bd-b336-6c0af7f40b6a",
     "name": "Greenland",
     "calling_code": "299",
     "iso3166_alpha2": "GL",
     "iso3166_alpha3": "GRL",
-    "iso3166_numeric": "304",
     "currency_code": "DKK",
     "flags": {
       "flat": {
@@ -2157,14 +2335,16 @@
         "48": "https://countryflags.io/GL/shiny/48.png",
         "64": "https://countryflags.io/GL/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "84d330b8-e7d2-45c3-9e4e-08b2a1e518be",
     "name": "Grenada",
     "calling_code": "1-473",
     "iso3166_alpha2": "GD",
     "iso3166_alpha3": "GRD",
-    "iso3166_numeric": "308",
     "currency_code": "XCD",
     "flags": {
       "flat": {
@@ -2181,14 +2361,16 @@
         "48": "https://countryflags.io/GD/shiny/48.png",
         "64": "https://countryflags.io/GD/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "936c3c23-4454-4082-bcc6-59de46250f75",
     "name": "Guadeloupe",
     "calling_code": "590",
     "iso3166_alpha2": "GP",
     "iso3166_alpha3": "GLP",
-    "iso3166_numeric": "312",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -2205,14 +2387,16 @@
         "48": "https://countryflags.io/GP/shiny/48.png",
         "64": "https://countryflags.io/GP/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "4f289f14-ade3-44f5-a0ca-cbc70ae6a092",
     "name": "Guam",
     "calling_code": "1-671",
     "iso3166_alpha2": "GU",
     "iso3166_alpha3": "GUM",
-    "iso3166_numeric": "316",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -2229,14 +2413,16 @@
         "48": "https://countryflags.io/GU/shiny/48.png",
         "64": "https://countryflags.io/GU/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "9fc9fd53-538e-4ef3-a8bb-5b1cb553c92b",
     "name": "Guatemala",
     "calling_code": "502",
     "iso3166_alpha2": "GT",
     "iso3166_alpha3": "GTM",
-    "iso3166_numeric": "320",
     "currency_code": "GTQ",
     "flags": {
       "flat": {
@@ -2253,14 +2439,16 @@
         "48": "https://countryflags.io/GT/shiny/48.png",
         "64": "https://countryflags.io/GT/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "8e684586-75e8-41ba-931a-ee199169bfc1",
     "name": "Guernsey",
     "calling_code": "44",
     "iso3166_alpha2": "GG",
     "iso3166_alpha3": "GGY",
-    "iso3166_numeric": "831",
     "currency_code": "GBP",
     "flags": {
       "flat": {
@@ -2277,14 +2465,16 @@
         "48": "https://countryflags.io/GG/shiny/48.png",
         "64": "https://countryflags.io/GG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6faa6c3b-e519-4ad0-8bbb-8fc93ed3c6ca",
     "name": "Guinea",
     "calling_code": "224",
     "iso3166_alpha2": "GN",
     "iso3166_alpha3": "GIN",
-    "iso3166_numeric": "324",
     "currency_code": "GNF",
     "flags": {
       "flat": {
@@ -2301,14 +2491,16 @@
         "48": "https://countryflags.io/GN/shiny/48.png",
         "64": "https://countryflags.io/GN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b0be4515-e245-416f-ab61-c8c186fe4135",
     "name": "Guinea-Bissau",
     "calling_code": "245",
     "iso3166_alpha2": "GW",
     "iso3166_alpha3": "GNB",
-    "iso3166_numeric": "624",
     "currency_code": "XOF",
     "flags": {
       "flat": {
@@ -2325,14 +2517,16 @@
         "48": "https://countryflags.io/GW/shiny/48.png",
         "64": "https://countryflags.io/GW/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "091e50db-4829-4223-94df-dfbbf7c7966f",
     "name": "Guyana",
     "calling_code": "592",
     "iso3166_alpha2": "GY",
     "iso3166_alpha3": "GUY",
-    "iso3166_numeric": "328",
     "currency_code": "GYD",
     "flags": {
       "flat": {
@@ -2349,14 +2543,16 @@
         "48": "https://countryflags.io/GY/shiny/48.png",
         "64": "https://countryflags.io/GY/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6fd11299-f960-4e55-8ce6-c5b365aa65ed",
     "name": "Haiti",
     "calling_code": "509",
     "iso3166_alpha2": "HT",
     "iso3166_alpha3": "HTI",
-    "iso3166_numeric": "332",
     "currency_code": "HTG",
     "flags": {
       "flat": {
@@ -2373,14 +2569,16 @@
         "48": "https://countryflags.io/HT/shiny/48.png",
         "64": "https://countryflags.io/HT/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b8ec7f20-791b-4f37-882e-ce3e243aaa4c",
     "name": "Heard Island and McDonald Islands",
     "calling_code": "672",
     "iso3166_alpha2": "HM",
     "iso3166_alpha3": "HMD",
-    "iso3166_numeric": "334",
     "currency_code": "AUD",
     "flags": {
       "flat": {
@@ -2397,14 +2595,16 @@
         "48": "https://countryflags.io/HM/shiny/48.png",
         "64": "https://countryflags.io/HM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5676b239-7803-41b5-bfb2-cf81a5543e7f",
     "name": "Holy See",
     "calling_code": "39-06",
     "iso3166_alpha2": "VA",
     "iso3166_alpha3": "VAT",
-    "iso3166_numeric": "336",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -2421,14 +2621,16 @@
         "48": "https://countryflags.io/VA/shiny/48.png",
         "64": "https://countryflags.io/VA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "aee47023-db52-4cef-8b87-ac01e0473808",
     "name": "Honduras",
     "calling_code": "504",
     "iso3166_alpha2": "HN",
     "iso3166_alpha3": "HND",
-    "iso3166_numeric": "340",
     "currency_code": "HNL",
     "flags": {
       "flat": {
@@ -2445,14 +2647,16 @@
         "48": "https://countryflags.io/HN/shiny/48.png",
         "64": "https://countryflags.io/HN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6f4026c4-bae1-4b44-b618-fe6e6add5ad7",
     "name": "Hungary",
     "calling_code": "36",
     "iso3166_alpha2": "HU",
     "iso3166_alpha3": "HUN",
-    "iso3166_numeric": "348",
     "currency_code": "HUF",
     "flags": {
       "flat": {
@@ -2469,14 +2673,16 @@
         "48": "https://countryflags.io/HU/shiny/48.png",
         "64": "https://countryflags.io/HU/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "797a9dd9-8e2b-4ccf-a80c-46f7cb2fffc6",
     "name": "Iceland",
     "calling_code": "354",
     "iso3166_alpha2": "IS",
     "iso3166_alpha3": "ISL",
-    "iso3166_numeric": "352",
     "currency_code": "ISK",
     "flags": {
       "flat": {
@@ -2493,14 +2699,16 @@
         "48": "https://countryflags.io/IS/shiny/48.png",
         "64": "https://countryflags.io/IS/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "c9fad86d-5c83-465f-af3c-1ab6b0fa6df7",
     "name": "India",
     "calling_code": "91",
     "iso3166_alpha2": "IN",
     "iso3166_alpha3": "IND",
-    "iso3166_numeric": "356",
     "currency_code": "INR",
     "flags": {
       "flat": {
@@ -2517,14 +2725,16 @@
         "48": "https://countryflags.io/IN/shiny/48.png",
         "64": "https://countryflags.io/IN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "3aef2d67-58ef-4e06-926f-a8ec0cf2b0cf",
     "name": "Indonesia",
     "calling_code": "62",
     "iso3166_alpha2": "ID",
     "iso3166_alpha3": "IDN",
-    "iso3166_numeric": "360",
     "currency_code": "IDR",
     "flags": {
       "flat": {
@@ -2541,14 +2751,16 @@
         "48": "https://countryflags.io/ID/shiny/48.png",
         "64": "https://countryflags.io/ID/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "2ed962b2-b6a0-4518-824d-79f744d9fdbc",
     "name": "Iran (Islamic Republic of)",
     "calling_code": "98",
     "iso3166_alpha2": "IR",
     "iso3166_alpha3": "IRN",
-    "iso3166_numeric": "364",
     "currency_code": "IRR",
     "flags": {
       "flat": {
@@ -2565,14 +2777,16 @@
         "48": "https://countryflags.io/IR/shiny/48.png",
         "64": "https://countryflags.io/IR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "9de51b0a-e67f-47cd-ad71-947cea79f455",
     "name": "Iraq",
     "calling_code": "964",
     "iso3166_alpha2": "IQ",
     "iso3166_alpha3": "IRQ",
-    "iso3166_numeric": "368",
     "currency_code": "IQD",
     "flags": {
       "flat": {
@@ -2589,14 +2803,16 @@
         "48": "https://countryflags.io/IQ/shiny/48.png",
         "64": "https://countryflags.io/IQ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "21f45722-72c9-4925-9d3d-324ef157b992",
     "name": "Ireland",
     "calling_code": "353",
     "iso3166_alpha2": "IE",
     "iso3166_alpha3": "IRL",
-    "iso3166_numeric": "372",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -2613,14 +2829,16 @@
         "48": "https://countryflags.io/IE/shiny/48.png",
         "64": "https://countryflags.io/IE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "42dcf71f-fd68-4bff-bd9a-3547d6156b05",
     "name": "Isle of Man",
     "calling_code": "44",
     "iso3166_alpha2": "IM",
     "iso3166_alpha3": "IMN",
-    "iso3166_numeric": "833",
     "currency_code": "GBP",
     "flags": {
       "flat": {
@@ -2637,14 +2855,16 @@
         "48": "https://countryflags.io/IM/shiny/48.png",
         "64": "https://countryflags.io/IM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "3ac85b31-ef9f-499b-8068-b35730b3d9cd",
     "name": "Israel",
     "calling_code": "972",
     "iso3166_alpha2": "IL",
     "iso3166_alpha3": "ISR",
-    "iso3166_numeric": "376",
     "currency_code": "ILS",
     "flags": {
       "flat": {
@@ -2661,14 +2881,16 @@
         "48": "https://countryflags.io/IL/shiny/48.png",
         "64": "https://countryflags.io/IL/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "8660f6bd-e351-4732-84b4-dbbd3c3ee12c",
     "name": "Italy",
     "calling_code": "39",
     "iso3166_alpha2": "IT",
     "iso3166_alpha3": "ITA",
-    "iso3166_numeric": "380",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -2685,14 +2907,16 @@
         "48": "https://countryflags.io/IT/shiny/48.png",
         "64": "https://countryflags.io/IT/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "10215451-7882-4615-8659-cc9613a29d01",
     "name": "Jamaica",
     "calling_code": "1-876",
     "iso3166_alpha2": "JM",
     "iso3166_alpha3": "JAM",
-    "iso3166_numeric": "388",
     "currency_code": "JMD",
     "flags": {
       "flat": {
@@ -2709,14 +2933,16 @@
         "48": "https://countryflags.io/JM/shiny/48.png",
         "64": "https://countryflags.io/JM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5a9dc194-e0bd-4149-b3a0-cc9996d2efcd",
     "name": "Japan",
     "calling_code": "81",
     "iso3166_alpha2": "JP",
     "iso3166_alpha3": "JPN",
-    "iso3166_numeric": "392",
     "currency_code": "JPY",
     "flags": {
       "flat": {
@@ -2733,14 +2959,16 @@
         "48": "https://countryflags.io/JP/shiny/48.png",
         "64": "https://countryflags.io/JP/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "9f755376-50a7-4aab-a8b3-365647c96916",
     "name": "Jersey",
     "calling_code": "44",
     "iso3166_alpha2": "JE",
     "iso3166_alpha3": "JEY",
-    "iso3166_numeric": "832",
     "currency_code": "GBP",
     "flags": {
       "flat": {
@@ -2757,14 +2985,16 @@
         "48": "https://countryflags.io/JE/shiny/48.png",
         "64": "https://countryflags.io/JE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "bd2c8f37-c0ee-47d1-bcce-ed51a4f3f5df",
     "name": "Jordan",
     "calling_code": "962",
     "iso3166_alpha2": "JO",
     "iso3166_alpha3": "JOR",
-    "iso3166_numeric": "400",
     "currency_code": "JOD",
     "flags": {
       "flat": {
@@ -2781,14 +3011,16 @@
         "48": "https://countryflags.io/JO/shiny/48.png",
         "64": "https://countryflags.io/JO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "3b4a8f19-1617-451b-9117-c8c381fd9725",
     "name": "Kazakhstan",
     "calling_code": "7",
     "iso3166_alpha2": "KZ",
     "iso3166_alpha3": "KAZ",
-    "iso3166_numeric": "398",
     "currency_code": "KZT",
     "flags": {
       "flat": {
@@ -2805,14 +3037,16 @@
         "48": "https://countryflags.io/KZ/shiny/48.png",
         "64": "https://countryflags.io/KZ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "08de3474-d584-4e7a-8664-1e83927f8bd9",
     "name": "Kenya",
     "calling_code": "254",
     "iso3166_alpha2": "KE",
     "iso3166_alpha3": "KEN",
-    "iso3166_numeric": "404",
     "currency_code": "KES",
     "flags": {
       "flat": {
@@ -2829,14 +3063,16 @@
         "48": "https://countryflags.io/KE/shiny/48.png",
         "64": "https://countryflags.io/KE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b4327db4-aa30-4ce5-89fd-87fd38e03876",
     "name": "Kiribati",
     "calling_code": "686",
     "iso3166_alpha2": "KI",
     "iso3166_alpha3": "KIR",
-    "iso3166_numeric": "296",
     "currency_code": "AUD",
     "flags": {
       "flat": {
@@ -2853,14 +3089,16 @@
         "48": "https://countryflags.io/KI/shiny/48.png",
         "64": "https://countryflags.io/KI/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "c2cdd372-f091-46d6-8655-b41cc691bd18",
     "name": "Kuwait",
     "calling_code": "965",
     "iso3166_alpha2": "KW",
     "iso3166_alpha3": "KWT",
-    "iso3166_numeric": "414",
     "currency_code": "KWD",
     "flags": {
       "flat": {
@@ -2877,14 +3115,16 @@
         "48": "https://countryflags.io/KW/shiny/48.png",
         "64": "https://countryflags.io/KW/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "3aa154ff-4385-4494-b7f2-3638c25296e5",
     "name": "Kyrgyzstan",
     "calling_code": "996",
     "iso3166_alpha2": "KG",
     "iso3166_alpha3": "KGZ",
-    "iso3166_numeric": "417",
     "currency_code": "KGS",
     "flags": {
       "flat": {
@@ -2901,14 +3141,16 @@
         "48": "https://countryflags.io/KG/shiny/48.png",
         "64": "https://countryflags.io/KG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "9f0f1b8e-5174-4d81-b584-e37da4cb5643",
     "name": "Lao People's Democratic Republic",
     "calling_code": "856",
     "iso3166_alpha2": "LA",
     "iso3166_alpha3": "LAO",
-    "iso3166_numeric": "418",
     "currency_code": "LAK",
     "flags": {
       "flat": {
@@ -2925,14 +3167,16 @@
         "48": "https://countryflags.io/LA/shiny/48.png",
         "64": "https://countryflags.io/LA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "bc415cd4-d721-4105-ba58-87230fd2d546",
     "name": "Latvia",
     "calling_code": "371",
     "iso3166_alpha2": "LV",
     "iso3166_alpha3": "LVA",
-    "iso3166_numeric": "428",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -2949,14 +3193,16 @@
         "48": "https://countryflags.io/LV/shiny/48.png",
         "64": "https://countryflags.io/LV/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0aa71053-cb1a-466c-af7d-4af5962b9842",
     "name": "Lebanon",
     "calling_code": "961",
     "iso3166_alpha2": "LB",
     "iso3166_alpha3": "LBN",
-    "iso3166_numeric": "422",
     "currency_code": "LBP",
     "flags": {
       "flat": {
@@ -2973,14 +3219,16 @@
         "48": "https://countryflags.io/LB/shiny/48.png",
         "64": "https://countryflags.io/LB/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "f1f6daef-fc3e-497e-adcb-e8b91a588614",
     "name": "Lesotho",
     "calling_code": "266",
     "iso3166_alpha2": "LS",
     "iso3166_alpha3": "LSO",
-    "iso3166_numeric": "426",
     "currency_code": "LSL,ZAR",
     "flags": {
       "flat": {
@@ -2997,14 +3245,16 @@
         "48": "https://countryflags.io/LS/shiny/48.png",
         "64": "https://countryflags.io/LS/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "8f5b92be-bbec-411f-871a-0afc5fea0b73",
     "name": "Liberia",
     "calling_code": "231",
     "iso3166_alpha2": "LR",
     "iso3166_alpha3": "LBR",
-    "iso3166_numeric": "430",
     "currency_code": "LRD",
     "flags": {
       "flat": {
@@ -3021,14 +3271,16 @@
         "48": "https://countryflags.io/LR/shiny/48.png",
         "64": "https://countryflags.io/LR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0b71627a-ee03-4e89-bcc9-650e2fb46050",
     "name": "Libya",
     "calling_code": "218",
     "iso3166_alpha2": "LY",
     "iso3166_alpha3": "LBY",
-    "iso3166_numeric": "434",
     "currency_code": "LYD",
     "flags": {
       "flat": {
@@ -3045,14 +3297,16 @@
         "48": "https://countryflags.io/LY/shiny/48.png",
         "64": "https://countryflags.io/LY/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "76b79f1c-3292-4a72-ac2d-d9dd7a11e580",
     "name": "Liechtenstein",
     "calling_code": "423",
     "iso3166_alpha2": "LI",
     "iso3166_alpha3": "LIE",
-    "iso3166_numeric": "438",
     "currency_code": "CHF",
     "flags": {
       "flat": {
@@ -3069,14 +3323,16 @@
         "48": "https://countryflags.io/LI/shiny/48.png",
         "64": "https://countryflags.io/LI/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "089a7cda-e244-491f-acd3-9cad18a0df15",
     "name": "Lithuania",
     "calling_code": "370",
     "iso3166_alpha2": "LT",
     "iso3166_alpha3": "LTU",
-    "iso3166_numeric": "440",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -3093,14 +3349,16 @@
         "48": "https://countryflags.io/LT/shiny/48.png",
         "64": "https://countryflags.io/LT/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "e67e3ea4-cc87-45d7-baff-f9f03daf30e6",
     "name": "Luxembourg",
     "calling_code": "352",
     "iso3166_alpha2": "LU",
     "iso3166_alpha3": "LUX",
-    "iso3166_numeric": "442",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -3117,14 +3375,16 @@
         "48": "https://countryflags.io/LU/shiny/48.png",
         "64": "https://countryflags.io/LU/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "dbbd1977-ab3a-46b9-89fc-6f7c500fc702",
     "name": "Madagascar",
     "calling_code": "261",
     "iso3166_alpha2": "MG",
     "iso3166_alpha3": "MDG",
-    "iso3166_numeric": "450",
     "currency_code": "MGA",
     "flags": {
       "flat": {
@@ -3141,14 +3401,16 @@
         "48": "https://countryflags.io/MG/shiny/48.png",
         "64": "https://countryflags.io/MG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "55285442-48c9-465b-b812-4f69c057e97d",
     "name": "Malawi",
     "calling_code": "265",
     "iso3166_alpha2": "MW",
     "iso3166_alpha3": "MWI",
-    "iso3166_numeric": "454",
     "currency_code": "MWK",
     "flags": {
       "flat": {
@@ -3165,14 +3427,16 @@
         "48": "https://countryflags.io/MW/shiny/48.png",
         "64": "https://countryflags.io/MW/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "de549f6f-a8af-4bfe-bae9-2dc20b695dd6",
     "name": "Malaysia",
     "calling_code": "60",
     "iso3166_alpha2": "MY",
     "iso3166_alpha3": "MYS",
-    "iso3166_numeric": "458",
     "currency_code": "MYR",
     "flags": {
       "flat": {
@@ -3189,14 +3453,16 @@
         "48": "https://countryflags.io/MY/shiny/48.png",
         "64": "https://countryflags.io/MY/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "536cb9c3-5610-4a75-acf0-53d98f25eb33",
     "name": "Maldives",
     "calling_code": "960",
     "iso3166_alpha2": "MV",
     "iso3166_alpha3": "MDV",
-    "iso3166_numeric": "462",
     "currency_code": "MVR",
     "flags": {
       "flat": {
@@ -3213,14 +3479,16 @@
         "48": "https://countryflags.io/MV/shiny/48.png",
         "64": "https://countryflags.io/MV/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "8d772ddb-a6eb-4143-bd74-3cd4d5f163f9",
     "name": "Mali",
     "calling_code": "223",
     "iso3166_alpha2": "ML",
     "iso3166_alpha3": "MLI",
-    "iso3166_numeric": "466",
     "currency_code": "XOF",
     "flags": {
       "flat": {
@@ -3237,14 +3505,16 @@
         "48": "https://countryflags.io/ML/shiny/48.png",
         "64": "https://countryflags.io/ML/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6a54446a-83dc-4c2b-be28-0c24cf72e213",
     "name": "Malta",
     "calling_code": "356",
     "iso3166_alpha2": "MT",
     "iso3166_alpha3": "MLT",
-    "iso3166_numeric": "470",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -3261,14 +3531,16 @@
         "48": "https://countryflags.io/MT/shiny/48.png",
         "64": "https://countryflags.io/MT/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "62cad98c-7e5c-4f3e-9d9e-16ad02c44122",
     "name": "Marshall Islands",
     "calling_code": "692",
     "iso3166_alpha2": "MH",
     "iso3166_alpha3": "MHL",
-    "iso3166_numeric": "584",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -3285,14 +3557,16 @@
         "48": "https://countryflags.io/MH/shiny/48.png",
         "64": "https://countryflags.io/MH/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6d8e1d8b-45d5-47e9-a41e-77b3a8135e66",
     "name": "Martinique",
     "calling_code": "596",
     "iso3166_alpha2": "MQ",
     "iso3166_alpha3": "MTQ",
-    "iso3166_numeric": "474",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -3309,14 +3583,16 @@
         "48": "https://countryflags.io/MQ/shiny/48.png",
         "64": "https://countryflags.io/MQ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6b3ab72a-b717-4cdb-a4c7-f50accc86f78",
     "name": "Mauritania",
     "calling_code": "222",
     "iso3166_alpha2": "MR",
     "iso3166_alpha3": "MRT",
-    "iso3166_numeric": "478",
     "currency_code": "MRO",
     "flags": {
       "flat": {
@@ -3333,14 +3609,16 @@
         "48": "https://countryflags.io/MR/shiny/48.png",
         "64": "https://countryflags.io/MR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0f093190-05ac-4337-8791-35dca84f2ba8",
     "name": "Mauritius",
     "calling_code": "230",
     "iso3166_alpha2": "MU",
     "iso3166_alpha3": "MUS",
-    "iso3166_numeric": "480",
     "currency_code": "MUR",
     "flags": {
       "flat": {
@@ -3357,14 +3635,16 @@
         "48": "https://countryflags.io/MU/shiny/48.png",
         "64": "https://countryflags.io/MU/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5215f9de-3c12-4aa8-9d1f-b3c37ee7046a",
     "name": "Mayotte",
     "calling_code": "262",
     "iso3166_alpha2": "YT",
     "iso3166_alpha3": "MYT",
-    "iso3166_numeric": "175",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -3381,14 +3661,16 @@
         "48": "https://countryflags.io/YT/shiny/48.png",
         "64": "https://countryflags.io/YT/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d5cfe229-bfd4-413f-baec-bd622c039b61",
     "name": "Mexico",
     "calling_code": "52",
     "iso3166_alpha2": "MX",
     "iso3166_alpha3": "MEX",
-    "iso3166_numeric": "484",
     "currency_code": "MXN",
     "flags": {
       "flat": {
@@ -3405,14 +3687,16 @@
         "48": "https://countryflags.io/MX/shiny/48.png",
         "64": "https://countryflags.io/MX/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7f3447c3-6e03-4ca3-b26f-b80f5c4c73ef",
     "name": "Micronesia (Federated States of)",
     "calling_code": "691",
     "iso3166_alpha2": "FM",
     "iso3166_alpha3": "FSM",
-    "iso3166_numeric": "583",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -3429,14 +3713,16 @@
         "48": "https://countryflags.io/FM/shiny/48.png",
         "64": "https://countryflags.io/FM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0f1a9e48-4cd5-4fac-9e23-9fe85c3a090b",
     "name": "Monaco",
     "calling_code": "377",
     "iso3166_alpha2": "MC",
     "iso3166_alpha3": "MCO",
-    "iso3166_numeric": "492",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -3453,14 +3739,16 @@
         "48": "https://countryflags.io/MC/shiny/48.png",
         "64": "https://countryflags.io/MC/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "a634118c-36db-4876-a31a-1c2fe8116862",
     "name": "Mongolia",
     "calling_code": "976",
     "iso3166_alpha2": "MN",
     "iso3166_alpha3": "MNG",
-    "iso3166_numeric": "496",
     "currency_code": "MNT",
     "flags": {
       "flat": {
@@ -3477,14 +3765,16 @@
         "48": "https://countryflags.io/MN/shiny/48.png",
         "64": "https://countryflags.io/MN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5fa7882e-2ad1-4c13-9d59-818333bebf71",
     "name": "Montenegro",
     "calling_code": "382",
     "iso3166_alpha2": "ME",
     "iso3166_alpha3": "MNE",
-    "iso3166_numeric": "499",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -3501,14 +3791,16 @@
         "48": "https://countryflags.io/ME/shiny/48.png",
         "64": "https://countryflags.io/ME/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "83291baa-4d0c-4fd4-b422-cf0f90d553fa",
     "name": "Montserrat",
     "calling_code": "1-664",
     "iso3166_alpha2": "MS",
     "iso3166_alpha3": "MSR",
-    "iso3166_numeric": "500",
     "currency_code": "XCD",
     "flags": {
       "flat": {
@@ -3525,14 +3817,16 @@
         "48": "https://countryflags.io/MS/shiny/48.png",
         "64": "https://countryflags.io/MS/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "f413754d-73fd-473c-8c35-57be1e349a76",
     "name": "Morocco",
     "calling_code": "212",
     "iso3166_alpha2": "MA",
     "iso3166_alpha3": "MAR",
-    "iso3166_numeric": "504",
     "currency_code": "MAD",
     "flags": {
       "flat": {
@@ -3549,14 +3843,16 @@
         "48": "https://countryflags.io/MA/shiny/48.png",
         "64": "https://countryflags.io/MA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d4a2fff0-920f-4aef-8bf7-0ce8904dbda8",
     "name": "Mozambique",
     "calling_code": "258",
     "iso3166_alpha2": "MZ",
     "iso3166_alpha3": "MOZ",
-    "iso3166_numeric": "508",
     "currency_code": "MZN",
     "flags": {
       "flat": {
@@ -3573,14 +3869,16 @@
         "48": "https://countryflags.io/MZ/shiny/48.png",
         "64": "https://countryflags.io/MZ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "ccde67ea-2d0b-441f-85ef-41dcc0cf5519",
     "name": "Myanmar",
     "calling_code": "95",
     "iso3166_alpha2": "MM",
     "iso3166_alpha3": "MMR",
-    "iso3166_numeric": "104",
     "currency_code": "MMK",
     "flags": {
       "flat": {
@@ -3597,14 +3895,16 @@
         "48": "https://countryflags.io/MM/shiny/48.png",
         "64": "https://countryflags.io/MM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "abe44f3d-e08e-4eb6-84a6-859cd43d0057",
     "name": "Namibia",
     "calling_code": "264",
     "iso3166_alpha2": "NA",
     "iso3166_alpha3": "NAM",
-    "iso3166_numeric": "516",
     "currency_code": "NAD,ZAR",
     "flags": {
       "flat": {
@@ -3621,14 +3921,16 @@
         "48": "https://countryflags.io/NA/shiny/48.png",
         "64": "https://countryflags.io/NA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d611291b-41fa-4659-9f63-539c2b1d6aee",
     "name": "Nauru",
     "calling_code": "674",
     "iso3166_alpha2": "NR",
     "iso3166_alpha3": "NRU",
-    "iso3166_numeric": "520",
     "currency_code": "AUD",
     "flags": {
       "flat": {
@@ -3645,14 +3947,16 @@
         "48": "https://countryflags.io/NR/shiny/48.png",
         "64": "https://countryflags.io/NR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6826dc68-419e-469f-a627-a006770197e9",
     "name": "Nepal",
     "calling_code": "977",
     "iso3166_alpha2": "NP",
     "iso3166_alpha3": "NPL",
-    "iso3166_numeric": "524",
     "currency_code": "NPR",
     "flags": {
       "flat": {
@@ -3669,14 +3973,16 @@
         "48": "https://countryflags.io/NP/shiny/48.png",
         "64": "https://countryflags.io/NP/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "9ad79afc-e579-4e21-ad01-ff6064bc2d52",
     "name": "Netherlands",
     "calling_code": "31",
     "iso3166_alpha2": "NL",
     "iso3166_alpha3": "NLD",
-    "iso3166_numeric": "528",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -3693,14 +3999,16 @@
         "48": "https://countryflags.io/NL/shiny/48.png",
         "64": "https://countryflags.io/NL/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "2fa68d04-55e0-4d7e-bd85-0bb5f9c1a8f0",
     "name": "New Caledonia",
     "calling_code": "687",
     "iso3166_alpha2": "NC",
     "iso3166_alpha3": "NCL",
-    "iso3166_numeric": "540",
     "currency_code": "XPF",
     "flags": {
       "flat": {
@@ -3717,14 +4025,16 @@
         "48": "https://countryflags.io/NC/shiny/48.png",
         "64": "https://countryflags.io/NC/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "cb226cd5-7dca-4630-ba21-fab3177235e2",
     "name": "New Zealand",
     "calling_code": "64",
     "iso3166_alpha2": "NZ",
     "iso3166_alpha3": "NZL",
-    "iso3166_numeric": "554",
     "currency_code": "NZD",
     "flags": {
       "flat": {
@@ -3741,14 +4051,16 @@
         "48": "https://countryflags.io/NZ/shiny/48.png",
         "64": "https://countryflags.io/NZ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "9af02657-b89f-4f84-88a6-46f69be0f784",
     "name": "Nicaragua",
     "calling_code": "505",
     "iso3166_alpha2": "NI",
     "iso3166_alpha3": "NIC",
-    "iso3166_numeric": "558",
     "currency_code": "NIO",
     "flags": {
       "flat": {
@@ -3765,14 +4077,16 @@
         "48": "https://countryflags.io/NI/shiny/48.png",
         "64": "https://countryflags.io/NI/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "e710e2c1-9215-4570-bddc-ef792b46fabf",
     "name": "Niger",
     "calling_code": "227",
     "iso3166_alpha2": "NE",
     "iso3166_alpha3": "NER",
-    "iso3166_numeric": "562",
     "currency_code": "XOF",
     "flags": {
       "flat": {
@@ -3789,14 +4103,16 @@
         "48": "https://countryflags.io/NE/shiny/48.png",
         "64": "https://countryflags.io/NE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "c46683a1-a337-4e95-8e1c-09c993c4a55a",
     "name": "Nigeria",
     "calling_code": "234",
     "iso3166_alpha2": "NG",
     "iso3166_alpha3": "NGA",
-    "iso3166_numeric": "566",
     "currency_code": "NGN",
     "flags": {
       "flat": {
@@ -3813,14 +4129,16 @@
         "48": "https://countryflags.io/NG/shiny/48.png",
         "64": "https://countryflags.io/NG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "39a03290-78fa-49b9-81e8-ee5b8720b3fc",
     "name": "Niue",
     "calling_code": "683",
     "iso3166_alpha2": "NU",
     "iso3166_alpha3": "NIU",
-    "iso3166_numeric": "570",
     "currency_code": "NZD",
     "flags": {
       "flat": {
@@ -3837,14 +4155,16 @@
         "48": "https://countryflags.io/NU/shiny/48.png",
         "64": "https://countryflags.io/NU/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "9f35fd9e-5d07-488e-acd3-f165a68902f2",
     "name": "Norfolk Island",
     "calling_code": "672",
     "iso3166_alpha2": "NF",
     "iso3166_alpha3": "NFK",
-    "iso3166_numeric": "574",
     "currency_code": "AUD",
     "flags": {
       "flat": {
@@ -3861,14 +4181,16 @@
         "48": "https://countryflags.io/NF/shiny/48.png",
         "64": "https://countryflags.io/NF/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "81b3424d-e6fe-4ca7-b9f0-b895c8034e66",
     "name": "Northern Mariana Islands",
     "calling_code": "1-670",
     "iso3166_alpha2": "MP",
     "iso3166_alpha3": "MNP",
-    "iso3166_numeric": "580",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -3885,14 +4207,16 @@
         "48": "https://countryflags.io/MP/shiny/48.png",
         "64": "https://countryflags.io/MP/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d8472b6c-8e72-42cc-8c4d-a8212a55662e",
     "name": "Norway",
     "calling_code": "47",
     "iso3166_alpha2": "NO",
     "iso3166_alpha3": "NOR",
-    "iso3166_numeric": "578",
     "currency_code": "NOK",
     "flags": {
       "flat": {
@@ -3909,14 +4233,16 @@
         "48": "https://countryflags.io/NO/shiny/48.png",
         "64": "https://countryflags.io/NO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "74d82cb3-0bfa-48c5-98a5-73750f8f996b",
     "name": "Oman",
     "calling_code": "968",
     "iso3166_alpha2": "OM",
     "iso3166_alpha3": "OMN",
-    "iso3166_numeric": "512",
     "currency_code": "OMR",
     "flags": {
       "flat": {
@@ -3933,14 +4259,16 @@
         "48": "https://countryflags.io/OM/shiny/48.png",
         "64": "https://countryflags.io/OM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7d5f97e4-8836-4278-960a-14ec67de8e31",
     "name": "Pakistan",
     "calling_code": "92",
     "iso3166_alpha2": "PK",
     "iso3166_alpha3": "PAK",
-    "iso3166_numeric": "586",
     "currency_code": "PKR",
     "flags": {
       "flat": {
@@ -3957,14 +4285,16 @@
         "48": "https://countryflags.io/PK/shiny/48.png",
         "64": "https://countryflags.io/PK/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "8aa96e1a-78b7-49da-98de-0820d48cb59a",
     "name": "Palau",
     "calling_code": "680",
     "iso3166_alpha2": "PW",
     "iso3166_alpha3": "PLW",
-    "iso3166_numeric": "585",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -3981,14 +4311,16 @@
         "48": "https://countryflags.io/PW/shiny/48.png",
         "64": "https://countryflags.io/PW/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "81c57369-4506-4793-a027-df2b45708699",
     "name": "Panama",
     "calling_code": "507",
     "iso3166_alpha2": "PA",
     "iso3166_alpha3": "PAN",
-    "iso3166_numeric": "591",
     "currency_code": "PAB,USD",
     "flags": {
       "flat": {
@@ -4005,14 +4337,16 @@
         "48": "https://countryflags.io/PA/shiny/48.png",
         "64": "https://countryflags.io/PA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "e84bf03c-3cb9-4f84-8b74-9d7c44b8a82a",
     "name": "Papua New Guinea",
     "calling_code": "675",
     "iso3166_alpha2": "PG",
     "iso3166_alpha3": "PNG",
-    "iso3166_numeric": "598",
     "currency_code": "PGK",
     "flags": {
       "flat": {
@@ -4029,14 +4363,16 @@
         "48": "https://countryflags.io/PG/shiny/48.png",
         "64": "https://countryflags.io/PG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "9983bd82-b446-4f04-9cc7-c7a68b4b36e9",
     "name": "Paraguay",
     "calling_code": "595",
     "iso3166_alpha2": "PY",
     "iso3166_alpha3": "PRY",
-    "iso3166_numeric": "600",
     "currency_code": "PYG",
     "flags": {
       "flat": {
@@ -4053,14 +4389,16 @@
         "48": "https://countryflags.io/PY/shiny/48.png",
         "64": "https://countryflags.io/PY/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5ae84cda-d90c-4071-9094-e9a33c2ba1a0",
     "name": "Peru",
     "calling_code": "51",
     "iso3166_alpha2": "PE",
     "iso3166_alpha3": "PER",
-    "iso3166_numeric": "604",
     "currency_code": "PEN",
     "flags": {
       "flat": {
@@ -4077,14 +4415,16 @@
         "48": "https://countryflags.io/PE/shiny/48.png",
         "64": "https://countryflags.io/PE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "1dc72d52-b5cc-40e9-99cb-a4def87710df",
     "name": "Philippines",
     "calling_code": "63",
     "iso3166_alpha2": "PH",
     "iso3166_alpha3": "PHL",
-    "iso3166_numeric": "608",
     "currency_code": "PHP",
     "flags": {
       "flat": {
@@ -4101,14 +4441,16 @@
         "48": "https://countryflags.io/PH/shiny/48.png",
         "64": "https://countryflags.io/PH/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "16964549-5328-4732-97ef-e46d637f1d16",
     "name": "Pitcairn",
     "calling_code": "870",
     "iso3166_alpha2": "PN",
     "iso3166_alpha3": "PCN",
-    "iso3166_numeric": "612",
     "currency_code": "NZD",
     "flags": {
       "flat": {
@@ -4125,14 +4467,16 @@
         "48": "https://countryflags.io/PN/shiny/48.png",
         "64": "https://countryflags.io/PN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "37ddd506-667b-4708-99b3-e16c36c550a2",
     "name": "Poland",
     "calling_code": "48",
     "iso3166_alpha2": "PL",
     "iso3166_alpha3": "POL",
-    "iso3166_numeric": "616",
     "currency_code": "PLN",
     "flags": {
       "flat": {
@@ -4149,14 +4493,16 @@
         "48": "https://countryflags.io/PL/shiny/48.png",
         "64": "https://countryflags.io/PL/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "f9768583-d515-4498-9c6d-84e26ddb8ca6",
     "name": "Portugal",
     "calling_code": "351",
     "iso3166_alpha2": "PT",
     "iso3166_alpha3": "PRT",
-    "iso3166_numeric": "620",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -4173,14 +4519,16 @@
         "48": "https://countryflags.io/PT/shiny/48.png",
         "64": "https://countryflags.io/PT/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "284863e7-536c-4c31-80d9-a93670d10707",
     "name": "Puerto Rico",
     "calling_code": "1",
     "iso3166_alpha2": "PR",
     "iso3166_alpha3": "PRI",
-    "iso3166_numeric": "630",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -4197,14 +4545,16 @@
         "48": "https://countryflags.io/PR/shiny/48.png",
         "64": "https://countryflags.io/PR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "61ed7973-8393-4409-9485-e5f20736839b",
     "name": "Qatar",
     "calling_code": "974",
     "iso3166_alpha2": "QA",
     "iso3166_alpha3": "QAT",
-    "iso3166_numeric": "634",
     "currency_code": "QAR",
     "flags": {
       "flat": {
@@ -4221,14 +4571,16 @@
         "48": "https://countryflags.io/QA/shiny/48.png",
         "64": "https://countryflags.io/QA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "f7dc70dd-4f39-4b70-a7fd-56d037fa1721",
     "name": "Republic of Korea",
     "calling_code": "82",
     "iso3166_alpha2": "KR",
     "iso3166_alpha3": "KOR",
-    "iso3166_numeric": "410",
     "currency_code": "KRW",
     "flags": {
       "flat": {
@@ -4245,14 +4597,16 @@
         "48": "https://countryflags.io/KR/shiny/48.png",
         "64": "https://countryflags.io/KR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d61a07f4-7947-4c3b-bc73-a7c64de96572",
     "name": "Republic of Moldova",
     "calling_code": "373",
     "iso3166_alpha2": "MD",
     "iso3166_alpha3": "MDA",
-    "iso3166_numeric": "498",
     "currency_code": "MDL",
     "flags": {
       "flat": {
@@ -4269,14 +4623,16 @@
         "48": "https://countryflags.io/MD/shiny/48.png",
         "64": "https://countryflags.io/MD/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6a613da8-59d1-409a-b6e4-f7d9a1bfa0ce",
     "name": "Romania",
     "calling_code": "40",
     "iso3166_alpha2": "RO",
     "iso3166_alpha3": "ROU",
-    "iso3166_numeric": "642",
     "currency_code": "RON",
     "flags": {
       "flat": {
@@ -4293,14 +4649,16 @@
         "48": "https://countryflags.io/RO/shiny/48.png",
         "64": "https://countryflags.io/RO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7875b7eb-2497-4939-8ca0-a76b72ec1a34",
     "name": "Russian Federation",
     "calling_code": "7",
     "iso3166_alpha2": "RU",
     "iso3166_alpha3": "RUS",
-    "iso3166_numeric": "643",
     "currency_code": "RUB",
     "flags": {
       "flat": {
@@ -4317,14 +4675,16 @@
         "48": "https://countryflags.io/RU/shiny/48.png",
         "64": "https://countryflags.io/RU/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "ad60f83a-3333-4be1-8f4b-b3f07e5f5de2",
     "name": "Rwanda",
     "calling_code": "250",
     "iso3166_alpha2": "RW",
     "iso3166_alpha3": "RWA",
-    "iso3166_numeric": "646",
     "currency_code": "RWF",
     "flags": {
       "flat": {
@@ -4341,14 +4701,16 @@
         "48": "https://countryflags.io/RW/shiny/48.png",
         "64": "https://countryflags.io/RW/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "327a8a16-ddc7-44d8-b10e-36b4e36275dc",
     "name": "Réunion",
     "calling_code": "262",
     "iso3166_alpha2": "RE",
     "iso3166_alpha3": "REU",
-    "iso3166_numeric": "638",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -4365,14 +4727,16 @@
         "48": "https://countryflags.io/RE/shiny/48.png",
         "64": "https://countryflags.io/RE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0a869094-8502-499c-92b2-76f911920775",
     "name": "Saint Barthélemy",
     "calling_code": "590",
     "iso3166_alpha2": "BL",
     "iso3166_alpha3": "BLM",
-    "iso3166_numeric": "652",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -4389,14 +4753,16 @@
         "48": "https://countryflags.io/BL/shiny/48.png",
         "64": "https://countryflags.io/BL/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "08f56574-5cf5-4562-a365-9f99830e987d",
     "name": "Saint Helena",
     "calling_code": "290",
     "iso3166_alpha2": "SH",
     "iso3166_alpha3": "SHN",
-    "iso3166_numeric": "654",
     "currency_code": "SHP",
     "flags": {
       "flat": {
@@ -4413,14 +4779,16 @@
         "48": "https://countryflags.io/SH/shiny/48.png",
         "64": "https://countryflags.io/SH/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "1a4b931e-25f7-438a-961c-d389ce57ca8c",
     "name": "Saint Kitts and Nevis",
     "calling_code": "1-869",
     "iso3166_alpha2": "KN",
     "iso3166_alpha3": "KNA",
-    "iso3166_numeric": "659",
     "currency_code": "XCD",
     "flags": {
       "flat": {
@@ -4437,14 +4805,16 @@
         "48": "https://countryflags.io/KN/shiny/48.png",
         "64": "https://countryflags.io/KN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "86a5475f-b69c-4617-9809-a16d5d144cd0",
     "name": "Saint Lucia",
     "calling_code": "1-758",
     "iso3166_alpha2": "LC",
     "iso3166_alpha3": "LCA",
-    "iso3166_numeric": "662",
     "currency_code": "XCD",
     "flags": {
       "flat": {
@@ -4461,14 +4831,16 @@
         "48": "https://countryflags.io/LC/shiny/48.png",
         "64": "https://countryflags.io/LC/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0f462db5-7b4d-4175-b043-6e008be6355a",
     "name": "Saint Martin (French Part)",
     "calling_code": "590",
     "iso3166_alpha2": "MF",
     "iso3166_alpha3": "MAF",
-    "iso3166_numeric": "663",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -4485,14 +4857,16 @@
         "48": "https://countryflags.io/MF/shiny/48.png",
         "64": "https://countryflags.io/MF/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "a92c18b1-8601-4887-a665-bb8b9b33f078",
     "name": "Saint Pierre and Miquelon",
     "calling_code": "508",
     "iso3166_alpha2": "PM",
     "iso3166_alpha3": "SPM",
-    "iso3166_numeric": "666",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -4509,14 +4883,16 @@
         "48": "https://countryflags.io/PM/shiny/48.png",
         "64": "https://countryflags.io/PM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "a3c5c4bd-977a-4b82-8d0d-508987c69180",
     "name": "Saint Vincent and the Grenadines",
     "calling_code": "1-784",
     "iso3166_alpha2": "VC",
     "iso3166_alpha3": "VCT",
-    "iso3166_numeric": "670",
     "currency_code": "XCD",
     "flags": {
       "flat": {
@@ -4533,14 +4909,16 @@
         "48": "https://countryflags.io/VC/shiny/48.png",
         "64": "https://countryflags.io/VC/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "26b04cd3-c723-4e11-88e3-43de14e83c6d",
     "name": "Samoa",
     "calling_code": "685",
     "iso3166_alpha2": "WS",
     "iso3166_alpha3": "WSM",
-    "iso3166_numeric": "882",
     "currency_code": "WST",
     "flags": {
       "flat": {
@@ -4557,14 +4935,16 @@
         "48": "https://countryflags.io/WS/shiny/48.png",
         "64": "https://countryflags.io/WS/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "74b30c72-f707-417e-9fb1-05360e6ecd94",
     "name": "San Marino",
     "calling_code": "378",
     "iso3166_alpha2": "SM",
     "iso3166_alpha3": "SMR",
-    "iso3166_numeric": "674",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -4581,14 +4961,16 @@
         "48": "https://countryflags.io/SM/shiny/48.png",
         "64": "https://countryflags.io/SM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5498d1d9-b99d-4153-a799-a87b3205d726",
     "name": "Sao Tome and Principe",
     "calling_code": "239",
     "iso3166_alpha2": "ST",
     "iso3166_alpha3": "STP",
-    "iso3166_numeric": "678",
     "currency_code": "STD",
     "flags": {
       "flat": {
@@ -4605,14 +4987,16 @@
         "48": "https://countryflags.io/ST/shiny/48.png",
         "64": "https://countryflags.io/ST/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "27f1dae3-1bf5-4a29-b1ed-905b835c1b39",
     "name": "Saudi Arabia",
     "calling_code": "966",
     "iso3166_alpha2": "SA",
     "iso3166_alpha3": "SAU",
-    "iso3166_numeric": "682",
     "currency_code": "SAR",
     "flags": {
       "flat": {
@@ -4629,14 +5013,16 @@
         "48": "https://countryflags.io/SA/shiny/48.png",
         "64": "https://countryflags.io/SA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "57e6093d-d95d-4f01-b43a-9a1c30750f31",
     "name": "Senegal",
     "calling_code": "221",
     "iso3166_alpha2": "SN",
     "iso3166_alpha3": "SEN",
-    "iso3166_numeric": "686",
     "currency_code": "XOF",
     "flags": {
       "flat": {
@@ -4653,14 +5039,16 @@
         "48": "https://countryflags.io/SN/shiny/48.png",
         "64": "https://countryflags.io/SN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "4acb1843-7256-4cf5-8a3f-a1752d612a07",
     "name": "Serbia",
     "calling_code": "381",
     "iso3166_alpha2": "RS",
     "iso3166_alpha3": "SRB",
-    "iso3166_numeric": "688",
     "currency_code": "RSD",
     "flags": {
       "flat": {
@@ -4677,14 +5065,16 @@
         "48": "https://countryflags.io/RS/shiny/48.png",
         "64": "https://countryflags.io/RS/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "63b344be-70cd-44c1-9459-750477c14c97",
     "name": "Seychelles",
     "calling_code": "248",
     "iso3166_alpha2": "SC",
     "iso3166_alpha3": "SYC",
-    "iso3166_numeric": "690",
     "currency_code": "SCR",
     "flags": {
       "flat": {
@@ -4701,14 +5091,16 @@
         "48": "https://countryflags.io/SC/shiny/48.png",
         "64": "https://countryflags.io/SC/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "2b65493e-1ada-4dd4-a11a-91f352724edd",
     "name": "Sierra Leone",
     "calling_code": "232",
     "iso3166_alpha2": "SL",
     "iso3166_alpha3": "SLE",
-    "iso3166_numeric": "694",
     "currency_code": "SLL",
     "flags": {
       "flat": {
@@ -4725,14 +5117,16 @@
         "48": "https://countryflags.io/SL/shiny/48.png",
         "64": "https://countryflags.io/SL/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "22a5ddfd-c8fa-46d4-970f-38f19ffadd4d",
     "name": "Singapore",
     "calling_code": "65",
     "iso3166_alpha2": "SG",
     "iso3166_alpha3": "SGP",
-    "iso3166_numeric": "702",
     "currency_code": "SGD",
     "flags": {
       "flat": {
@@ -4749,14 +5143,16 @@
         "48": "https://countryflags.io/SG/shiny/48.png",
         "64": "https://countryflags.io/SG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "134c941d-f3f2-4c79-b3b5-199f4d20c3d3",
     "name": "Sint Maarten (Dutch part)",
     "calling_code": "1-721",
     "iso3166_alpha2": "SX",
     "iso3166_alpha3": "SXM",
-    "iso3166_numeric": "534",
     "currency_code": "ANG",
     "flags": {
       "flat": {
@@ -4773,14 +5169,16 @@
         "48": "https://countryflags.io/SX/shiny/48.png",
         "64": "https://countryflags.io/SX/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "87f55766-2d11-47db-826e-73b61a073a26",
     "name": "Slovakia",
     "calling_code": "421",
     "iso3166_alpha2": "SK",
     "iso3166_alpha3": "SVK",
-    "iso3166_numeric": "703",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -4797,14 +5195,16 @@
         "48": "https://countryflags.io/SK/shiny/48.png",
         "64": "https://countryflags.io/SK/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "f8e04e84-918e-43d4-a19d-b62721fc7f99",
     "name": "Slovenia",
     "calling_code": "386",
     "iso3166_alpha2": "SI",
     "iso3166_alpha3": "SVN",
-    "iso3166_numeric": "705",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -4821,14 +5221,16 @@
         "48": "https://countryflags.io/SI/shiny/48.png",
         "64": "https://countryflags.io/SI/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "933538f7-c058-422a-adb3-8daa5df959ee",
     "name": "Solomon Islands",
     "calling_code": "677",
     "iso3166_alpha2": "SB",
     "iso3166_alpha3": "SLB",
-    "iso3166_numeric": "090",
     "currency_code": "SBD",
     "flags": {
       "flat": {
@@ -4845,14 +5247,16 @@
         "48": "https://countryflags.io/SB/shiny/48.png",
         "64": "https://countryflags.io/SB/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "617e56db-c8fc-4bb6-98e8-05d864cf74ab",
     "name": "Somalia",
     "calling_code": "252",
     "iso3166_alpha2": "SO",
     "iso3166_alpha3": "SOM",
-    "iso3166_numeric": "706",
     "currency_code": "SOS",
     "flags": {
       "flat": {
@@ -4869,14 +5273,16 @@
         "48": "https://countryflags.io/SO/shiny/48.png",
         "64": "https://countryflags.io/SO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "bc73a130-d122-4b55-af0c-4cf5a1a729e8",
     "name": "South Africa",
     "calling_code": "27",
     "iso3166_alpha2": "ZA",
     "iso3166_alpha3": "ZAF",
-    "iso3166_numeric": "710",
     "currency_code": "ZAR",
     "flags": {
       "flat": {
@@ -4893,14 +5299,16 @@
         "48": "https://countryflags.io/ZA/shiny/48.png",
         "64": "https://countryflags.io/ZA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "c723990d-a45c-41bb-a16e-d21f8d6bc9c4",
     "name": "South Georgia and the South Sandwich Islands",
     "calling_code": "500",
     "iso3166_alpha2": "GS",
     "iso3166_alpha3": "SGS",
-    "iso3166_numeric": "239",
     "currency_code": "FKP",
     "flags": {
       "flat": {
@@ -4917,14 +5325,16 @@
         "48": "https://countryflags.io/GS/shiny/48.png",
         "64": "https://countryflags.io/GS/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "74be6853-93d7-4546-ace0-15a43d7c1938",
     "name": "South Sudan",
     "calling_code": "211",
     "iso3166_alpha2": "SS",
     "iso3166_alpha3": "SSD",
-    "iso3166_numeric": "728",
     "currency_code": "SSP",
     "flags": {
       "flat": {
@@ -4941,14 +5351,16 @@
         "48": "https://countryflags.io/SS/shiny/48.png",
         "64": "https://countryflags.io/SS/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7eb2b82f-52e2-4bc9-8706-3a0113b0c10d",
     "name": "Spain",
     "calling_code": "34",
     "iso3166_alpha2": "ES",
     "iso3166_alpha3": "ESP",
-    "iso3166_numeric": "724",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -4965,14 +5377,16 @@
         "48": "https://countryflags.io/ES/shiny/48.png",
         "64": "https://countryflags.io/ES/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "5b2e65dc-13a6-4b5b-9d71-d11010216f43",
     "name": "Sri Lanka",
     "calling_code": "94",
     "iso3166_alpha2": "LK",
     "iso3166_alpha3": "LKA",
-    "iso3166_numeric": "144",
     "currency_code": "LKR",
     "flags": {
       "flat": {
@@ -4989,14 +5403,16 @@
         "48": "https://countryflags.io/LK/shiny/48.png",
         "64": "https://countryflags.io/LK/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "ca55e483-821a-40c3-87e5-ce496e3c36f7",
     "name": "State of Palestine",
     "calling_code": "970",
     "iso3166_alpha2": "PS",
     "iso3166_alpha3": "PSE",
-    "iso3166_numeric": "275",
     "currency_code": "EGP,ILS,JOD",
     "flags": {
       "flat": {
@@ -5013,14 +5429,16 @@
         "48": "https://countryflags.io/PS/shiny/48.png",
         "64": "https://countryflags.io/PS/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "57756139-ec27-45d2-8e60-4da2f8131dcc",
     "name": "Sudan",
     "calling_code": "249",
     "iso3166_alpha2": "SD",
     "iso3166_alpha3": "SDN",
-    "iso3166_numeric": "729",
     "currency_code": "SDG",
     "flags": {
       "flat": {
@@ -5037,14 +5455,16 @@
         "48": "https://countryflags.io/SD/shiny/48.png",
         "64": "https://countryflags.io/SD/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "55752b75-1aad-4c2b-be7e-4e5ea70ed659",
     "name": "Suriname",
     "calling_code": "597",
     "iso3166_alpha2": "SR",
     "iso3166_alpha3": "SUR",
-    "iso3166_numeric": "740",
     "currency_code": "SRD",
     "flags": {
       "flat": {
@@ -5061,14 +5481,16 @@
         "48": "https://countryflags.io/SR/shiny/48.png",
         "64": "https://countryflags.io/SR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b193142f-a9db-42d6-8def-0e9b97030f75",
     "name": "Svalbard and Jan Mayen Islands",
     "calling_code": "47",
     "iso3166_alpha2": "SJ",
     "iso3166_alpha3": "SJM",
-    "iso3166_numeric": "744",
     "currency_code": "NOK",
     "flags": {
       "flat": {
@@ -5085,14 +5507,16 @@
         "48": "https://countryflags.io/SJ/shiny/48.png",
         "64": "https://countryflags.io/SJ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d2fb3dbc-897d-4c68-98be-34c3ddfc479c",
     "name": "Swaziland",
     "calling_code": "268",
     "iso3166_alpha2": "SZ",
     "iso3166_alpha3": "SWZ",
-    "iso3166_numeric": "748",
     "currency_code": "SZL",
     "flags": {
       "flat": {
@@ -5109,14 +5533,16 @@
         "48": "https://countryflags.io/SZ/shiny/48.png",
         "64": "https://countryflags.io/SZ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "deab1318-ff1f-4350-a547-17042b211e80",
     "name": "Sweden",
     "calling_code": "46",
     "iso3166_alpha2": "SE",
     "iso3166_alpha3": "SWE",
-    "iso3166_numeric": "752",
     "currency_code": "SEK",
     "flags": {
       "flat": {
@@ -5133,14 +5559,16 @@
         "48": "https://countryflags.io/SE/shiny/48.png",
         "64": "https://countryflags.io/SE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "e38a4bb1-11cc-48f6-b1c2-40e571617d73",
     "name": "Switzerland",
     "calling_code": "41",
     "iso3166_alpha2": "CH",
     "iso3166_alpha3": "CHE",
-    "iso3166_numeric": "756",
     "currency_code": "CHF",
     "flags": {
       "flat": {
@@ -5157,14 +5585,16 @@
         "48": "https://countryflags.io/CH/shiny/48.png",
         "64": "https://countryflags.io/CH/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "436f3edc-18d3-4dcc-8a0d-00b195c8f2be",
     "name": "Syrian Arab Republic",
     "calling_code": "963",
     "iso3166_alpha2": "SY",
     "iso3166_alpha3": "SYR",
-    "iso3166_numeric": "760",
     "currency_code": "SYP",
     "flags": {
       "flat": {
@@ -5181,14 +5611,16 @@
         "48": "https://countryflags.io/SY/shiny/48.png",
         "64": "https://countryflags.io/SY/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b3ec2d7c-f613-4e00-916d-202ec4b24cea",
     "name": "Tajikistan",
     "calling_code": "992",
     "iso3166_alpha2": "TJ",
     "iso3166_alpha3": "TJK",
-    "iso3166_numeric": "762",
     "currency_code": "TJS",
     "flags": {
       "flat": {
@@ -5205,14 +5637,16 @@
         "48": "https://countryflags.io/TJ/shiny/48.png",
         "64": "https://countryflags.io/TJ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "6e034d99-6779-481e-9445-0029e6d91daa",
     "name": "Thailand",
     "calling_code": "66",
     "iso3166_alpha2": "TH",
     "iso3166_alpha3": "THA",
-    "iso3166_numeric": "764",
     "currency_code": "THB",
     "flags": {
       "flat": {
@@ -5229,14 +5663,16 @@
         "48": "https://countryflags.io/TH/shiny/48.png",
         "64": "https://countryflags.io/TH/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0c98d813-d1c1-4d2b-b8c7-addc5c20b4bf",
     "name": "The former Yugoslav Republic of Macedonia",
     "calling_code": "389",
     "iso3166_alpha2": "MK",
     "iso3166_alpha3": "MKD",
-    "iso3166_numeric": "807",
     "currency_code": "MKD",
     "flags": {
       "flat": {
@@ -5253,14 +5689,16 @@
         "48": "https://countryflags.io/MK/shiny/48.png",
         "64": "https://countryflags.io/MK/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "d76dde06-abbb-4366-a2e4-7f16eabe4cbd",
     "name": "Timor-Leste",
     "calling_code": "670",
     "iso3166_alpha2": "TL",
     "iso3166_alpha3": "TLS",
-    "iso3166_numeric": "626",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -5277,14 +5715,16 @@
         "48": "https://countryflags.io/TL/shiny/48.png",
         "64": "https://countryflags.io/TL/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "a7aec947-0f21-4eb8-833a-4a2b6aa19f82",
     "name": "Togo",
     "calling_code": "228",
     "iso3166_alpha2": "TG",
     "iso3166_alpha3": "TGO",
-    "iso3166_numeric": "768",
     "currency_code": "XOF",
     "flags": {
       "flat": {
@@ -5301,14 +5741,16 @@
         "48": "https://countryflags.io/TG/shiny/48.png",
         "64": "https://countryflags.io/TG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b08b24cc-c635-4da9-951e-b0bb09f262a4",
     "name": "Tokelau",
     "calling_code": "690",
     "iso3166_alpha2": "TK",
     "iso3166_alpha3": "TKL",
-    "iso3166_numeric": "772",
     "currency_code": "NZD",
     "flags": {
       "flat": {
@@ -5325,14 +5767,16 @@
         "48": "https://countryflags.io/TK/shiny/48.png",
         "64": "https://countryflags.io/TK/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "39662c4f-013a-46cd-99f4-38cdd5a51591",
     "name": "Tonga",
     "calling_code": "676",
     "iso3166_alpha2": "TO",
     "iso3166_alpha3": "TON",
-    "iso3166_numeric": "776",
     "currency_code": "TOP",
     "flags": {
       "flat": {
@@ -5349,14 +5793,16 @@
         "48": "https://countryflags.io/TO/shiny/48.png",
         "64": "https://countryflags.io/TO/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "daa9c11d-1196-4f1c-8359-5e9df9a7bfdc",
     "name": "Trinidad and Tobago",
     "calling_code": "1-868",
     "iso3166_alpha2": "TT",
     "iso3166_alpha3": "TTO",
-    "iso3166_numeric": "780",
     "currency_code": "TTD",
     "flags": {
       "flat": {
@@ -5373,14 +5819,16 @@
         "48": "https://countryflags.io/TT/shiny/48.png",
         "64": "https://countryflags.io/TT/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "a83a17ab-f1d7-4ec1-92d6-e2a9991fcf60",
     "name": "Tunisia",
     "calling_code": "216",
     "iso3166_alpha2": "TN",
     "iso3166_alpha3": "TUN",
-    "iso3166_numeric": "788",
     "currency_code": "TND",
     "flags": {
       "flat": {
@@ -5397,14 +5845,16 @@
         "48": "https://countryflags.io/TN/shiny/48.png",
         "64": "https://countryflags.io/TN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "67f47acd-142f-40c9-968d-6b95b8621a85",
     "name": "Turkey",
     "calling_code": "90",
     "iso3166_alpha2": "TR",
     "iso3166_alpha3": "TUR",
-    "iso3166_numeric": "792",
     "currency_code": "TRY",
     "flags": {
       "flat": {
@@ -5421,14 +5871,16 @@
         "48": "https://countryflags.io/TR/shiny/48.png",
         "64": "https://countryflags.io/TR/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "1681aff1-80cc-4fac-a7dc-319b0dbef773",
     "name": "Turkmenistan",
     "calling_code": "993",
     "iso3166_alpha2": "TM",
     "iso3166_alpha3": "TKM",
-    "iso3166_numeric": "795",
     "currency_code": "TMT",
     "flags": {
       "flat": {
@@ -5445,14 +5897,16 @@
         "48": "https://countryflags.io/TM/shiny/48.png",
         "64": "https://countryflags.io/TM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b3780aab-61db-4957-a085-97ec9aa3bd83",
     "name": "Turks and Caicos Islands",
     "calling_code": "1-649",
     "iso3166_alpha2": "TC",
     "iso3166_alpha3": "TCA",
-    "iso3166_numeric": "796",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -5469,14 +5923,16 @@
         "48": "https://countryflags.io/TC/shiny/48.png",
         "64": "https://countryflags.io/TC/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "1f71a4a9-c730-4333-b5f9-004e00741f57",
     "name": "Tuvalu",
     "calling_code": "688",
     "iso3166_alpha2": "TV",
     "iso3166_alpha3": "TUV",
-    "iso3166_numeric": "798",
     "currency_code": "AUD",
     "flags": {
       "flat": {
@@ -5493,14 +5949,16 @@
         "48": "https://countryflags.io/TV/shiny/48.png",
         "64": "https://countryflags.io/TV/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "e2917a00-fce0-46a1-8494-3fc38c36c965",
     "name": "Uganda",
     "calling_code": "256",
     "iso3166_alpha2": "UG",
     "iso3166_alpha3": "UGA",
-    "iso3166_numeric": "800",
     "currency_code": "UGX",
     "flags": {
       "flat": {
@@ -5517,14 +5975,16 @@
         "48": "https://countryflags.io/UG/shiny/48.png",
         "64": "https://countryflags.io/UG/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "be8f952b-7cc1-4fdc-96db-d6955ba7b32a",
     "name": "Ukraine",
     "calling_code": "380",
     "iso3166_alpha2": "UA",
     "iso3166_alpha3": "UKR",
-    "iso3166_numeric": "804",
     "currency_code": "UAH",
     "flags": {
       "flat": {
@@ -5541,14 +6001,16 @@
         "48": "https://countryflags.io/UA/shiny/48.png",
         "64": "https://countryflags.io/UA/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "b1b6c96d-5a3c-4d3d-9e8f-7da246444c98",
     "name": "United Arab Emirates",
     "calling_code": "971",
     "iso3166_alpha2": "AE",
     "iso3166_alpha3": "ARE",
-    "iso3166_numeric": "784",
     "currency_code": "AED",
     "flags": {
       "flat": {
@@ -5565,14 +6027,16 @@
         "48": "https://countryflags.io/AE/shiny/48.png",
         "64": "https://countryflags.io/AE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "45b37ccb-2aaf-47e5-8735-09c633b0f032",
     "name": "United Kingdom of Great Britain and Northern Ireland",
     "calling_code": "44",
     "iso3166_alpha2": "GB",
     "iso3166_alpha3": "GBR",
-    "iso3166_numeric": "826",
     "currency_code": "GBP",
     "flags": {
       "flat": {
@@ -5589,14 +6053,16 @@
         "48": "https://countryflags.io/GB/shiny/48.png",
         "64": "https://countryflags.io/GB/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "7ffb3da3-2a31-4f98-a9d4-24b04038d6a5",
     "name": "United Republic of Tanzania",
     "calling_code": "255",
     "iso3166_alpha2": "TZ",
     "iso3166_alpha3": "TZA",
-    "iso3166_numeric": "834",
     "currency_code": "TZS",
     "flags": {
       "flat": {
@@ -5613,14 +6079,16 @@
         "48": "https://countryflags.io/TZ/shiny/48.png",
         "64": "https://countryflags.io/TZ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0930cad5-91e2-4e42-ba40-267787554951",
     "name": "United States Minor Outlying Islands",
     "calling_code": "246",
     "iso3166_alpha2": "UM",
     "iso3166_alpha3": "UMI",
-    "iso3166_numeric": "581",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -5637,14 +6105,16 @@
         "48": "https://countryflags.io/UM/shiny/48.png",
         "64": "https://countryflags.io/UM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "03071aa2-da1c-4172-9da9-cb9160ccef5d",
     "name": "United States Virgin Islands",
     "calling_code": "1-340",
     "iso3166_alpha2": "VI",
     "iso3166_alpha3": "VIR",
-    "iso3166_numeric": "850",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -5661,14 +6131,16 @@
         "48": "https://countryflags.io/VI/shiny/48.png",
         "64": "https://countryflags.io/VI/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "ebcc5f76-bb77-4db5-b9d5-3f4ae3e24403",
     "name": "United States of America",
     "calling_code": "1",
     "iso3166_alpha2": "US",
     "iso3166_alpha3": "USA",
-    "iso3166_numeric": "840",
     "currency_code": "USD",
     "flags": {
       "flat": {
@@ -5685,14 +6157,16 @@
         "48": "https://countryflags.io/US/shiny/48.png",
         "64": "https://countryflags.io/US/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "38b7bcbf-5dcc-4d61-a827-90a66da36e46",
     "name": "Uruguay",
     "calling_code": "598",
     "iso3166_alpha2": "UY",
     "iso3166_alpha3": "URY",
-    "iso3166_numeric": "858",
     "currency_code": "UYU",
     "flags": {
       "flat": {
@@ -5709,14 +6183,16 @@
         "48": "https://countryflags.io/UY/shiny/48.png",
         "64": "https://countryflags.io/UY/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "e84c72b3-9aec-45f4-a485-ee36c762f5cc",
     "name": "Uzbekistan",
     "calling_code": "998",
     "iso3166_alpha2": "UZ",
     "iso3166_alpha3": "UZB",
-    "iso3166_numeric": "860",
     "currency_code": "UZS",
     "flags": {
       "flat": {
@@ -5733,14 +6209,16 @@
         "48": "https://countryflags.io/UZ/shiny/48.png",
         "64": "https://countryflags.io/UZ/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "0137ddcc-9f57-4953-aa25-ff7e461499ca",
     "name": "Vanuatu",
     "calling_code": "678",
     "iso3166_alpha2": "VU",
     "iso3166_alpha3": "VUT",
-    "iso3166_numeric": "548",
     "currency_code": "VUV",
     "flags": {
       "flat": {
@@ -5757,14 +6235,16 @@
         "48": "https://countryflags.io/VU/shiny/48.png",
         "64": "https://countryflags.io/VU/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "952b07ee-936f-48fc-b159-7a4c031b8770",
     "name": "Venezuela (Bolivarian Republic of)",
     "calling_code": "58",
     "iso3166_alpha2": "VE",
     "iso3166_alpha3": "VEN",
-    "iso3166_numeric": "862",
     "currency_code": "VEF",
     "flags": {
       "flat": {
@@ -5781,14 +6261,16 @@
         "48": "https://countryflags.io/VE/shiny/48.png",
         "64": "https://countryflags.io/VE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "1a1e7aab-6165-48e7-9619-d2faf9e9fcb9",
     "name": "Viet Nam",
     "calling_code": "84",
     "iso3166_alpha2": "VN",
     "iso3166_alpha3": "VNM",
-    "iso3166_numeric": "704",
     "currency_code": "VND",
     "flags": {
       "flat": {
@@ -5805,14 +6287,16 @@
         "48": "https://countryflags.io/VN/shiny/48.png",
         "64": "https://countryflags.io/VN/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "575a9cae-1e87-455f-9100-d554ebb9ce3c",
     "name": "Wallis and Futuna Islands",
     "calling_code": "681",
     "iso3166_alpha2": "WF",
     "iso3166_alpha3": "WLF",
-    "iso3166_numeric": "876",
     "currency_code": "XPF",
     "flags": {
       "flat": {
@@ -5829,14 +6313,16 @@
         "48": "https://countryflags.io/WF/shiny/48.png",
         "64": "https://countryflags.io/WF/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "40f94e37-218c-405f-9262-d41ddbec0ed7",
     "name": "Western Sahara",
     "calling_code": "212",
     "iso3166_alpha2": "EH",
     "iso3166_alpha3": "ESH",
-    "iso3166_numeric": "732",
     "currency_code": "MAD",
     "flags": {
       "flat": {
@@ -5853,14 +6339,16 @@
         "48": "https://countryflags.io/EH/shiny/48.png",
         "64": "https://countryflags.io/EH/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "fbe0cab8-8da8-4a54-9084-0e93528c985d",
     "name": "Yemen",
     "calling_code": "967",
     "iso3166_alpha2": "YE",
     "iso3166_alpha3": "YEM",
-    "iso3166_numeric": "887",
     "currency_code": "YER",
     "flags": {
       "flat": {
@@ -5877,14 +6365,16 @@
         "48": "https://countryflags.io/YE/shiny/48.png",
         "64": "https://countryflags.io/YE/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "766421c6-87b7-4b1b-b08d-a72b6909e09c",
     "name": "Zambia",
     "calling_code": "260",
     "iso3166_alpha2": "ZM",
     "iso3166_alpha3": "ZMB",
-    "iso3166_numeric": "894",
     "currency_code": "ZMW",
     "flags": {
       "flat": {
@@ -5901,14 +6391,16 @@
         "48": "https://countryflags.io/ZM/shiny/48.png",
         "64": "https://countryflags.io/ZM/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "2790c4c5-a515-4967-b24e-ac5224a23a41",
     "name": "Zimbabwe",
     "calling_code": "263",
     "iso3166_alpha2": "ZW",
     "iso3166_alpha3": "ZWE",
-    "iso3166_numeric": "716",
     "currency_code": "ZWL",
     "flags": {
       "flat": {
@@ -5925,14 +6417,16 @@
         "48": "https://countryflags.io/ZW/shiny/48.png",
         "64": "https://countryflags.io/ZW/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   },
   {
+    "id": "9ea65776-5a67-423d-8cf3-23b96fa7dd4f",
     "name": "Åland Islands",
     "calling_code": "358",
     "iso3166_alpha2": "AX",
     "iso3166_alpha3": "ALA",
-    "iso3166_numeric": "248",
     "currency_code": "EUR",
     "flags": {
       "flat": {
@@ -5949,6 +6443,8 @@
         "48": "https://countryflags.io/AX/shiny/48.png",
         "64": "https://countryflags.io/AX/shiny/64.png"
       }
-    }
+    },
+    "created_at": "2020-04-13T12:02:39Z",
+    "updated_at": "2020-04-13T12:02:39Z"
   }
 ]
