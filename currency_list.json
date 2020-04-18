@@ -9,6 +9,15 @@
     "updated_at": "2020-04-18T03:24:49Z"
   },
   {
+    "id": "79ea5067-8fd2-4292-bbe1-81cbf22f41e4",
+    "ISO4217-currency_alphabetic_code": "FKP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Falkland Islands Pound",
+    "ISO4217-currency_numeric_code": "238",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
     "id": "879363d3-f149-4f18-a02a-8487ce5dd602",
     "ISO4217-currency_alphabetic_code": "MYR",
     "ISO4217-currency_minor_unit": "2",
