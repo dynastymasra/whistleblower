@@ -360,15 +360,6 @@
     "updated_at": "2020-04-18T03:24:49Z"
   },
   {
-    "id": "b50ac4bf-0a67-483f-822f-1f1b2d27fcd6",
-    "ISO4217-currency_alphabetic_code": "ZAR",
-    "ISO4217-currency_minor_unit": "2",
-    "ISO4217-currency_name": "Rand",
-    "ISO4217-currency_numeric_code": "710",
-    "created_at": "2020-04-18T03:24:49Z",
-    "updated_at": "2020-04-18T03:24:49Z"
-  },
-  {
     "id": "c5f44318-fc74-49cd-922a-d82588a7203f",
     "ISO4217-currency_alphabetic_code": "LRD",
     "ISO4217-currency_minor_unit": "2",
@@ -545,15 +536,6 @@
     "ISO4217-currency_minor_unit": "0",
     "ISO4217-currency_name": "Rwanda Franc",
     "ISO4217-currency_numeric_code": "646",
-    "created_at": "2020-04-18T03:24:49Z",
-    "updated_at": "2020-04-18T03:24:49Z"
-  },
-  {
-    "id": "b8155551-ae8f-4b19-bbd7-2ff1b465b7ed",
-    "ISO4217-currency_alphabetic_code": "ZAR",
-    "ISO4217-currency_minor_unit": "2",
-    "ISO4217-currency_name": "Rand",
-    "ISO4217-currency_numeric_code": "710",
     "created_at": "2020-04-18T03:24:49Z",
     "updated_at": "2020-04-18T03:24:49Z"
   },
