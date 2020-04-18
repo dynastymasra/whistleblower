@@ -18,6 +18,15 @@
     "updated_at": "2020-04-18T03:24:49Z"
   },
   {
+    "id": "",
+    "ISO4217-currency_alphabetic_code": "CUP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Cuban Peso",
+    "ISO4217-currency_numeric_code": "192",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
     "id": "234f0fb0-f5c1-4eba-8e43-9a2b9da5b2bb",
     "ISO4217-currency_alphabetic_code": "UZS",
     "ISO4217-currency_minor_unit": "2",
