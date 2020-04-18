@@ -18,6 +18,24 @@
     "updated_at": "2020-04-18T03:24:49Z"
   },
   {
+    "id": "ed817ca8-fbae-4660-8529-332cb637cb77",
+    "ISO4217-currency_alphabetic_code": "LSL",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Loti",
+    "ISO4217-currency_numeric_code": "426",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "135729d8-c25b-4206-9cae-2c5f22e09bd8",
+    "ISO4217-currency_alphabetic_code": "NAD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Namibia Dollar",
+    "ISO4217-currency_numeric_code": "516",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
     "id": "879363d3-f149-4f18-a02a-8487ce5dd602",
     "ISO4217-currency_alphabetic_code": "MYR",
     "ISO4217-currency_minor_unit": "2",
