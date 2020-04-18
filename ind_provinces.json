@@ -3,6 +3,171 @@
     "id": "b0199268-ec38-4407-9e2e-7145da4248e5",
     "code": "11",
     "name": "Aceh",
+    "regencies": [
+      {
+        "id": "b5643faa-16b7-41c3-8c43-9e9f86a46ab0",
+        "code": "11.01",
+        "name": "Aceh Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "08113331-9d0b-4784-8691-c5d7e6c61f61",
+        "code": "11.02",
+        "name": "Aceh Tenggara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3d59f1fc-791b-49c6-80ce-55f297e7e8bd",
+        "code": "11.03",
+        "name": "Aceh Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "2217e4e6-d0a8-4e16-a877-213c94ebcd18",
+        "code": "11.04",
+        "name": "Aceh Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4c92859e-d075-4195-b101-2118e5655e9b",
+        "code": "11.05",
+        "name": "Aceh Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "5b8c50a3-e4ca-4dbf-87e0-3189eda9ab54",
+        "code": "11.06",
+        "name": "Aceh Besar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6c89fe9f-9c32-4db2-86f6-5a9d40f4130d",
+        "code": "11.07",
+        "name": "Pidie",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ef67a657-17ba-48b7-a72e-73fd30de8d36",
+        "code": "11.08",
+        "name": "Aceh Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "62680a5d-c821-4971-af7c-a419d66f55c5",
+        "code": "11.09",
+        "name": "Simeulue",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7324d743-581e-4ada-8489-fd6682ee8d22",
+        "code": "11.10",
+        "name": "Aceh Singkil",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f4506227-d913-4b68-93b8-4dd192a5d7fe",
+        "code": "11.11",
+        "name": "Bireuen",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "018fddfa-d5b9-4255-85fa-af16fd3c3425",
+        "code": "11.12",
+        "name": "Aceh Barat Daya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0bb7fc5e-d500-4966-b467-65f0d4b0206e",
+        "code": "11.13",
+        "name": "Gayo Lues",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b86efe03-1d68-411d-8286-e59b237650d0",
+        "code": "11.14",
+        "name": "Aceh Jaya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6757a197-40be-409f-b10f-918e225c1465",
+        "code": "11.15",
+        "name": "Nagan Raya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "aa8f4ba8-f7d2-4e52-8c83-312e4ba28fb3",
+        "code": "11.16",
+        "name": "Aceh Tamiang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4b8c6388-80d3-4c16-a8c2-5b99fef9b335",
+        "code": "11.17",
+        "name": "Bener Meriah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "9f03e3db-5380-48fe-bb91-08c820640d6d",
+        "code": "11.18",
+        "name": "Pidie Jaya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "2a1c85ef-20bc-4643-b5a8-f07c55cdcc14",
+        "code": "11.71",
+        "name": "Banda Aceh",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e81b455b-70ea-4875-82f9-0ee96fcf7fd0",
+        "code": "11.72",
+        "name": "Sabang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e5c7500f-7d9a-4628-8e4b-039d8a7ce39c",
+        "code": "11.73",
+        "name": "Lhokseumawe",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "bcbe789a-72ea-41fd-b00d-f994db2e9bdb",
+        "code": "11.74",
+        "name": "Langsa",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "961ee245-6a81-4b50-a381-377d4cb7d88b",
+        "code": "11.75",
+        "name": "Subulussalam",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -10,6 +175,241 @@
     "id": "8218718e-dbc0-4b87-9695-cf79c40f8a6c",
     "code": "12",
     "name": "Sumatera Utara",
+    "regencies": [
+      {
+        "id": "fef45bb2-8cab-48a8-850e-278c49dcb8e4",
+        "code": "12.01",
+        "name": "Tapanuli Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "fb57936c-0519-407a-9f06-7e25ae562d46",
+        "code": "12.02",
+        "name": "Tapanuli Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8e10cd7c-b0ba-49f2-a662-56e7024f3f5c",
+        "code": "12.03",
+        "name": "Tapanuli Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8c31974e-851e-4cd1-9cf1-364e1baf9d36",
+        "code": "12.04",
+        "name": "Nias",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c0703e56-ec63-48c8-8505-5e076d14172a",
+        "code": "12.05",
+        "name": "Langkat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8c392bb8-a7f2-4dc4-ace8-66e366d1b47f",
+        "code": "12.06",
+        "name": "Karo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "51f63d70-9e04-46f0-b244-cf8138ebee21",
+        "code": "12.07",
+        "name": "Deli Serdang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d2e3b50e-5fb1-4d5d-886b-55c3f4836184",
+        "code": "12.08",
+        "name": "Simalungun",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6c8421ae-7b2a-4fd9-8618-60f875e73f6f",
+        "code": "12.09",
+        "name": "Asahan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0b72e3f8-cac5-4855-b584-fbeee1886d94",
+        "code": "12.10",
+        "name": "Labuhanbatu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3f5f9198-cebe-49c7-8536-7e54d412e23e",
+        "code": "12.11",
+        "name": "Dairi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7aab677a-9c81-41f5-ad26-d57e6ad6b09b",
+        "code": "12.12",
+        "name": "Toba Samosir",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "039f9912-d241-469c-b59f-6775c0226196",
+        "code": "12.13",
+        "name": "Mandailing Natal",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ecae5d38-e33d-4eb3-a1f6-fb52dc1dc902",
+        "code": "12.14",
+        "name": "Nias Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0e00cdb3-4423-49f7-b81c-b147fb4853d6",
+        "code": "12.15",
+        "name": "Pakpak Bharat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ab455ddf-a3b6-4ece-81f0-8ef3288de7f7",
+        "code": "12.16",
+        "name": "Humbang Hasundutan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "eb7cc275-ae88-47bf-acd1-0ed41343e5c0",
+        "code": "12.17",
+        "name": "Samosir",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "2b26f97d-ef40-4a20-bfa9-f5197949a1e6",
+        "code": "12.18",
+        "name": "Serdang Bedagai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4ad0f7fd-2a1f-4d7a-b2db-9cbc601bd74d",
+        "code": "12.19",
+        "name": "Batu Bara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "cdaa1bd5-8cb7-4206-9fb3-dd61dfbae17f",
+        "code": "12.20",
+        "name": "Padang Lawas Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "67c45e5e-8194-4d47-aae9-212949cce1dd",
+        "code": "12.21",
+        "name": "Padang Lawas",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4d18fb00-fbae-42cc-a574-189e91a590f2",
+        "code": "12.22",
+        "name": "Labuhanbatu Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "2ce164c1-508a-40bb-a31d-baa722cccef6",
+        "code": "12.23",
+        "name": "Labuhanbatu Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7b4b3a94-b8c3-4fba-9aac-be871aa94dc6",
+        "code": "12.24",
+        "name": "Nias Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0637196f-b16e-468d-8e41-8f878c411e94",
+        "code": "12.25",
+        "name": "Nias Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "ad1990e8-e26a-4e7e-8321-b7a73ce7c7a3",
+        "code": "12.71",
+        "name": "Medan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "59765c2f-0cdc-4daf-a853-2ce50efe271e",
+        "code": "12.72",
+        "name": "Pematangsiantar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "a06a4bd3-71c9-408d-8b42-076998b47585",
+        "code": "12.73",
+        "name": "Sibolga",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "18c20469-5599-4950-a769-29464190de9f",
+        "code": "12.74",
+        "name": "Tanjung Balai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0e14b07f-4c93-442e-8ee9-571ee2ab6613",
+        "code": "12.75",
+        "name": "Binjai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "10236de7-6e7f-4e7e-a00d-6fabf217dd2c",
+        "code": "12.76",
+        "name": "Tebing Tinggi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e999d4ac-8e6e-4613-93a5-4a612475e7b5",
+        "code": "12.77",
+        "name": "Padangsidimpuan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8cc678a2-d1c7-4f6e-acc9-3818c45a4782",
+        "code": "12.78",
+        "name": "Gunungsitoli",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -17,6 +417,143 @@
     "id": "a6fca452-f365-446c-9b42-9f63f856620c",
     "code": "13",
     "name": "Sumatera Barat",
+    "regencies": [
+      {
+        "id": "6e1e5f13-6264-4323-9162-72dee6f768a9",
+        "code": "13.01",
+        "name": "Pesisir Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "a228457e-8333-482b-85a5-785a09fd1167",
+        "code": "13.02",
+        "name": "Solok",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3bcaa0e4-c984-4b9d-aef9-080caadd2279",
+        "code": "13.03",
+        "name": "Sijunjung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b4d52547-2a7a-4fbf-9604-d77a65302245",
+        "code": "13.04",
+        "name": "Tanah Datar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4f5e5dae-707f-4393-8e2c-3fe058ce679d",
+        "code": "13.05",
+        "name": "Padang Pariaman",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c548d509-9665-4924-84e8-e05603f774e8",
+        "code": "13.06",
+        "name": "Agam",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "204708d1-e545-4692-9106-18331e7ee51b",
+        "code": "13.07",
+        "name": "Lima Puluh Kota",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d5b4b9b4-b4c6-40ac-b927-42e27e984018",
+        "code": "13.08",
+        "name": "Pasaman",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "370de0fe-7f6d-4fd4-88eb-6ee6196d88eb",
+        "code": "13.09",
+        "name": "Kepulauan Mentawai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "fcde98a2-d308-4cfa-8a13-b8c9454f4087",
+        "code": "13.10",
+        "name": "Dharmasraya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e074967b-ec62-4745-bd9f-6a6bed2bfe90",
+        "code": "13.11",
+        "name": "Solok Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "2365ad24-e6e7-49f1-b917-8f8cd69c0b0a",
+        "code": "13.12",
+        "name": "Pasaman Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "e392e49c-81af-4f8b-af80-8c3b95bc3af9",
+        "code": "13.71",
+        "name": "Padang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "93b7ff19-fbb0-483e-bb7e-8a8a95f44375",
+        "code": "13.72",
+        "name": "Solok",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3026c545-7f9b-42c3-ba2c-59c52162d8e9",
+        "code": "13.73",
+        "name": "Sawahlunto",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "de8f9ed7-3c8d-4b9e-89ab-1a19915a3c3b",
+        "code": "13.74",
+        "name": "Padang Panjang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c676de4f-55e9-4e09-9b51-506f53149020",
+        "code": "13.75",
+        "name": "Bukittinggi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "52c6de71-49cb-40c4-baef-886d9d93890e",
+        "code": "13.76",
+        "name": "Payakumbuh",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "019351ca-9d5c-4ddc-a8eb-b3e85db6fe8e",
+        "code": "13.77",
+        "name": "Pariaman",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -24,6 +561,94 @@
     "id": "d7844cf0-e74a-4a61-b4ba-5ca30b5dd7b8",
     "code": "14",
     "name": "Riau",
+    "regencies": [
+      {
+        "id": "ce5e226f-2288-42a9-9050-2954bde29647",
+        "code": "14.01",
+        "name": "Kampar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7728d024-50cc-4ba6-a123-832122d636e5",
+        "code": "14.02",
+        "name": "Indragiri Hulu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "dceedc44-4f6e-4a06-ad75-1c7053543d55",
+        "code": "14.03",
+        "name": "Bengkalis",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "dec6f081-d50c-4ec2-b59d-ca1b1455c1bd",
+        "code": "14.04",
+        "name": "Indragiri Hilir",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "304df247-d5bb-45f5-aceb-1b06f07ee0a6",
+        "code": "14.05",
+        "name": "Pelalawan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c3dcd7f6-42ad-43da-a851-9e7cb1620a02",
+        "code": "14.06",
+        "name": "Rokan Hulu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4d99f890-88da-4e52-94bb-93efc9117297",
+        "code": "14.07",
+        "name": "Rokan Hilir",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "571efbf4-0a1b-4117-ab6e-9a4b11e668cf",
+        "code": "14.08",
+        "name": "Siak",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4e81b401-5ace-4fc4-9215-5e94ce9b77ec",
+        "code": "14.09",
+        "name": "Kuantan Singingi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "941f5c7a-edd4-41e3-97c1-b6eec69b73ef",
+        "code": "14.10",
+        "name": "Kepulauan Meranti",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "7a687ea4-0e29-4df2-a883-d0f1e3e115d7",
+        "code": "14.71",
+        "name": "Pekanbaru",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8e04b1d8-4c5f-4421-bb4b-c9d2af86fafa",
+        "code": "14.72",
+        "name": "Dumai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -31,6 +656,87 @@
     "id": "fc9cf381-c36d-449e-b6a4-660934f8aa79",
     "code": "15",
     "name": "Jambi",
+    "regencies": [
+      {
+        "id": "a004736f-2cfc-4714-aa7b-27da6de0fdbb",
+        "code": "15.01",
+        "name": "Kerinci",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "25c702e1-6b0e-4eb4-8933-b17f1d6d54e8",
+        "code": "15.02",
+        "name": "Merangin",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "18785976-8c2b-4e3a-ba44-93881212de1c",
+        "code": "15.03",
+        "name": "Sarolangun",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "31012e5f-a35f-47aa-8a2d-11feb01e5b82",
+        "code": "15.04",
+        "name": "Batanghari",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "fd5db004-1bcb-42fd-a477-0cbbec912e15",
+        "code": "15.05",
+        "name": "Muaro Jambi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "87f838b5-4264-4ac8-b8e8-b5fc054da0d3",
+        "code": "15.06",
+        "name": "Tanjung Jabung Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "9c462391-a9aa-4eb0-8d07-980100017399",
+        "code": "15.07",
+        "name": "Tanjung Jabung Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "a6dfe37a-0203-4384-b49a-7478bef0fa01",
+        "code": "15.08",
+        "name": "Bungo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "2a4ef0d2-ea76-4331-9e0b-b2437f2d7367",
+        "code": "15.09",
+        "name": "Tebo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "bb55a335-2b5b-441d-a957-c33ecdd85702",
+        "code": "15.71",
+        "name": "Jambi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3de656b8-2435-41ed-b303-af665136bfae",
+        "code": "15.72",
+        "name": "Sungai Penuh",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -38,6 +744,129 @@
     "id": "727a7e2d-50bc-4520-80d6-ee1273084097",
     "code": "16",
     "name": "Sumatera Selatan",
+    "regencies": [
+      {
+        "id": "e5e097cd-bb34-4b62-8176-cabc06e76bfa",
+        "code": "16.01",
+        "name": "Ogan Komering Ulu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0609fa51-cd02-4a1f-8b56-2c9ff729ad1a",
+        "code": "16.02",
+        "name": "Ogan Komering Ilir",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "1600e86c-86f2-4c62-8b97-33685a2b0ae8",
+        "code": "16.03",
+        "name": "Muara Enim",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "93839b84-5d76-48ed-9aca-b6fbfb572882",
+        "code": "16.04",
+        "name": "Lahat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4e6dcf57-03ef-4af2-baa6-4f8bbb8409de",
+        "code": "16.05",
+        "name": "Musi Rawas",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "80f9fa57-527e-4c6d-b46a-15f56d17f7bb",
+        "code": "16.06",
+        "name": "Musi Banyuasin",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "efb4bb9c-e124-421f-85cf-195348cc860b",
+        "code": "16.07",
+        "name": "Banyuasin",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e050c895-8a71-4cb9-90b6-4fcfcecc6b3e",
+        "code": "16.08",
+        "name": "Ogan Komering Ulu Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "add9de6b-cf11-48b5-8bca-5f51a2f4aa4e",
+        "code": "16.09",
+        "name": "Ogan Komering Ulu Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "92eb5ba7-f2af-4919-aba1-a614572b0d15",
+        "code": "16.10",
+        "name": "Ogan Ilir",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ffffdc82-1caf-4f2c-a13c-e8d0465d43a2",
+        "code": "16.11",
+        "name": "Empat Lawang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e1f35962-7f1e-49d3-a193-eed0cdc7266a",
+        "code": "16.12",
+        "name": "Penukal Abab Lematang Ilir",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4488a264-4c95-420e-bda2-fd7dae1377eb",
+        "code": "16.13",
+        "name": "Musi Rawas Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "0ebac9f1-e810-48ac-b1c4-b989bf846174",
+        "code": "16.71",
+        "name": "Palembang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ec97b721-a6d2-48d5-9210-2944de5d4b87",
+        "code": "16.72",
+        "name": "Pagar Alam",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "093c15d5-9d32-4f39-bc2d-42134e1c219b",
+        "code": "16.73",
+        "name": "Lubuk Linggau",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6c697dfb-c1e4-4331-a83f-ee794f266c75",
+        "code": "16.74",
+        "name": "Prabumulih",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -45,6 +874,80 @@
     "id": "d848d1ba-c44d-46d1-9035-ab0cab89a999",
     "code": "17",
     "name": "Bengkulu",
+    "regencies": [
+      {
+        "id": "d92da84e-1e1e-4b2c-a34a-b143a1202948",
+        "code": "17.01",
+        "name": "Bengkulu Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7ce980ff-0a00-4963-a53a-4cfec0d13296",
+        "code": "17.02",
+        "name": "Rejang Lebong",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "57143d42-05b3-4e5c-821e-790a52cffe55",
+        "code": "17.03",
+        "name": "Bengkulu Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3fb56a55-8068-4db3-bef2-b5cd18e39097",
+        "code": "17.04",
+        "name": "Kaur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b1a79696-69e0-4918-b510-53e6f7d4fb0f",
+        "code": "17.05",
+        "name": "Seluma",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0281d4d9-0e84-4ee5-8ed1-d751a324ee27",
+        "code": "17.06",
+        "name": "Muko Muko",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "bea16830-0810-4ba3-ab67-38c0a0b1ceaf",
+        "code": "17.07",
+        "name": "Lebong",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ff8154da-0a3b-4bd8-bc61-b2f2c2315346",
+        "code": "17.08",
+        "name": "Kepahiang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "93e7c7c6-02ab-41ab-b1e1-9dd43c6c1c59",
+        "code": "17.09",
+        "name": "Bengkulu Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "95dee097-5e89-45de-afed-4ffd09a8a580",
+        "code": "17.71",
+        "name": "Bengkulu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -52,6 +955,115 @@
     "id": "b270dc7b-85b7-467e-9fda-e147aad5e711",
     "code": "18",
     "name": "Lampung",
+    "regencies": [
+      {
+        "id": "8b24bcb9-a72f-4126-bbb8-8417197ef8e4",
+        "code": "18.01",
+        "name": "Lampung Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "662778a7-c54b-4382-8d45-36a91dc80895",
+        "code": "18.02",
+        "name": "Lampung Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "42790146-f05a-44ab-8426-3d4b454353ec",
+        "code": "18.03",
+        "name": "Lampung Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b4e71a1b-cf57-4c4d-9e6a-356ccaacda02",
+        "code": "18.04",
+        "name": "Lampung Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f9d18b76-9e33-43a2-b555-8e90f3613e16",
+        "code": "18.05",
+        "name": "Tulang Bawang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3f72ff0f-98a8-4327-b972-9d3922fafe44",
+        "code": "18.06",
+        "name": "Tanggamus",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "39168cec-4fd7-451a-847c-ad457266b9aa",
+        "code": "18.07",
+        "name": "Lampung Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "49d3cbf2-b8a9-4151-ad86-0f9cd51b9102",
+        "code": "18.08",
+        "name": "Way Kanan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b99bfafe-332d-465c-b23d-e9230428f2bb",
+        "code": "18.09",
+        "name": "Pesawaran",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e2111399-7458-49ff-a191-d9d8eb5e22dd",
+        "code": "18.10",
+        "name": "Pringsewu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8edb2a70-44b7-4c55-bd85-60fdd93c0273",
+        "code": "18.11",
+        "name": "Mesuji",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "762e2217-817b-45fe-bf65-18c0d651517d",
+        "code": "18.12",
+        "name": "Tulang Bawang Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "71f04654-e4d2-4280-8513-900e25b14d11",
+        "code": "18.13",
+        "name": "Pesisir Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "cbe633ea-abc9-468f-8c05-62f8d2db5f13",
+        "code": "18.71",
+        "name": "Bandar Lampung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "25ec2429-f5e5-44cd-8064-188b483e8eba",
+        "code": "18.72",
+        "name": "Metro",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -59,6 +1071,59 @@
     "id": "797ec777-219b-404e-854c-2a86a074e8be",
     "code": "19",
     "name": "Kepulauan Bangka Belitung",
+    "regencies": [
+      {
+        "id": "77541979-a03a-4f44-90c1-fd87aa421c6d",
+        "code": "19.01",
+        "name": "Bangka",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d4a47026-ed6a-4daa-8710-b487daa321eb",
+        "code": "19.02",
+        "name": "Belitung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "97688190-1cc7-4b4d-b766-9c549658b4f3",
+        "code": "19.03",
+        "name": "Bangka Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "1aea3896-8f49-4a93-ae4c-15df4c4897e6",
+        "code": "19.04",
+        "name": "Bangka Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8224acc9-03c7-4e82-b8a4-71fe987b9b3f",
+        "code": "19.05",
+        "name": "Bangka Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "5d165f54-a68d-4dd7-b67e-54b48fd81237",
+        "code": "19.06",
+        "name": "Belitung Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "5aa5ceea-2308-421e-a2b9-711113531457",
+        "code": "19.71",
+        "name": "Pangkal Pinang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -66,6 +1131,59 @@
     "id": "b22c4567-cef0-4044-baf0-7132ebc5476e",
     "code": "21",
     "name": "Kepulauan Riau",
+    "regencies": [
+      {
+        "id": "3d605595-fb96-47ec-839c-32932b624301",
+        "code": "21.01",
+        "name": "Bintan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e0378600-9a95-4460-8455-ad8f560f332f",
+        "code": "21.02",
+        "name": "Karimun",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d84cbafd-77a7-44b2-b5ee-9cf88bd9564e",
+        "code": "21.03",
+        "name": "Natuna",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b8f98b8c-3de0-4e7c-a01f-5d70aaf7ef50",
+        "code": "21.04",
+        "name": "Lingga",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "1dfa21ff-0eed-431a-8a85-0b936e19f3c7",
+        "code": "21.05",
+        "name": "Kepulauan Anambas",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "45e7fbe9-df7b-4aff-a3d3-9886277440d5",
+        "code": "21.71",
+        "name": "Batam",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b1ece645-46f8-46cf-8013-6c028e179890",
+        "code": "21.72",
+        "name": "Tanjung Pinang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -73,6 +1191,52 @@
     "id": "b8f268a7-eff2-4f4f-b523-1ccbd1d4cc71",
     "code": "31",
     "name": "DKI Jakarta",
+    "regencies": [
+      {
+        "id": "aa49dc2b-3831-496e-9963-70f0acbd11e2",
+        "code": "31.01",
+        "name": "Adm. Kep. Seribu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "42a33ace-a764-4bb0-9ee3-bd4fe7f2603f",
+        "code": "31.71",
+        "name": "Adm. Jakarta Pusat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "05bd98e4-ef97-42c7-98b3-92664cd7deca",
+        "code": "31.72",
+        "name": "Adm. Jakarta Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b3f06acc-fc0a-4c98-ad1a-75ae0f20bbe8",
+        "code": "31.73",
+        "name": "Adm. Jakarta Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "75be88c1-90c8-48fe-8338-cd9374b8a4e7",
+        "code": "31.74",
+        "name": "Adm. Jakarta Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ed7f6bb7-7227-4115-92d5-e878e7e36b43",
+        "code": "31.75",
+        "name": "Adm. Jakarta Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -80,6 +1244,199 @@
     "id": "ff156a8a-d81f-4308-b41e-cc80aead58b8",
     "code": "32",
     "name": "Jawa Barat",
+    "regencies": [
+      {
+        "id": "feed12c5-8af0-49b2-bcf7-33a4b6241e89",
+        "code": "32.01",
+        "name": "Bogor",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b2b85648-6ad9-445a-9033-4959cacb2954",
+        "code": "32.02",
+        "name": "Sukabumi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "bb1d53bf-2ee7-4e1e-92c1-45ccdc23471f",
+        "code": "32.03",
+        "name": "Cianjur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "cb7d1d77-9be4-47bd-93d7-5efe13acdd55",
+        "code": "32.04",
+        "name": "Bandung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "38fce90e-126b-4cb9-945e-1037c0db82cb",
+        "code": "32.05",
+        "name": "Garut",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ec35b1c7-6b7e-4664-9234-d82a81b638ee",
+        "code": "32.06",
+        "name": "Tasikmalaya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "cc2beb59-5da8-48a2-a973-65c181338d0b",
+        "code": "32.07",
+        "name": "Ciamis",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "28114573-528b-459f-9e6b-1ed5fd8591d5",
+        "code": "32.08",
+        "name": "Kuningan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ac01365e-4919-494e-8b08-26749e3d0b25",
+        "code": "32.09",
+        "name": "Cirebon",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "9084373e-37ee-4bd1-8f7f-af7a1989ab66",
+        "code": "32.10",
+        "name": "Majalengka",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "86b85970-d708-4aae-bc75-39c566ae30b7",
+        "code": "32.11",
+        "name": "Sumedang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f8ce2598-4d23-4378-9665-e3fc4b38c6c4",
+        "code": "32.12",
+        "name": "Indramayu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "99406f0a-02ec-4401-82c7-f5553a18cbcb",
+        "code": "32.13",
+        "name": "Subang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d157b356-ddb0-4d66-838e-c89413599f7f",
+        "code": "32.14",
+        "name": "Purwakarta",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "a0166284-7138-4e6b-826b-1d096789111b",
+        "code": "32.15",
+        "name": "Karawang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "132755f7-03bc-4ace-8832-ca623869f307",
+        "code": "32.16",
+        "name": "Bekasi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "944421c8-0dcb-495b-a54c-1ce7a826170e",
+        "code": "32.17",
+        "name": "Bandung Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b65e1362-399e-4915-8753-17f20086f326",
+        "code": "32.18",
+        "name": "Pangandaran",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "791328c3-02cf-4a7c-8762-30d4ffaa7ea1",
+        "code": "32.71",
+        "name": "Bogor",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8290ac2e-f825-4839-9aff-c050e55db0aa",
+        "code": "32.72",
+        "name": "Sukabumi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b6331c38-43ee-41bd-a6f1-0e35603d6963",
+        "code": "32.73",
+        "name": "Bandung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "65a8ba65-819b-4b5e-844a-9d6ca2457fd8",
+        "code": "32.74",
+        "name": "Cirebon",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "cb519279-9615-4141-86d1-bb80e5c1b7b9",
+        "code": "32.75",
+        "name": "Bekasi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "bd5025e5-1609-4c99-b84e-583d969db4f0",
+        "code": "32.76",
+        "name": "Depok",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "61794659-1d1c-47a3-9988-10974eefc88a",
+        "code": "32.77",
+        "name": "Cimahi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b99310c6-43dc-4e97-b0bf-c34acf6feeee",
+        "code": "32.78",
+        "name": "Tasikmalaya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e104e098-a692-4133-bb97-5fdcaea83d29",
+        "code": "32.79",
+        "name": "Banjar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -87,6 +1444,255 @@
     "id": "73a78b1d-fcc0-42cd-abfb-9c11d528d6ba",
     "code": "33",
     "name": "Jawa Tengah",
+    "regencies": [
+      {
+        "id": "23b9c568-699b-4f94-aac7-13b1fe5b12b7",
+        "code": "33.01",
+        "name": "Cilacap",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "bdba35fb-45f7-4c93-8225-8887f5f80133",
+        "code": "33.02",
+        "name": "Banyumas",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "877c1190-1ffd-4851-811a-9d417d80f55f",
+        "code": "33.03",
+        "name": "Purbalingga",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3a609119-258d-4dbc-b0cd-77f0d3e3e052",
+        "code": "33.04",
+        "name": "Banjarnegara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8e436c82-6ed6-47f9-81b0-2cccd762c525",
+        "code": "33.05",
+        "name": "Kebumen",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6cf8d830-fbac-4918-a7e1-2f8fda3e245b",
+        "code": "33.06",
+        "name": "Purworejo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b4c567b4-41ef-49a9-886b-2aa67baafee6",
+        "code": "33.07",
+        "name": "Wonosobo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d376561b-9f8a-4763-aa5c-cd5d07e64991",
+        "code": "33.08",
+        "name": "Magelang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "1ba99d09-5800-417e-8eb2-d90da31b05df",
+        "code": "33.09",
+        "name": "Boyolali",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "03e63dee-5988-4c4f-b5e3-23d13353aea9",
+        "code": "33.10",
+        "name": "Klaten",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0e205850-49e8-40d8-a56f-ac47ef8b5cfc",
+        "code": "33.11",
+        "name": "Sukoharjo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ad891920-31d7-43b4-b728-93fe0d66f3db",
+        "code": "33.12",
+        "name": "Wonogiri",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "806546b7-e2aa-4a38-bb4e-c73017c8433a",
+        "code": "33.13",
+        "name": "Karanganyar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "74ec67a0-9add-4dcc-9651-65cc174e8ebd",
+        "code": "33.14",
+        "name": "Sragen",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "07a048cd-24bd-4035-b38c-7d73431b4377",
+        "code": "33.15",
+        "name": "Grobogan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "a62bdef4-c4ba-4db7-be8c-521a1ba12d03",
+        "code": "33.16",
+        "name": "Blora",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "07fb300a-05c8-4e68-93f6-1456479285d0",
+        "code": "33.17",
+        "name": "Rembang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "01a101a1-03ca-449d-be63-a8d892cdc183",
+        "code": "33.18",
+        "name": "Pati",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e3c3724e-2570-4b40-b849-94b900833d42",
+        "code": "33.19",
+        "name": "Kudus",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "cc532849-2fa9-42d9-a848-183f8af90563",
+        "code": "33.20",
+        "name": "Jepara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "11063487-44c2-4e07-b2b9-519c9644a38a",
+        "code": "33.21",
+        "name": "Demak",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4e3247e6-e9fb-45fc-9c32-f675383a286b",
+        "code": "33.22",
+        "name": "Semarang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "23580dc6-f992-40c1-a91c-e41e55a1d706",
+        "code": "33.23",
+        "name": "Temanggung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4b8721a0-1df8-4309-b1b4-5a307ffc4c98",
+        "code": "33.24",
+        "name": "Kendal",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f57ab334-5ef2-43b1-8028-a58f50493394",
+        "code": "33.25",
+        "name": "Batang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ca1e518f-6b3f-4083-94cf-c1ddab478680",
+        "code": "33.26",
+        "name": "Pekalongan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "89349080-5a28-40e4-b318-626a578d69af",
+        "code": "33.27",
+        "name": "Pemalang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "eca348fc-05f1-4d7d-bee2-f076fad4dd7b",
+        "code": "33.28",
+        "name": "Tegal",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "06129a50-7487-44db-83b1-be0ece066412",
+        "code": "33.29",
+        "name": "Brebes",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "b2d3d74b-12a6-44f9-8531-f33b66a4e158",
+        "code": "33.71",
+        "name": "Magelang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "286b4376-9dcc-464e-9f78-57b121939a73",
+        "code": "33.72",
+        "name": "Surakarta",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d7e9f0a4-4583-4166-aa34-187555fb9889",
+        "code": "33.73",
+        "name": "Salatiga",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "161da05c-2475-4919-aadc-5a98a9493937",
+        "code": "33.74",
+        "name": "Semarang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f9d86adf-537b-4356-8381-4baadd2dd360",
+        "code": "33.75",
+        "name": "Pekalongan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ae39434e-2048-476a-9218-92fba467806a",
+        "code": "33.76",
+        "name": "Tegal",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -94,6 +1700,45 @@
     "id": "f961adff-01b7-44da-9285-9012e8ef1826",
     "code": "34",
     "name": "DI Yogyakarta",
+    "regencies": [
+      {
+        "id": "ac222b94-e134-4b48-b34a-b3cb06652421",
+        "code": "34.01",
+        "name": "Kulon Progo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f644a49f-2459-4110-b30c-f871d50e9d57",
+        "code": "34.02",
+        "name": "Bantul",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "71f73fa8-c0b1-493a-9afb-780082922a6d",
+        "code": "34.03",
+        "name": "Gunungkidul",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "49f002ba-5b13-4693-8f20-2837274488c0",
+        "code": "34.04",
+        "name": "Sleman",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "e81f509f-38ec-42e8-9a1c-8e527977e526",
+        "code": "34.71",
+        "name": "Yogyakarta",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -101,6 +1746,276 @@
     "id": "7895888f-daa0-46a2-a5bc-264c938caa95",
     "code": "35",
     "name": "Jawa Timur",
+    "regencies": [
+      {
+        "id": "abdd4c01-c34e-4562-a7b3-82e50df52efa",
+        "code": "35.01",
+        "name": "Pacitan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "cad9c88b-a5c9-48db-bd72-705f3d4665cd",
+        "code": "35.02",
+        "name": "Ponorogo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3ec9273d-febb-466b-a3c7-560ce447c7d2",
+        "code": "35.03",
+        "name": "Trenggalek",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4653ec93-b4e8-48fc-8408-0e596d03f034",
+        "code": "35.04",
+        "name": "Tulungagung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8af9583d-fcf1-46ca-b319-6555cfe2ca62",
+        "code": "35.05",
+        "name": "Blitar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b2431778-08d4-4e4a-b98d-c4132cbbe187",
+        "code": "35.06",
+        "name": "Kediri",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f97e4799-6ad5-4954-a59d-e5b08ada5032",
+        "code": "35.07",
+        "name": "Malang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ed1b914b-ff96-4cee-9602-01a8e5a1c819",
+        "code": "35.08",
+        "name": "Lumajang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b01a1f48-96ad-4f32-b381-dc71058e7278",
+        "code": "35.09",
+        "name": "Jember",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e39c8698-addd-40ec-ad2d-8ced3ff800cc",
+        "code": "35.10",
+        "name": "Banyuwangi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f3b053d0-aa47-48d6-a775-b77d004965ee",
+        "code": "35.11",
+        "name": "Bondowoso",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d39abad8-233c-4c05-a340-87ff676b8e32",
+        "code": "35.12",
+        "name": "Situbondo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "def6c702-dcd8-433a-8e44-647eed78a1e1",
+        "code": "35.13",
+        "name": "Probolinggo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e5842c1b-5243-475f-ae46-e6d47efa36b7",
+        "code": "35.14",
+        "name": "Pasuruan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0d1b2f68-5cb8-4b50-a8fe-0eefdaf7338f",
+        "code": "35.15",
+        "name": "Sidoarjo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "2ae98c00-9948-4401-838a-9d3ac76bdca3",
+        "code": "35.16",
+        "name": "Mojokerto",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c548a999-32cf-4192-ae6b-cc7c4f1917be",
+        "code": "35.17",
+        "name": "Jombang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "04801d7d-ea03-4f33-8e80-37cb17b28965",
+        "code": "35.18",
+        "name": "Nganjuk",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b83e7ed3-6576-4b5a-995d-4031c82ba9f5",
+        "code": "35.19",
+        "name": "Madiun",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8e157a48-1d6e-4344-9c33-46b6b5d97bd3",
+        "code": "35.20",
+        "name": "Magetan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ba895a5f-f210-4f9f-87f6-9b2d52e441ea",
+        "code": "35.21",
+        "name": "Ngawi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "31d8be25-0f16-4f32-b07d-186223fd62cd",
+        "code": "35.22",
+        "name": "Bojonegoro",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "688defb9-d709-4e25-8810-fa43b146450c",
+        "code": "35.23",
+        "name": "Tuban",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c4766a34-98c6-48f1-bdf2-b1a1514113ce",
+        "code": "35.24",
+        "name": "Lamongan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "77c40e6a-7042-4595-a0ca-51eae5678a6b",
+        "code": "35.25",
+        "name": "Gresik",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6e078d8c-b699-40f6-9cde-befa6b104a59",
+        "code": "35.26",
+        "name": "Bangkalan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c8354bf2-b52f-4e66-af5f-f24cbe88a6df",
+        "code": "35.27",
+        "name": "Sampang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7a127558-efe4-485f-a89b-5f114103ee77",
+        "code": "35.28",
+        "name": "Pamekasan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e7f643b8-401b-43ba-9e30-34f85ec67834",
+        "code": "35.29",
+        "name": "Sumenep",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "0a5e3ff3-dcae-49e5-b776-4080e55a903d",
+        "code": "35.71",
+        "name": "Kediri",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "a5451359-0150-48b2-b530-2fa08e31de5e",
+        "code": "35.72",
+        "name": "Blitar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "86c726b0-120e-45d4-a01d-192604c64d01",
+        "code": "35.73",
+        "name": "Malang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "77cd1c00-81b3-48f1-ad42-fa31696ba77d",
+        "code": "35.74",
+        "name": "Probolinggo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8019500e-8b55-4ca5-93a4-19d68c4ce5c8",
+        "code": "35.75",
+        "name": "Pasuruan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "66bbdff6-8022-44e8-b923-9280a1ef74e6",
+        "code": "35.76",
+        "name": "Mojokerto",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4c9fb9f0-133f-48dd-a8a2-99455cd3f349",
+        "code": "35.77",
+        "name": "Madiun",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "58047952-0ebf-40bf-935a-2241028fac91",
+        "code": "35.78",
+        "name": "Surabaya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "94d74e5d-1831-49a3-97be-78b1fc5db388",
+        "code": "35.79",
+        "name": "Batu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -108,6 +2023,66 @@
     "id": "3a0b2c33-6bec-4dcf-a335-84247b91363f",
     "code": "36",
     "name": "Banten",
+    "regencies": [
+      {
+        "id": "6e532767-9874-44d9-a01e-9bb9b85e92fc",
+        "code": "36.01",
+        "name": "Pandeglang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0f634085-924e-4cae-bdad-586850c406a6",
+        "code": "36.02",
+        "name": "Lebak",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f040643c-efaa-4f3b-a89b-f9f377022bf7",
+        "code": "36.03",
+        "name": "Tangerang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e26a7ac3-6d66-4c28-9092-49014d1ee479",
+        "code": "36.04",
+        "name": "Serang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "b3be3d78-c7f7-4ad5-bd83-e51acf460552",
+        "code": "36.71",
+        "name": "Tangerang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "60a9f0ee-eaa6-4c05-b1da-2e57ef9346ab",
+        "code": "36.72",
+        "name": "Cilegon",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "be7e6a3a-aedd-4182-8291-44eb35a11513",
+        "code": "36.73",
+        "name": "Serang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "9688857c-97d9-40f1-8082-e8b7cdc30c0b",
+        "code": "36.74",
+        "name": "Tangerang Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -115,6 +2090,73 @@
     "id": "c2a345cc-00d7-4650-9ea5-f7e99f9e0973",
     "code": "51",
     "name": "Bali",
+    "regencies": [
+      {
+        "id": "741383ed-7404-43db-8ace-1fb012b570e7",
+        "code": "51.01",
+        "name": "Jembrana",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "9c1ed9db-4a55-476a-b276-3c6d8f3d42d4",
+        "code": "51.02",
+        "name": "Tabanan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f59b793d-f1be-453d-89d4-bd5a1a24d753",
+        "code": "51.03",
+        "name": "Badung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "9537b738-ba7b-4bd9-818f-bad59aeb69b2",
+        "code": "51.04",
+        "name": "Gianyar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "447424b5-f89e-4908-82e1-9ead5b7c7a73",
+        "code": "51.05",
+        "name": "Klungkung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "1905b4b4-be14-45b2-a91d-603cd66555b1",
+        "code": "51.06",
+        "name": "Bangli",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8dd35ced-562e-4a8a-977a-4dea51b0a18c",
+        "code": "51.07",
+        "name": "Karangasem",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8db7fbbd-1165-4c2d-b609-0136a42c947c",
+        "code": "51.08",
+        "name": "Buleleng",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "018ad4a1-d1f1-4f79-ae0d-9de53a775306",
+        "code": "51.71",
+        "name": "Denpasar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -122,6 +2164,80 @@
     "id": "4b10a47d-0848-4c0c-8456-3eae2015b515",
     "code": "52",
     "name": "Nusa Tenggara Barat",
+    "regencies": [
+      {
+        "id": "d4faf516-e48e-486e-981b-6fc013492e35",
+        "code": "52.01",
+        "name": "Lombok Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f7a7f661-85eb-470a-9290-d8e8c9dd8470",
+        "code": "52.02",
+        "name": "Lombok Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "32e6aa5e-ab86-4edb-a399-833d4014aa3d",
+        "code": "52.03",
+        "name": "Lombok Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "cf0134ed-071a-4c88-b30e-83c591d9111f",
+        "code": "52.04",
+        "name": "Sumbawa",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b6b49caf-3ca5-4013-ab3e-ef43d98b1cc8",
+        "code": "52.05",
+        "name": "Dompu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b6cbceb0-5237-436a-8070-a151a2ec7a72",
+        "code": "52.06",
+        "name": "Bima",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "12cfc845-b966-42f2-bd6d-7975d5325e7e",
+        "code": "52.07",
+        "name": "Sumbawa Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "91e1b31f-da39-4062-8ff8-11cae403497a",
+        "code": "52.08",
+        "name": "Lombok Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "9d252ff8-3f43-4250-b2f4-46d98c3328ad",
+        "code": "52.71",
+        "name": "Mataram",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "1ce46742-9979-4b89-99df-28a6891a109f",
+        "code": "52.72",
+        "name": "Bima",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -129,6 +2245,164 @@
     "id": "b5b32a49-558a-430e-b5b4-44d20c1384f3",
     "code": "53",
     "name": "Nusa Tenggara Timur",
+    "regencies": [
+      {
+        "id": "c2c36d06-af2c-4b5f-a1aa-d7d1352652a9",
+        "code": "53.01",
+        "name": "Kupang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "489abb77-9bec-4962-849d-81a1278f48e7",
+        "code": "53.02",
+        "name": "Timor Tengah Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6f6da44c-f68a-49ad-b5c1-7c2df6f9e5a3",
+        "code": "53.03",
+        "name": "Timor Tengah Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "95d73731-eb93-44f3-8e38-9e24a7076f90",
+        "code": "53.04",
+        "name": "Belu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "80609527-2bfe-4197-a5ab-756e8b0f7db0",
+        "code": "53.05",
+        "name": "Alor",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6481a9e6-5e0e-45d3-95e9-cb9cbc9cbab0",
+        "code": "53.06",
+        "name": "Flores Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4f0b58c9-d77d-4fc7-8300-da73b7c485e8",
+        "code": "53.07",
+        "name": "Sikka",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "948b681a-f836-4ef9-9b09-5b09ee25390a",
+        "code": "53.08",
+        "name": "Ende",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b0b0807c-b3e2-41c5-93a4-ffed573d7a0a",
+        "code": "53.09",
+        "name": "Ngada",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8c1bc617-fc1a-4312-b96f-928766b8c08d",
+        "code": "53.10",
+        "name": "Manggarai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7e65ecdf-4854-46a2-9aa6-394545ab5b4a",
+        "code": "53.11",
+        "name": "Sumba Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "1f758f85-a8c2-4c0a-904a-f5330cb55a36",
+        "code": "53.12",
+        "name": "Sumba Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "044a0dab-641e-4185-85b9-a6772b1e6550",
+        "code": "53.13",
+        "name": "Lembata",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ae6107d5-83bb-4edb-9130-5a1266064497",
+        "code": "53.14",
+        "name": "Rote Ndao",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "11341e51-b6e4-42f0-abb4-18df7b58136d",
+        "code": "53.15",
+        "name": "Manggarai Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ec4ef36e-a548-4421-94a2-24f08deb83ff",
+        "code": "53.16",
+        "name": "Nagekeo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ed5df68f-507b-468f-898a-ed5e2d0e4514",
+        "code": "53.17",
+        "name": "Sumba Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "af56ed5d-36f2-4ed4-881d-2b53e2ce5957",
+        "code": "53.18",
+        "name": "Sumba Barat Daya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "cc163b15-18d7-42df-b222-084f65371247",
+        "code": "53.19",
+        "name": "Manggarai Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "be589c3e-41af-4b4c-8f26-d6dec477c292",
+        "code": "53.20",
+        "name": "Sabu Raijua",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "06480eb1-0b84-4c7a-aad9-e2c60efb0af5",
+        "code": "53.21",
+        "name": "Malaka",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "f362d9e5-7742-405a-b85f-eb4509838d2d",
+        "code": "53.71",
+        "name": "Kupang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -136,6 +2410,108 @@
     "id": "952a6f2a-a46f-45cd-9b31-85f07863bfc8",
     "code": "61",
     "name": "Kalimantan Barat",
+    "regencies": [
+      {
+        "id": "254d4374-0fd1-4e8e-be67-94d4af72efa2",
+        "code": "61.01",
+        "name": "Sambas",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ce19b141-a146-4cce-a0bc-c83c9160729f",
+        "code": "61.02",
+        "name": "Mempawah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "21f825a9-ff5a-4a84-90e0-d0329c375e03",
+        "code": "61.03",
+        "name": "Sanggau",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e0544289-8e59-4279-be21-08a8663ea410",
+        "code": "61.04",
+        "name": "Ketapang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0b07a11e-d681-471b-93c6-5f52c07a96d6",
+        "code": "61.05",
+        "name": "Sintang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "5289bc56-8503-4439-8476-b8d2c19782f4",
+        "code": "61.06",
+        "name": "Kapuas Hulu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d6c13629-aee1-4748-aea0-c7edaaafbd6e",
+        "code": "61.07",
+        "name": "Bengkayang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7d43f32d-e2a3-4da1-8bea-112e58e48479",
+        "code": "61.08",
+        "name": "Landak",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "a3c684e9-8f7a-4fdf-ab94-74de3102ef20",
+        "code": "61.09",
+        "name": "Sekadau",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6df30ff7-34ba-4952-8b09-ad531f98de04",
+        "code": "61.10",
+        "name": "Melawi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6dd1e8c5-74eb-4cd1-8817-9f2a46598452",
+        "code": "61.11",
+        "name": "Kayong Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "43ebe73e-7f97-4138-8782-b0eedabdc06a",
+        "code": "61.12",
+        "name": "Kubu Raya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "c7a792e5-b36d-48df-ab64-18ba394a010e",
+        "code": "61.71",
+        "name": "Pontianak",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "cdc0c740-9501-4f81-b98a-56ffc461c2a6",
+        "code": "61.72",
+        "name": "Singkawang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -143,6 +2519,108 @@
     "id": "20786a66-e552-4b3e-864e-4ff3dd5da1cd",
     "code": "62",
     "name": "Kalimantan Tengah",
+    "regencies": [
+      {
+        "id": "08076437-ddae-4b43-a2e1-bde62e626200",
+        "code": "62.01",
+        "name": "Kotawaringin Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "47e52757-038d-4edb-9358-2a99392bfc05",
+        "code": "62.02",
+        "name": "Kotawaringin Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "80de2a9a-f880-4f4c-8344-127af5c4738a",
+        "code": "62.03",
+        "name": "Kapuas",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c9717ee8-20f0-46c2-a357-5e295ed8078b",
+        "code": "62.04",
+        "name": "Barito Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4ea58a2a-4fde-4254-b00e-4c8add3251c7",
+        "code": "62.05",
+        "name": "Barito Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ee9a9d4c-f3b0-4200-bb9e-0454462f4c3b",
+        "code": "62.06",
+        "name": "Katingan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "028916cf-6d07-4c3c-912f-0433f937198c",
+        "code": "62.07",
+        "name": "Seruyan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ec68591b-11f7-4e82-a5fc-544371c24a54",
+        "code": "62.08",
+        "name": "Sukamara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "047eb859-966a-48d0-bda5-f3170244fa05",
+        "code": "62.09",
+        "name": "Lamandau",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4ea6b791-8ce1-46f0-a9b1-e173dcfea314",
+        "code": "62.10",
+        "name": "Gunung Mas",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "437ac5cc-1191-4354-a648-86c78dbfab64",
+        "code": "62.11",
+        "name": "Pulang Pisau",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "63d2938c-50a4-476a-bbc7-dab2d60776d8",
+        "code": "62.12",
+        "name": "Murung Raya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ad131490-bf97-487f-9e8d-504b18669887",
+        "code": "62.13",
+        "name": "Barito Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "c1c5e2c0-195d-4dfa-ac10-220f4c1604ba",
+        "code": "62.71",
+        "name": "Palangkaraya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -150,6 +2628,101 @@
     "id": "a5ca13dc-b063-41c2-a2eb-c0d95e506a0e",
     "code": "63",
     "name": "Kalimantan Selatan",
+    "regencies": [
+      {
+        "id": "01e8f3e3-7dfc-45bb-a1ca-44b32af35e35",
+        "code": "63.01",
+        "name": "Tanah Laut",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "44231729-c5fd-401e-b341-a8ae359f2e50",
+        "code": "63.02",
+        "name": "Kotabaru",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "617f19f2-b472-415f-80df-03a71b8a5a9d",
+        "code": "63.03",
+        "name": "Banjar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "76c2fd3a-31db-41f2-98c4-0265e543e9e4",
+        "code": "63.04",
+        "name": "Barito Kuala",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "5433b238-83ef-46f8-8a9a-d17c81377ae7",
+        "code": "63.05",
+        "name": "Tapin",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "5014f8a5-f40c-4296-acca-ef4495e39bd4",
+        "code": "63.06",
+        "name": "Hulu Sungai Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "90c38845-0268-42c0-b590-1c95d95606e7",
+        "code": "63.07",
+        "name": "Hulu Sungai Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6d9f27c2-d947-43e0-8d6d-60b38a40534d",
+        "code": "63.08",
+        "name": "Hulu Sungai Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8a34ec04-492b-4781-bc1c-c3dc000e62f7",
+        "code": "63.09",
+        "name": "Tabalong",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0564ec36-aa2e-4372-8a23-82ce7230aef5",
+        "code": "63.10",
+        "name": "Tanah Bumbu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "258292b4-ad07-4d3a-8818-951233bbcc0c",
+        "code": "63.11",
+        "name": "Balangan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "8ea56eb6-2aa8-4b1c-986f-9a99f424f0c1",
+        "code": "63.71",
+        "name": "Banjarmasin",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f8607673-21ce-40a9-b15b-faa0044005b1",
+        "code": "63.72",
+        "name": "Banjarbaru",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -157,6 +2730,80 @@
     "id": "b2e5bbe6-7411-4274-93d4-1a4fab0a93a2",
     "code": "64",
     "name": "Kalimantan Timur",
+    "regencies": [
+      {
+        "id": "5e7dce50-2525-4386-b3f9-318bb8853975",
+        "code": "64.01",
+        "name": "Paser",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d53bebc2-6ccd-4815-a14e-13c562c965cc",
+        "code": "64.02",
+        "name": "Kutai Kartanegara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4b1e1b83-808c-47c1-a2c7-6eaff802a6c7",
+        "code": "64.03",
+        "name": "Berau",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "09aec271-ed8e-4d19-9c6e-7e9e8d117917",
+        "code": "64.07",
+        "name": "Kutai Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "79cf85bc-cd52-42d1-81c8-11030d12a8de",
+        "code": "64.08",
+        "name": "Kutai Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "5ce26fd9-456c-4ac7-88a9-7b7aca02bbf6",
+        "code": "64.09",
+        "name": "Penajam Paser Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "fc4287f9-ac66-405d-bb65-1f38601afecf",
+        "code": "64.11",
+        "name": "Mahakam Ulu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "28d40bb5-5f6e-4f01-86e3-c95e994f55de",
+        "code": "64.71",
+        "name": "Balikpapan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "617700c5-1ac3-4730-82fb-3df83780d886",
+        "code": "64.72",
+        "name": "Samarinda",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "46931f7b-bf19-4360-adb2-f565c585834f",
+        "code": "64.74",
+        "name": "Bontang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -164,6 +2811,45 @@
     "id": "d42445c8-fa96-4904-a981-62a34595bd4a",
     "code": "65",
     "name": "Kalimantan Utara",
+    "regencies": [
+      {
+        "id": "1fc0ec47-4a41-4d93-9b8b-8f0411f5864b",
+        "code": "65.01",
+        "name": "Bulungan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "5944fdef-3ac0-4b3e-a0bb-a64eb0181a85",
+        "code": "65.02",
+        "name": "Malinau",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e01373f6-5049-4e9a-979e-7068ae539a48",
+        "code": "65.03",
+        "name": "Nunukan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ba71d3ff-1feb-4350-94e5-9951a0caf166",
+        "code": "65.04",
+        "name": "Tana Tidung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "c1c74e67-7185-4d14-8e20-2af00956f766",
+        "code": "65.71",
+        "name": "Tarakan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -171,6 +2857,115 @@
     "id": "21b06979-87e7-49d7-94cf-791b1aef5ea5",
     "code": "71",
     "name": "Sulawesi Utara",
+    "regencies": [
+      {
+        "id": "804d02fe-4126-4022-ac4f-ab464d0bb380",
+        "code": "71.01",
+        "name": "Bolaang Mongondow",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "9f87098c-bfd1-4b8e-9347-e2330dc16745",
+        "code": "71.02",
+        "name": "Minahasa",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8df684db-be4b-4a17-801e-c21b9ee9ada2",
+        "code": "71.03",
+        "name": "Kepulauan Sangihe",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "5659a9bf-a37e-4039-b0fc-7a9ba6a1599b",
+        "code": "71.04",
+        "name": "Kepulauan Talaud",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c77d5bfc-7d51-444f-8716-811dd3ee81d5",
+        "code": "71.05",
+        "name": "Minahasa Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "2b384ca8-b382-4ed1-be5f-d73f5ddb2efa",
+        "code": "71.06",
+        "name": "Minahasa Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b6a01b52-5158-412c-87f6-d7deab5e2cb7",
+        "code": "71.07",
+        "name": "Minahasa Tenggara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f1037784-8564-42b6-afaa-21820f1f06c2",
+        "code": "71.08",
+        "name": "Bolaang Mongondow Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4e7b92f6-f2b4-4d5c-9ebc-be15f8eed1fa",
+        "code": "71.09",
+        "name": "Kep. Siau Tagulandang Biaro",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "88619fa7-6f6a-483b-a8ca-22d5d3673d21",
+        "code": "71.10",
+        "name": "Bolaang Mongondow Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7c28edad-6521-4672-a50f-87da4ab60150",
+        "code": "71.11",
+        "name": "Bolaang Mongondow Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "513f76be-26f7-4b5c-99f8-120826ffc3e8",
+        "code": "71.71",
+        "name": "Manado",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "87edb0b7-5e57-4d07-9ab0-8fb9547e8258",
+        "code": "71.72",
+        "name": "Bitung",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "748515d8-e383-4e9c-9306-00582503af72",
+        "code": "71.73",
+        "name": "Tomohon",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d6197e81-4fa7-4716-99ee-0c8f3cd3ba01",
+        "code": "71.74",
+        "name": "Kotamobagu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -178,6 +2973,101 @@
     "id": "77deb0e4-c7bf-477b-9836-2b6f4f0108cf",
     "code": "72",
     "name": "Sulawesi Tengah",
+    "regencies": [
+      {
+        "id": "4ced1e44-ad4b-4a4a-87bf-125e8723d61d",
+        "code": "72.01",
+        "name": "Banggai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3d5cc322-1adc-4fd8-a810-7aabe26364ba",
+        "code": "72.02",
+        "name": "Poso",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d23f26b5-0a5b-40e0-97fb-026a3076a5c1",
+        "code": "72.03",
+        "name": "Donggala",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6265366d-1489-4d43-98c5-47aa46920a83",
+        "code": "72.04",
+        "name": "Toli Toli",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b49493af-6451-40c0-8a1e-9cd118cab0b1",
+        "code": "72.05",
+        "name": "Buol",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c2ba5bea-cceb-4592-8b4e-a175c99a24c4",
+        "code": "72.06",
+        "name": "Morowali",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c7ae15cd-707c-4e13-8c11-ba3df49c6487",
+        "code": "72.07",
+        "name": "Banggai Kepulauan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "5f015e6a-e4c0-4ba4-bbc7-5e32763c74a4",
+        "code": "72.08",
+        "name": "Parigi Moutong",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "85b24ba8-4b92-4cfc-a042-a858ea459aa7",
+        "code": "72.09",
+        "name": "Tojo Una Una",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "22a05bdb-b5d1-4d77-90c4-2d3418b370e3",
+        "code": "72.10",
+        "name": "Sigi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "afd36aea-1326-4cc5-a296-f78c3a970f10",
+        "code": "72.11",
+        "name": "Banggai Laut",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e25665f8-2819-4b02-ab40-a57069da45a1",
+        "code": "72.12",
+        "name": "Morowali Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "e74dc6dd-fa31-43ff-8907-f04a01928ee4",
+        "code": "72.71",
+        "name": "Palu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -185,6 +3075,178 @@
     "id": "10f76d81-5bb9-4dc3-b868-c1995cd92914",
     "code": "73",
     "name": "Sulawesi Selatan",
+    "regencies": [
+      {
+        "id": "da5242a1-4b37-4a02-a9da-05114225290c",
+        "code": "73.01",
+        "name": "Kepulauan Selayar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e6125d78-a92c-42c1-8985-d43e14092923",
+        "code": "73.02",
+        "name": "Bulukumba",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3c0f4cc7-26cb-4e7c-b0d7-5808bbd2df4b",
+        "code": "73.03",
+        "name": "Bantaeng",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7dd5fcce-0271-4556-8845-ab053a9a35f7",
+        "code": "73.04",
+        "name": "Jeneponto",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "16f57485-9f1f-4c25-913d-8dc92eb765fe",
+        "code": "73.05",
+        "name": "Takalar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c498342b-43a2-4f30-815f-60104ceabdd5",
+        "code": "73.06",
+        "name": "Gowa",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ea81aa62-70a7-4ac9-a049-bf3599bd0505",
+        "code": "73.07",
+        "name": "Sinjai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f4883478-265a-4b81-a232-2a6d3b0e7f3a",
+        "code": "73.08",
+        "name": "Bone",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f132bd35-624b-4edf-9c2f-a87dc2e7af08",
+        "code": "73.09",
+        "name": "Maros",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "54584e4f-e15b-4f1d-99e6-e2193db9d4f6",
+        "code": "73.10",
+        "name": "Pangkajene Kepulauan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6524fb14-6454-4185-aaff-c92d1d14e39c",
+        "code": "73.11",
+        "name": "Barru",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8e4c1371-d5bb-4768-a8ed-1c414dba8286",
+        "code": "73.12",
+        "name": "Soppeng",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3ae834c2-95d1-49b9-8c62-bb155907018f",
+        "code": "73.13",
+        "name": "Wajo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f5f04871-bac8-4366-9afe-12da064f2587",
+        "code": "73.14",
+        "name": "Sidenreng Rappang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7df08965-b1dd-438f-b720-25c480073864",
+        "code": "73.15",
+        "name": "Pinrang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7c317008-6465-4021-bc9c-3e8b1de1f7fb",
+        "code": "73.16",
+        "name": "Enrekang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "a23b9dba-04f4-4aff-bd54-daaad69f25cb",
+        "code": "73.17",
+        "name": "Luwu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6b810056-6985-4315-a0be-d6cfa98fe13a",
+        "code": "73.18",
+        "name": "Tana Toraja",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e15176cd-1050-4ecd-b9d8-fe9a776144c9",
+        "code": "73.22",
+        "name": "Luwu Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "14e0c2aa-a74f-40dd-977d-c7c42c952fe9",
+        "code": "73.24",
+        "name": "Luwu Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "25498e4f-7ce9-43f5-b3d0-1d2755513e25",
+        "code": "73.26",
+        "name": "Toraja Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "adf1cabf-27f1-4303-8dd2-6211fa613771",
+        "code": "73.71",
+        "name": "Makassar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f1c802cf-73f2-43b4-baa9-8e4f710ad44e",
+        "code": "73.72",
+        "name": "Pare Pare",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "93ce9e96-3c52-4950-a033-2032a37c143a",
+        "code": "73.73",
+        "name": "Palopo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -192,6 +3254,129 @@
     "id": "2dc41261-19bc-4d6b-bb52-1738fcfdc3cd",
     "code": "74",
     "name": "Sulawesi Tenggara",
+    "regencies": [
+      {
+        "id": "511d44aa-348b-4aaf-a594-8ffb9558f4b2",
+        "code": "74.01",
+        "name": "Kolaka",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c795ba6c-ead4-4487-ac2c-26d79a7b024e",
+        "code": "74.02",
+        "name": "Konawe",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f2d34595-72bf-483b-a5d9-e78915438193",
+        "code": "74.03",
+        "name": "Muna",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "751bf809-4250-4210-9b20-17f206128d84",
+        "code": "74.04",
+        "name": "Buton",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "46d4658f-e0b7-44cb-8ffe-6e6df8d77ac5",
+        "code": "74.05",
+        "name": "Konawe Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3ca26793-974e-473f-bd61-addbef0fec5e",
+        "code": "74.06",
+        "name": "Bombana",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f43fd86e-28f3-462f-89ec-9c304e75650b",
+        "code": "74.07",
+        "name": "Wakatobi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "162604c6-8654-43f7-9fb1-23b36476c7ac",
+        "code": "74.08",
+        "name": "Kolaka Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ecfbd3a8-9c21-4bea-9494-2c2ff1631f95",
+        "code": "74.09",
+        "name": "Konawe Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "7bc93379-aa72-43b5-a98c-010381a1ae86",
+        "code": "74.10",
+        "name": "Buton Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3afe52d0-f3d9-4ccd-83e4-85bac1d2aa3e",
+        "code": "74.11",
+        "name": "Kolaka Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3e6f2dd2-fcc5-47fe-84fc-4b401abffb87",
+        "code": "74.12",
+        "name": "Konawe Kepulauan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "a74cdf0c-7e2b-4def-96f1-f6f3fb66d7cd",
+        "code": "74.13",
+        "name": "Muna Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "2caa9c0e-bec2-4b2a-b389-b615dd779a0a",
+        "code": "74.14",
+        "name": "Buton Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ebf9c2c0-45bf-4757-8ff1-bd4574633936",
+        "code": "74.15",
+        "name": "Buton Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "e3062ad6-c39f-4d98-8e28-bb0d6a6b2188",
+        "code": "74.71",
+        "name": "Kendari",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "550d4607-feff-4e6d-82da-d2efd5c7cb35",
+        "code": "74.72",
+        "name": "Bau Bau",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -199,6 +3384,52 @@
     "id": "a7fc65ef-d294-4b4a-b5e3-76875119b8ce",
     "code": "75",
     "name": "Gorontalo",
+    "regencies": [
+      {
+        "id": "a815f40b-c9bd-4ea4-92d9-c0eceeda44d0",
+        "code": "75.01",
+        "name": "Gorontalo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "557df52d-53b5-486a-9752-6f5567b4856c",
+        "code": "75.02",
+        "name": "Boalemo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "76c06c5c-514a-4fcc-849e-ec6c8c744262",
+        "code": "75.03",
+        "name": "Bone Bolango",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "bf4cb72c-7ee4-439f-953d-ddd72bbc8cb0",
+        "code": "75.04",
+        "name": "Pahuwato",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "815b8dc5-4995-4426-bb3a-3e486ed85904",
+        "code": "75.05",
+        "name": "Gorontalo Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "509871e1-2855-4023-a46c-e3a2445b1a01",
+        "code": "75.71",
+        "name": "Gorontalo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -206,6 +3437,51 @@
     "id": "b07f64b7-57d5-40b7-8cf5-c34856dd487a",
     "code": "76",
     "name": "Sulawesi Barat",
+    "regencies": [
+      {
+        "id": "b34957e2-157b-4038-8152-410dd956e99f",
+        "code": "76.01",
+        "name": "Mamuju Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b86030bc-864f-4d5a-9187-7bd85fe3c4bd",
+        "code": "76.02",
+        "name": "Mamuju",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d1eb43c6-8eb1-419e-96b3-bf8bbbd87f7a",
+        "code": "76.03",
+        "name": "Mamasa",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e7aa7307-7ecd-4101-9a9e-11f719394923",
+        "code": "76.04",
+        "name": "Polewali Mandar",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "fe0b14c9-c135-4b18-bacb-c2d390b14dc5",
+        "code": "76.05",
+        "name": "Majene",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0d04e04d-19c9-44b3-a8f5-ca8a7e537c2d",
+        "code": "76.06",
+        "name": "Mamuju Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": null,
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -213,6 +3489,87 @@
     "id": "9f703c92-7efc-4f13-97b8-20404ef0be3c",
     "code": "81",
     "name": "Maluku",
+    "regencies": [
+      {
+        "id": "f07768d8-dbe2-481f-87dd-9e1b66037e7e",
+        "code": "81.01",
+        "name": "Maluku Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "5a32026d-adc2-45b4-b2da-a936bf98bc54",
+        "code": "81.02",
+        "name": "Maluku Tenggara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0e1b5897-ebda-43f2-865a-cc68cb575ae1",
+        "code": "81.03",
+        "name": "Maluku Tenggara Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "654052e4-90ff-474a-8607-8b5dcfb7b0a5",
+        "code": "81.04",
+        "name": "Buru",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "0616129c-eb5a-4f47-8e3f-6e15634df257",
+        "code": "81.05",
+        "name": "Seram Bagian Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ee309d68-3b74-479c-ba00-277e5441e409",
+        "code": "81.06",
+        "name": "Seram Bagian Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "769ffca3-442d-468a-9658-48b00ab509a7",
+        "code": "81.07",
+        "name": "Kepulauan Aru",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ac3777c7-4abf-45f4-be38-c5ad53889402",
+        "code": "81.08",
+        "name": "Maluku Barat Daya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "65f3919f-4d58-4d24-8fc1-07bda19c4da9",
+        "code": "81.09",
+        "name": "Buru Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "d27ecdf8-1e13-4cb8-b3a5-2ebf2fabeb38",
+        "code": "81.71",
+        "name": "Ambon",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3fe5e65b-38a7-45ec-b73a-04c515e80a47",
+        "code": "81.72",
+        "name": "Tual",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -220,6 +3577,80 @@
     "id": "b3aa51ef-1f41-46a3-bd16-a29396c7d15b",
     "code": "82",
     "name": "Maluku Utara",
+    "regencies": [
+      {
+        "id": "79e55727-6ddc-4fb6-9db1-2b088cfbabec",
+        "code": "82.01",
+        "name": "Halmahera Barat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "61cffce3-1fca-4e7a-9c56-30cff6460d1b",
+        "code": "82.02",
+        "name": "Halmahera Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d3db17ee-d66c-4c6b-9cf0-49906fe7c36c",
+        "code": "82.03",
+        "name": "Halmahera Utara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "4d8827b0-b391-4cf7-97fe-369c5188c1f4",
+        "code": "82.04",
+        "name": "Halmahera Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "670b4b19-9d22-4b7f-b79b-23134cba3995",
+        "code": "82.05",
+        "name": "Kepulauan Sula",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "bfc482bb-be4b-438e-beae-01789afe2e57",
+        "code": "82.06",
+        "name": "Halmahera Timur",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "be8e7d5f-a5ba-45f3-bba1-8fcb8f86568d",
+        "code": "82.07",
+        "name": "Pulau Morotai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "a5fe057d-1092-4b68-8af8-93479cf7f9ec",
+        "code": "82.08",
+        "name": "Pulau Taliabu",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "98136222-15bf-4d7c-a32b-159eb2f72bed",
+        "code": "82.71",
+        "name": "Ternate",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ed8133fe-719b-429f-b942-10226a76346f",
+        "code": "82.72",
+        "name": "Tidore Kepulauan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -227,6 +3658,213 @@
     "id": "b07601bb-ab95-4197-b41b-2c4baae0158a",
     "code": "91",
     "name": "Papua",
+    "regencies": [
+      {
+        "id": "73a07b47-7cbd-4d80-8a8f-881ffbd66927",
+        "code": "91.01",
+        "name": "Merauke",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c8222756-4cee-4398-bf86-7894cde70736",
+        "code": "91.02",
+        "name": "Jayawijaya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e0c62bd5-4a98-41c1-bf9c-2e89f2535459",
+        "code": "91.03",
+        "name": "Jayapura",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "b3902d83-753f-43c4-bbe4-5a406458fc72",
+        "code": "91.04",
+        "name": "Nabire",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6b4368f7-9fd8-4fdf-9296-f4e49b3f74a0",
+        "code": "91.05",
+        "name": "Kepulauan Yapen",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f273c7f3-6724-493e-9674-7e30d8268205",
+        "code": "91.06",
+        "name": "Biak Numfor",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "708d96b8-417c-4343-8934-c806766b14a5",
+        "code": "91.07",
+        "name": "Puncak Jaya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f2c54004-f1d8-4b66-a7ef-215f672a43e6",
+        "code": "91.08",
+        "name": "Paniai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "39b2086b-5b19-4d61-9cbc-b6818ba5e281",
+        "code": "91.09",
+        "name": "Mimika",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "063bd142-8521-43c5-b4b9-83dcce57ae22",
+        "code": "91.10",
+        "name": "Sarmi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "93f4e9bd-8d0b-4770-987f-00e1704bd455",
+        "code": "91.11",
+        "name": "Keerom",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "cdfe2e66-eef8-4d3c-9729-6bf651b14a14",
+        "code": "91.12",
+        "name": "Pegunungan Bintang",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "63b78db8-c9bf-44ed-9e6b-6815a7010866",
+        "code": "91.13",
+        "name": "Yahukimo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "64ea89ea-7b26-46d4-98e9-61fa4687a708",
+        "code": "91.14",
+        "name": "Tolikara",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "ebdfd6e0-ce36-48f8-80f0-50dd894f672c",
+        "code": "91.15",
+        "name": "Waropen",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "502a73ab-b6e5-484d-9899-7f899928cc7b",
+        "code": "91.16",
+        "name": "Boven Digoel",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d54a9a8b-8473-48d0-99bf-914c7ca2db2a",
+        "code": "91.17",
+        "name": "Mappi",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "9150e376-cf15-4357-b2b0-d3fe58bfdbc8",
+        "code": "91.18",
+        "name": "Asmat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3f3769cc-96ce-4e54-9a26-0c18273e8b17",
+        "code": "91.19",
+        "name": "Supiori",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8f491df3-78f1-4be0-9f2b-13803021c38d",
+        "code": "91.20",
+        "name": "Mamberamo Raya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "01d7d4c0-9e76-4f52-8f27-5ce74b167361",
+        "code": "91.21",
+        "name": "Mamberamo Tengah",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "6bb3bb30-a65d-4659-b883-24bb3ec399a0",
+        "code": "91.22",
+        "name": "Yalimo",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "f777ec6e-6cd0-45d3-a8c6-cbbdef4080cf",
+        "code": "91.23",
+        "name": "Lanny Jaya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d0011ea6-215b-4bd7-946b-579627b2b77b",
+        "code": "91.24",
+        "name": "Nduga",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "99d2ed83-07d2-4028-9e5e-ddfcf79b7513",
+        "code": "91.25",
+        "name": "Puncak",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d52e3695-dd86-4363-bd3b-be606c2abe67",
+        "code": "91.26",
+        "name": "Dogiyai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "46efd181-9d11-4fd4-a70a-c4f9bae0d93f",
+        "code": "91.27",
+        "name": "Intan Jaya",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "11ebc474-56a9-46e7-aa44-07d599700b67",
+        "code": "91.28",
+        "name": "Deiyai",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "4dbf3132-aed8-4122-976a-e7a7542dc99c",
+        "code": "91.71",
+        "name": "Jayapura",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   },
@@ -234,6 +3872,101 @@
     "id": "560ac377-e160-485c-91a6-4b09cc2b75fc",
     "code": "92",
     "name": "Papua Barat",
+    "regencies": [
+      {
+        "id": "f5e211b9-6b82-426a-84d4-8584dd24f781",
+        "code": "92.01",
+        "name": "Sorong",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "d5d6be2e-d248-47a7-b45b-2ce240b5ee73",
+        "code": "92.02",
+        "name": "Manokwari",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "8ed2b12a-fabe-40b8-b198-606c8440e935",
+        "code": "92.03",
+        "name": "Fak Fak",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "97e6ac50-9db9-48b9-b8b3-86067bbaa247",
+        "code": "92.04",
+        "name": "Sorong Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "1107debf-9620-43b2-8168-207aacdf8eda",
+        "code": "92.05",
+        "name": "Raja Ampat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "3f2eed49-7045-4d81-9880-8793114247d3",
+        "code": "92.06",
+        "name": "Teluk Bintuni",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "344783cb-2b10-4411-8a04-392d8a291831",
+        "code": "92.07",
+        "name": "Teluk Wondama",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "c7f6f33c-a3f8-4a3c-b0c3-e9be91a4b7d5",
+        "code": "92.08",
+        "name": "Kaimana",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "660ce12a-77c1-4236-a468-fc75bd866898",
+        "code": "92.09",
+        "name": "Tambrauw",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "e530b85e-ea32-4e19-a244-d2741851471b",
+        "code": "92.10",
+        "name": "Maybrat",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "75a842c6-2de9-4060-adfe-85388474a6c6",
+        "code": "92.11",
+        "name": "Manokwari Selatan",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      },
+      {
+        "id": "74f61f51-7cdb-4455-bc11-2dd82bcaf0b5",
+        "code": "92.12",
+        "name": "Pegunungan Arfak",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
+    "cities": [
+      {
+        "id": "2ce2a5a8-32f2-4529-b121-3b7f5b3814cf",
+        "code": "92.71",
+        "name": "Sorong",
+        "created_at": "2020-04-18T07:39:01Z",
+        "updated_at": "2020-04-18T07:39:01Z"
+      }
+    ],
     "created_at": "2020-04-15T10:15:32Z",
     "updated_at": "2020-04-15T10:15:32Z"
   }
