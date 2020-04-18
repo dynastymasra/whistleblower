@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "3abaa032-ffbb-4402-809f-9e8bab26d0e6",
+    "ISO4217-currency_alphabetic_code": "ALL",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Lek",
+    "ISO4217-currency_numeric_code": "008",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "879363d3-f149-4f18-a02a-8487ce5dd602",
+    "ISO4217-currency_alphabetic_code": "MYR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Malaysian Ringgit",
+    "ISO4217-currency_numeric_code": "458",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "234f0fb0-f5c1-4eba-8e43-9a2b9da5b2bb",
+    "ISO4217-currency_alphabetic_code": "UZS",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Uzbekistan Sum",
+    "ISO4217-currency_numeric_code": "860",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "7f00b76a-a7b9-4b6c-9d10-a8c7150f5114",
+    "ISO4217-currency_alphabetic_code": "BYN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Belarusian Ruble",
+    "ISO4217-currency_numeric_code": "933",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "59404b1f-7727-4145-a857-5c6fcdff40fc",
+    "ISO4217-currency_alphabetic_code": "IRR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Iranian Rial",
+    "ISO4217-currency_numeric_code": "364",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "c5c65831-dd38-415a-bb24-1fe0a11ade73",
+    "ISO4217-currency_alphabetic_code": "NPR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Nepalese Rupee",
+    "ISO4217-currency_numeric_code": "524",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "e023e8dd-3ced-48b6-b0b5-828ba92dc3c0",
+    "ISO4217-currency_alphabetic_code": "UGX",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Uganda Shilling",
+    "ISO4217-currency_numeric_code": "800",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "8bed5fdc-bf9d-4a54-82b3-337b694b0eca",
+    "ISO4217-currency_alphabetic_code": "TND",
+    "ISO4217-currency_minor_unit": "3",
+    "ISO4217-currency_name": "Tunisian Dinar",
+    "ISO4217-currency_numeric_code": "788",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "011c6a80-c066-4d0b-8878-52067c32139c",
+    "ISO4217-currency_alphabetic_code": "BTN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Ngultrum",
+    "ISO4217-currency_numeric_code": "064",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "e6bf5340-7e2e-4de9-9993-3b1b9d015bcf",
+    "ISO4217-currency_alphabetic_code": "NOK",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Norwegian Krone",
+    "ISO4217-currency_numeric_code": "578",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "16f7e564-ec9e-4d2b-aef2-d94b1ffa82d6",
+    "ISO4217-currency_alphabetic_code": "BND",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Brunei Dollar",
+    "ISO4217-currency_numeric_code": "096",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "d0606601-bdc6-48c6-82d6-f37a07e353d1",
+    "ISO4217-currency_alphabetic_code": "GHS",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Ghana Cedi",
+    "ISO4217-currency_numeric_code": "936",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "d248dafc-844a-4f4d-9836-9d6298f2dbe5",
+    "ISO4217-currency_alphabetic_code": "SAR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Saudi Riyal",
+    "ISO4217-currency_numeric_code": "682",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "500db129-0e23-4a74-8625-9475c7421539",
+    "ISO4217-currency_alphabetic_code": "AZN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Azerbaijan Manat",
+    "ISO4217-currency_numeric_code": "944",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "2c16b8af-1eeb-430c-99a5-4a2ff26ec84b",
+    "ISO4217-currency_alphabetic_code": "FJD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Fiji Dollar",
+    "ISO4217-currency_numeric_code": "242",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "5f155c00-0305-42b0-bfd4-48f5b0d715eb",
+    "ISO4217-currency_alphabetic_code": "MWK",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Malawi Kwacha",
+    "ISO4217-currency_numeric_code": "454",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "7fdfd87e-f50e-45b9-9851-462c8469a439",
+    "ISO4217-currency_alphabetic_code": "PGK",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Kina",
+    "ISO4217-currency_numeric_code": "598",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "3108c8ac-283e-42d5-861f-a72c37d1eee7",
+    "ISO4217-currency_alphabetic_code": "BHD",
+    "ISO4217-currency_minor_unit": "3",
+    "ISO4217-currency_name": "Bahraini Dinar",
+    "ISO4217-currency_numeric_code": "048",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "2ef0d65e-6147-4857-8e90-e70af926adba",
+    "ISO4217-currency_alphabetic_code": "BRL",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Brazilian Real",
+    "ISO4217-currency_numeric_code": "986",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "f39feb82-282c-4de0-963b-139d5d2f0319",
+    "ISO4217-currency_alphabetic_code": "CZK",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Czech Koruna",
+    "ISO4217-currency_numeric_code": "203",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "5e84b173-fc07-490f-9bdf-fa32ae704d2e",
+    "ISO4217-currency_alphabetic_code": "MNT",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Tugrik",
+    "ISO4217-currency_numeric_code": "496",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "6fbbbd38-0c90-4f96-bb11-5448712e36d0",
+    "ISO4217-currency_alphabetic_code": "SBD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Solomon Islands Dollar",
+    "ISO4217-currency_numeric_code": "090",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "bb36a490-4113-4e8a-9cd8-c4256c5dfecb",
+    "ISO4217-currency_alphabetic_code": "DZD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Algerian Dinar",
+    "ISO4217-currency_numeric_code": "012",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "283e7c52-3643-4da2-bd5c-54e7435a3d01",
+    "ISO4217-currency_alphabetic_code": "BIF",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Burundi Franc",
+    "ISO4217-currency_numeric_code": "108",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "6a74250c-8d9a-4f02-a170-642a5f3fdf6b",
+    "ISO4217-currency_alphabetic_code": "PKR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Pakistan Rupee",
+    "ISO4217-currency_numeric_code": "586",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "917808fb-548e-45ad-8ea0-cc30d5c04cb2",
+    "ISO4217-currency_alphabetic_code": "ERN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Nakfa",
+    "ISO4217-currency_numeric_code": "232",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "8d4123bb-aec4-423c-b8f1-a71c9c865907",
+    "ISO4217-currency_alphabetic_code": "JOD",
+    "ISO4217-currency_minor_unit": "3",
+    "ISO4217-currency_name": "Jordanian Dinar",
+    "ISO4217-currency_numeric_code": "400",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "dbd4530e-d423-4e3a-9c00-36cc0487807e",
+    "ISO4217-currency_alphabetic_code": "MVR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Rufiyaa",
+    "ISO4217-currency_numeric_code": "462",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "2cdcfe74-c609-49b2-a80d-4a9c188749b5",
+    "ISO4217-currency_alphabetic_code": "KRW",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Won",
+    "ISO4217-currency_numeric_code": "410",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "16ecd7de-e5ad-4229-9e0f-34f51f4e5a77",
+    "ISO4217-currency_alphabetic_code": "SHP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Saint Helena Pound",
+    "ISO4217-currency_numeric_code": "654",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "0bb8a0a7-3043-441d-ae6b-96fed7a55453",
+    "ISO4217-currency_alphabetic_code": "USD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "US Dollar",
+    "ISO4217-currency_numeric_code": "840",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "eb333dc2-f0a3-463f-9f60-f08ebc7a3794",
+    "ISO4217-currency_alphabetic_code": "SVC",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "El Salvador Colon",
+    "ISO4217-currency_numeric_code": "222",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "37a07760-1b73-41f5-b190-a1bbb8e11204",
+    "ISO4217-currency_alphabetic_code": "ETB",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Ethiopian Birr",
+    "ISO4217-currency_numeric_code": "230",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "70be5d1a-e572-46cf-bb3e-ff1b4ed5efcb",
+    "ISO4217-currency_alphabetic_code": "ISK",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Iceland Krona",
+    "ISO4217-currency_numeric_code": "352",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "33385786-8ba0-45cd-992a-6f40b8e89204",
+    "ISO4217-currency_alphabetic_code": "MRO",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Ouguiya",
+    "ISO4217-currency_numeric_code": "478",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "f91cdca5-6ca3-4d51-8f36-a75201a95112",
+    "ISO4217-currency_alphabetic_code": "PHP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Philippine Piso",
+    "ISO4217-currency_numeric_code": "608",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "a2182987-23cd-4051-a509-d37c9458f366",
+    "ISO4217-currency_alphabetic_code": "MDL",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Moldovan Leu",
+    "ISO4217-currency_numeric_code": "498",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "46255c00-2588-4215-ab12-41670516fa24",
+    "ISO4217-currency_alphabetic_code": "SOS",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Somali Shilling",
+    "ISO4217-currency_numeric_code": "706",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "03d8b015-2fba-45dc-8ec9-b5070da64f69",
+    "ISO4217-currency_alphabetic_code": "COP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Colombian Peso",
+    "ISO4217-currency_numeric_code": "170",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "70d82914-89e3-46c1-9d53-eda90a258f8a",
+    "ISO4217-currency_alphabetic_code": "INR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Indian Rupee",
+    "ISO4217-currency_numeric_code": "356",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "b50ac4bf-0a67-483f-822f-1f1b2d27fcd6",
+    "ISO4217-currency_alphabetic_code": "ZAR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Rand",
+    "ISO4217-currency_numeric_code": "710",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "c5f44318-fc74-49cd-922a-d82588a7203f",
+    "ISO4217-currency_alphabetic_code": "LRD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Liberian Dollar",
+    "ISO4217-currency_numeric_code": "430",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "f25176cd-6650-4e98-a244-09c9cf2818af",
+    "ISO4217-currency_alphabetic_code": "NIO",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Cordoba Oro",
+    "ISO4217-currency_numeric_code": "558",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "9bb9c711-1f4f-4e35-9960-7b69193524e9",
+    "ISO4217-currency_alphabetic_code": "KPW",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "North Korean Won",
+    "ISO4217-currency_numeric_code": "408",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "27ca5545-5058-4666-929f-3667f24e734f",
+    "ISO4217-currency_alphabetic_code": "XPF",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "CFP Franc",
+    "ISO4217-currency_numeric_code": "953",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "0245c6f1-2eb4-4cf4-97a1-77ee5812404b",
+    "ISO4217-currency_alphabetic_code": "QAR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Qatari Rial",
+    "ISO4217-currency_numeric_code": "634",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "ca271059-3d50-4141-a793-05a95eb3ced7",
+    "ISO4217-currency_alphabetic_code": "STD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Dobra",
+    "ISO4217-currency_numeric_code": "678",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "3ea8e4f0-39f7-4d47-955d-6abbfb5dec3b",
+    "ISO4217-currency_alphabetic_code": "ARS",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Argentine Peso",
+    "ISO4217-currency_numeric_code": "032",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "20037767-65fd-4425-88a5-cab5ad2aba9e",
+    "ISO4217-currency_alphabetic_code": "BDT",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Taka",
+    "ISO4217-currency_numeric_code": "050",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "fdafb3e2-c7fb-4d1e-b092-795357403b74",
+    "ISO4217-currency_alphabetic_code": "CDF",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Congolese Franc",
+    "ISO4217-currency_numeric_code": "976",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "198dbd83-c459-43f5-9071-c34ce51629e0",
+    "ISO4217-currency_alphabetic_code": "UYU",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Peso Uruguayo",
+    "ISO4217-currency_numeric_code": "858",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "8022161d-41f7-4e0d-bb85-ee0af0459879",
+    "ISO4217-currency_alphabetic_code": "XCD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "East Caribbean Dollar",
+    "ISO4217-currency_numeric_code": "951",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "348a1c00-89ed-4076-baa3-cf68cea2c627",
+    "ISO4217-currency_alphabetic_code": "SYP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Syrian Pound",
+    "ISO4217-currency_numeric_code": "760",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "cab0ef09-5168-4569-afbc-56af2d3f54cb",
+    "ISO4217-currency_alphabetic_code": "VUV",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Vatu",
+    "ISO4217-currency_numeric_code": "548",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "5586c78e-ee7e-4ea4-9d99-8e9a27ca4ad2",
+    "ISO4217-currency_alphabetic_code": "XAF",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "CFA Franc BEAC",
+    "ISO4217-currency_numeric_code": "950",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "e0731534-cf77-4232-a3c3-08bcc3f95365",
+    "ISO4217-currency_alphabetic_code": "CNY",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Yuan Renminbi",
+    "ISO4217-currency_numeric_code": "156",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "93d4f5a9-6837-4f28-8020-f9b40d7f1a5a",
+    "ISO4217-currency_alphabetic_code": "GMD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Dalasi",
+    "ISO4217-currency_numeric_code": "270",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "89b4a0f4-abf3-4f98-a4f6-75508416e09e",
+    "ISO4217-currency_alphabetic_code": "MZN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Mozambique Metical",
+    "ISO4217-currency_numeric_code": "943",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "3d8c281a-54ba-4c59-957f-7bfdd73158fd",
+    "ISO4217-currency_alphabetic_code": "TMT",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Turkmenistan New Manat",
+    "ISO4217-currency_numeric_code": "934",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "ec162aaf-5ca6-4f7f-9b46-bfe0159e5a41",
+    "ISO4217-currency_alphabetic_code": "LBP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Lebanese Pound",
+    "ISO4217-currency_numeric_code": "422",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "db4ff9a7-7040-4213-8de2-b5962601d623",
+    "ISO4217-currency_alphabetic_code": "RWF",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Rwanda Franc",
+    "ISO4217-currency_numeric_code": "646",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "b8155551-ae8f-4b19-bbd7-2ff1b465b7ed",
+    "ISO4217-currency_alphabetic_code": "ZAR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Rand",
+    "ISO4217-currency_numeric_code": "710",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "1e232512-828b-473f-8706-02222ca8c3e4",
+    "ISO4217-currency_alphabetic_code": "BMD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Bermudian Dollar",
+    "ISO4217-currency_numeric_code": "060",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "23b53a8e-e6ec-490d-ace3-9b555ca4267e",
+    "ISO4217-currency_alphabetic_code": "KYD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Cayman Islands Dollar",
+    "ISO4217-currency_numeric_code": "136",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "23e47cae-7338-4ec7-bddd-3dac4bcc87e5",
+    "ISO4217-currency_alphabetic_code": "DKK",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Danish Krone",
+    "ISO4217-currency_numeric_code": "208",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "85688934-471d-480d-acf2-3ac52ca55738",
+    "ISO4217-currency_alphabetic_code": "GTQ",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Quetzal",
+    "ISO4217-currency_numeric_code": "320",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "a63bcc26-f0c2-44ee-b0b6-889ac0349ebf",
+    "ISO4217-currency_alphabetic_code": "KGS",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Som",
+    "ISO4217-currency_numeric_code": "417",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "72d2d796-ee8d-4c81-8495-0eb4556cfd03",
+    "ISO4217-currency_alphabetic_code": "AED",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "UAE Dirham",
+    "ISO4217-currency_numeric_code": "784",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "33fa2552-edbc-4cad-bad6-4ea14618d07e",
+    "ISO4217-currency_alphabetic_code": "ZWL",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Zimbabwe Dollar",
+    "ISO4217-currency_numeric_code": "932",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "bde03591-84b4-4402-82dc-e29b8b999f57",
+    "ISO4217-currency_alphabetic_code": "AUD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Australian Dollar",
+    "ISO4217-currency_numeric_code": "036",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "8e83828a-bf61-4e05-9065-4e83825e7df9",
+    "ISO4217-currency_alphabetic_code": "BZD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Belize Dollar",
+    "ISO4217-currency_numeric_code": "084",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "2842ead8-f85d-4210-98e8-344fccf71ff6",
+    "ISO4217-currency_alphabetic_code": "HRK",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Kuna",
+    "ISO4217-currency_numeric_code": "191",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "3e286395-eee0-4ca9-abc3-da1b817cf5b6",
+    "ISO4217-currency_alphabetic_code": "JMD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Jamaican Dollar",
+    "ISO4217-currency_numeric_code": "388",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "9cc6eee3-7021-4a8e-88f9-eaf3c0ef518c",
+    "ISO4217-currency_alphabetic_code": "UAH",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Hryvnia",
+    "ISO4217-currency_numeric_code": "980",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "364f2314-2a1e-40b3-a050-b4d6870090b7",
+    "ISO4217-currency_alphabetic_code": "AFN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Afghani",
+    "ISO4217-currency_numeric_code": "971",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "b8e7c7e1-f8e2-4fb5-b143-bb26e7dd2b49",
+    "ISO4217-currency_alphabetic_code": "BGN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Bulgarian Lev",
+    "ISO4217-currency_numeric_code": "975",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "c13ae9e1-9f22-42e6-bd0f-b63ecc20f72b",
+    "ISO4217-currency_alphabetic_code": "TTD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Trinidad and Tobago Dollar",
+    "ISO4217-currency_numeric_code": "780",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "9db54a2b-098f-45b7-8f62-fefc2a33485e",
+    "ISO4217-currency_alphabetic_code": "SLL",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Leone",
+    "ISO4217-currency_numeric_code": "694",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "dd4e42a2-99ff-42fa-8990-5dd1b54c50e7",
+    "ISO4217-currency_alphabetic_code": "VEF",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Bolívar",
+    "ISO4217-currency_numeric_code": "937",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "9a182345-15d0-403f-bf55-60a14c5ccb94",
+    "ISO4217-currency_alphabetic_code": "KHR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Riel",
+    "ISO4217-currency_numeric_code": "116",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "443c6b0c-60c5-4082-b859-0fb0ce768bf1",
+    "ISO4217-currency_alphabetic_code": "EGP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Egyptian Pound",
+    "ISO4217-currency_numeric_code": "818",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "8111651e-807f-4ff3-a723-2dffe9a43d18",
+    "ISO4217-currency_alphabetic_code": "IQD",
+    "ISO4217-currency_minor_unit": "3",
+    "ISO4217-currency_name": "Iraqi Dinar",
+    "ISO4217-currency_numeric_code": "368",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "b55d3993-0fe8-4e7e-ac34-c7e6abe07322",
+    "ISO4217-currency_alphabetic_code": "ILS",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "New Israeli Sheqel",
+    "ISO4217-currency_numeric_code": "376",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "df62ecc3-7039-42ad-a9ce-e4e2a7e58845",
+    "ISO4217-currency_alphabetic_code": "LAK",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Lao Kip",
+    "ISO4217-currency_numeric_code": "418",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "d6b9a959-f7c3-479c-8613-9e01fbfa4036",
+    "ISO4217-currency_alphabetic_code": "OMR",
+    "ISO4217-currency_minor_unit": "3",
+    "ISO4217-currency_name": "Rial Omani",
+    "ISO4217-currency_numeric_code": "512",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "38f04f69-d5d8-4d76-b029-39c49f5b28db",
+    "ISO4217-currency_alphabetic_code": "MKD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Denar",
+    "ISO4217-currency_numeric_code": "807",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "7026128b-c454-4e11-8db2-99838840e6b7",
+    "ISO4217-currency_alphabetic_code": "TZS",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Tanzanian Shilling",
+    "ISO4217-currency_numeric_code": "834",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "1e8a7eae-c3cc-4c6a-a933-5b89755d89ff",
+    "ISO4217-currency_alphabetic_code": "CUC",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Peso Convertible",
+    "ISO4217-currency_numeric_code": "931",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "ec8d56f3-3c07-406b-b6b5-52fb683f8e79",
+    "ISO4217-currency_alphabetic_code": "GIP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Gibraltar Pound",
+    "ISO4217-currency_numeric_code": "292",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "9d379f57-bbbe-4f7b-8012-85f78d5d1794",
+    "ISO4217-currency_alphabetic_code": "GBP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Pound Sterling",
+    "ISO4217-currency_numeric_code": "826",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "05686fb6-afff-4a61-9948-5cb062cbe248",
+    "ISO4217-currency_alphabetic_code": "SZL",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Lilangeni",
+    "ISO4217-currency_numeric_code": "748",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "24b4cb4b-e543-4adc-a59d-6f6331001ae7",
+    "ISO4217-currency_alphabetic_code": "HKD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Hong Kong Dollar",
+    "ISO4217-currency_numeric_code": "344",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "60c90b7e-66e3-4556-8b45-9bd13d1b28d7",
+    "ISO4217-currency_alphabetic_code": "HNL",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Lempira",
+    "ISO4217-currency_numeric_code": "340",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "ff450f06-2e1e-460d-85c0-8b191f6e9acc",
+    "ISO4217-currency_alphabetic_code": "MXN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Mexican Peso",
+    "ISO4217-currency_numeric_code": "484",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "91115ec7-6c31-444f-9070-47d6d2e88c62",
+    "ISO4217-currency_alphabetic_code": "JPY",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Yen",
+    "ISO4217-currency_numeric_code": "392",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "df92e566-2d9b-4558-b33b-c1ca85b27079",
+    "ISO4217-currency_alphabetic_code": "MAD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Moroccan Dirham",
+    "ISO4217-currency_numeric_code": "504",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "fc43c645-054c-444d-b038-f82144719147",
+    "ISO4217-currency_alphabetic_code": "PEN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Sol",
+    "ISO4217-currency_numeric_code": "604",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "9f213892-7177-44eb-bc6b-a7df74957418",
+    "ISO4217-currency_alphabetic_code": "TWD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "New Taiwan Dollar",
+    "ISO4217-currency_numeric_code": "901",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "e0b3158f-4964-480c-9008-3e94a06452d0",
+    "ISO4217-currency_alphabetic_code": "EUR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Euro",
+    "ISO4217-currency_numeric_code": "978",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "b39b508a-e54e-466e-8d80-3788b096f313",
+    "ISO4217-currency_alphabetic_code": "XOF",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "CFA Franc BCEAO",
+    "ISO4217-currency_numeric_code": "952",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "d998be88-7ed7-4ee3-bd52-be77162f2f39",
+    "ISO4217-currency_alphabetic_code": "CVE",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Cabo Verde Escudo",
+    "ISO4217-currency_numeric_code": "132",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "5c879544-7ed6-450e-b3fc-e3c7fdadac03",
+    "ISO4217-currency_alphabetic_code": "DOP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Dominican Peso",
+    "ISO4217-currency_numeric_code": "214",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "7f26c203-8bf1-4691-a674-0a029288986f",
+    "ISO4217-currency_alphabetic_code": "SDG",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Sudanese Pound",
+    "ISO4217-currency_numeric_code": "938",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "fa4de7be-e6eb-46e0-a289-d452c0ac301d",
+    "ISO4217-currency_alphabetic_code": "LKR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Sri Lanka Rupee",
+    "ISO4217-currency_numeric_code": "144",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "62a9a277-0ae7-4604-a890-f479cbab4ae9",
+    "ISO4217-currency_alphabetic_code": "THB",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Baht",
+    "ISO4217-currency_numeric_code": "764",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "f5024478-6c1b-4b72-a45e-7c837b58d5c8",
+    "ISO4217-currency_alphabetic_code": "SCR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Seychelles Rupee",
+    "ISO4217-currency_numeric_code": "690",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "853d2ac5-edd7-457a-997d-0553d5f1949a",
+    "ISO4217-currency_alphabetic_code": "HUF",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Forint",
+    "ISO4217-currency_numeric_code": "348",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "719913fd-540b-4781-84b0-f8b71898e3cc",
+    "ISO4217-currency_alphabetic_code": "RON",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Romanian Leu",
+    "ISO4217-currency_numeric_code": "946",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "aaf45dcf-4b45-4447-9753-e4f853eb9085",
+    "ISO4217-currency_alphabetic_code": "YER",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Yemeni Rial",
+    "ISO4217-currency_numeric_code": "886",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "d14fb4f4-7a4d-436e-abee-5335d60057ef",
+    "ISO4217-currency_alphabetic_code": "BSD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Bahamian Dollar",
+    "ISO4217-currency_numeric_code": "044",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "6b4abca1-d0b1-4e1c-86e8-0c1efa621230",
+    "ISO4217-currency_alphabetic_code": "BBD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Barbados Dollar",
+    "ISO4217-currency_numeric_code": "052",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "aa34a2da-7648-4523-b8c2-72ecaedd9e91",
+    "ISO4217-currency_alphabetic_code": "BOB",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Boliviano",
+    "ISO4217-currency_numeric_code": "068",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "8489429b-bf35-41df-ba53-47371c1bfc0d",
+    "ISO4217-currency_alphabetic_code": "BWP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Pula",
+    "ISO4217-currency_numeric_code": "072",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "5eb3b3a2-2ae5-4959-b561-2263ec6548ac",
+    "ISO4217-currency_alphabetic_code": "CAD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Canadian Dollar",
+    "ISO4217-currency_numeric_code": "124",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "1fb50f6c-a45c-4284-be0e-ccd0ecf121a7",
+    "ISO4217-currency_alphabetic_code": "ZMW",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Zambian Kwacha",
+    "ISO4217-currency_numeric_code": "967",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "22deca73-169a-4cae-9b4a-a8fa14414a38",
+    "ISO4217-currency_alphabetic_code": "AOA",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Kwanza",
+    "ISO4217-currency_numeric_code": "973",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "0df3ab9a-1b34-4b51-ae62-4e1c753f4e5d",
+    "ISO4217-currency_alphabetic_code": "CRC",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Costa Rican Colon",
+    "ISO4217-currency_numeric_code": "188",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "0af6c945-7896-493a-aa1a-f2cbd3b4893c",
+    "ISO4217-currency_alphabetic_code": "GNF",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Guinean Franc",
+    "ISO4217-currency_numeric_code": "324",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "114e8a5d-91fe-4b08-b403-b2cbeb910104",
+    "ISO4217-currency_alphabetic_code": "KZT",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Tenge",
+    "ISO4217-currency_numeric_code": "398",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "0232b74b-7838-47ae-b9dd-a290ef6c412c",
+    "ISO4217-currency_alphabetic_code": "PYG",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Guarani",
+    "ISO4217-currency_numeric_code": "600",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "e9429850-6493-4a7d-8b0c-e4c113ad5bfe",
+    "ISO4217-currency_alphabetic_code": "AMD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Armenian Dram",
+    "ISO4217-currency_numeric_code": "051",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "bc38e6b1-9674-4279-9634-345e499c8b74",
+    "ISO4217-currency_alphabetic_code": "HTG",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Gourde",
+    "ISO4217-currency_numeric_code": "332",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "6d321e2b-2f84-430e-ac1c-679fccab3f54",
+    "ISO4217-currency_alphabetic_code": "PAB",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Balboa",
+    "ISO4217-currency_numeric_code": "590",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "a4e8c17f-db16-4352-aedf-05b2dbe79b22",
+    "ISO4217-currency_alphabetic_code": "SSP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "South Sudanese Pound",
+    "ISO4217-currency_numeric_code": "728",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "67fa0942-3c9b-440c-a08f-64514d1b9c00",
+    "ISO4217-currency_alphabetic_code": "NGN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Naira",
+    "ISO4217-currency_numeric_code": "566",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "57132725-c729-4726-bf87-26c3d07d8625",
+    "ISO4217-currency_alphabetic_code": "RSD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Serbian Dinar",
+    "ISO4217-currency_numeric_code": "941",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "1a54d29f-a3f1-438d-9fe6-d818e511c2c5",
+    "ISO4217-currency_alphabetic_code": "TRY",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Turkish Lira",
+    "ISO4217-currency_numeric_code": "949",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "c113d34c-3814-476f-873b-87cdc52e08f0",
+    "ISO4217-currency_alphabetic_code": "AWG",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Aruban Florin",
+    "ISO4217-currency_numeric_code": "533",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "117ab99a-fe37-49c9-bf6e-bba65bd501fd",
+    "ISO4217-currency_alphabetic_code": "CLP",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Chilean Peso",
+    "ISO4217-currency_numeric_code": "152",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "00551084-f94c-450e-bf15-e17f41d97a46",
+    "ISO4217-currency_alphabetic_code": "ANG",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Netherlands Antillean Guilder",
+    "ISO4217-currency_numeric_code": "532",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "44b29007-2db4-49be-9956-322b8778349d",
+    "ISO4217-currency_alphabetic_code": "KES",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Kenyan Shilling",
+    "ISO4217-currency_numeric_code": "404",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "a823fa49-a023-4252-9a9e-fb952119a17c",
+    "ISO4217-currency_alphabetic_code": "MGA",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Malagasy Ariary",
+    "ISO4217-currency_numeric_code": "969",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "19e640bb-e0d6-4c32-8c5c-2bdf7d4d3947",
+    "ISO4217-currency_alphabetic_code": "WST",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Tala",
+    "ISO4217-currency_numeric_code": "882",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "37c8f6ac-d8b1-4007-b013-07c9120d3d75",
+    "ISO4217-currency_alphabetic_code": "VND",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Dong",
+    "ISO4217-currency_numeric_code": "704",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "351cc409-a12c-4a82-95cc-68f2511c1850",
+    "ISO4217-currency_alphabetic_code": "NZD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "New Zealand Dollar",
+    "ISO4217-currency_numeric_code": "554",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "fd515d30-16b7-42ee-a82f-f536a25b38ab",
+    "ISO4217-currency_alphabetic_code": "GEL",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Lari",
+    "ISO4217-currency_numeric_code": "981",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "01673d43-2f2c-408d-8766-f91661f55615",
+    "ISO4217-currency_alphabetic_code": "IDR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Rupiah",
+    "ISO4217-currency_numeric_code": "360",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "825d1c52-5bd7-4cb4-a1a2-b38b1cf84f87",
+    "ISO4217-currency_alphabetic_code": "MUR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Mauritius Rupee",
+    "ISO4217-currency_numeric_code": "480",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "d1538406-38ba-43b1-8b9c-df8f44f05c5c",
+    "ISO4217-currency_alphabetic_code": "MMK",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Kyat",
+    "ISO4217-currency_numeric_code": "104",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "ef91bca1-bd8f-475b-be81-c17897b50fce",
+    "ISO4217-currency_alphabetic_code": "SGD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Singapore Dollar",
+    "ISO4217-currency_numeric_code": "702",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "3912871f-5773-4fd7-ac34-aac7c3b63ce7",
+    "ISO4217-currency_alphabetic_code": "SEK",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Swedish Krona",
+    "ISO4217-currency_numeric_code": "752",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "fba884fc-74d7-4d78-a219-13d1260c576f",
+    "ISO4217-currency_alphabetic_code": "DJF",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Djibouti Franc",
+    "ISO4217-currency_numeric_code": "262",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "f29773e8-a830-4549-b522-35f4b3c7973f",
+    "ISO4217-currency_alphabetic_code": "GYD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Guyana Dollar",
+    "ISO4217-currency_numeric_code": "328",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "cce567d3-0278-4925-8178-778d83850d40",
+    "ISO4217-currency_alphabetic_code": "KWD",
+    "ISO4217-currency_minor_unit": "3",
+    "ISO4217-currency_name": "Kuwaiti Dinar",
+    "ISO4217-currency_numeric_code": "414",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "e8a5e77e-064b-4a50-aaf9-5a7d9d8b02b9",
+    "ISO4217-currency_alphabetic_code": "ZAR",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Rand",
+    "ISO4217-currency_numeric_code": "710",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "76535df7-f7f4-4da9-9e28-bf33291c9c0d",
+    "ISO4217-currency_alphabetic_code": "PLN",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Zloty",
+    "ISO4217-currency_numeric_code": "985",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "328072b6-9ea2-4f27-ba07-a83157031b90",
+    "ISO4217-currency_alphabetic_code": "BAM",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Convertible Mark",
+    "ISO4217-currency_numeric_code": "977",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "3be1781e-5388-492e-a90f-968cd78e3a45",
+    "ISO4217-currency_alphabetic_code": "LYD",
+    "ISO4217-currency_minor_unit": "3",
+    "ISO4217-currency_name": "Libyan Dinar",
+    "ISO4217-currency_numeric_code": "434",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "4b53a493-0002-4291-a412-e529abf62db7",
+    "ISO4217-currency_alphabetic_code": "CHF",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Swiss Franc",
+    "ISO4217-currency_numeric_code": "756",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "3372dc4b-b5da-4601-933e-02e00e08d9ce",
+    "ISO4217-currency_alphabetic_code": "RUB",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Russian Ruble",
+    "ISO4217-currency_numeric_code": "643",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "ff90e14a-2672-4df1-8973-d7302f62e422",
+    "ISO4217-currency_alphabetic_code": "SRD",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Surinam Dollar",
+    "ISO4217-currency_numeric_code": "968",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "8055891a-079d-4629-8a18-5f9174e68063",
+    "ISO4217-currency_alphabetic_code": "TJS",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Somoni",
+    "ISO4217-currency_numeric_code": "972",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "30431a23-5468-4618-9ddc-7108c7e52ac1",
+    "ISO4217-currency_alphabetic_code": "TOP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Pa’anga",
+    "ISO4217-currency_numeric_code": "776",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "bc3946ef-d75a-4cee-8d38-5fec1fa394d1",
+    "ISO4217-currency_alphabetic_code": "MOP",
+    "ISO4217-currency_minor_unit": "2",
+    "ISO4217-currency_name": "Pataca",
+    "ISO4217-currency_numeric_code": "446",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  },
+  {
+    "id": "6da9e4ee-da02-45cc-a071-2509b36034ee",
+    "ISO4217-currency_alphabetic_code": "KMF",
+    "ISO4217-currency_minor_unit": "0",
+    "ISO4217-currency_name": "Comorian Franc",
+    "ISO4217-currency_numeric_code": "174",
+    "created_at": "2020-04-18T03:24:49Z",
+    "updated_at": "2020-04-18T03:24:49Z"
+  }
+]
